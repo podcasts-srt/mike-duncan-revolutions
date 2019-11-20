@@ -1,0 +1,1603 @@
+1
+00:00:01,370 --> 00:00:06,530
+This week's episode is brought to you by Audible, as you know, Audible is the Internet's
+
+2
+00:00:06,530 --> 00:00:11,310
+leading provider of audio entertainment with over 150000 titles to choose from.
+
+3
+00:00:11,960 --> 00:00:16,190
+When you're done with this episode, go to Audible Podcast dot com forward slash
+
+4
+00:00:16,310 --> 00:00:21,530
+revolutions that again, audible podcast, dot com forward slash revolutions.
+
+5
+00:00:22,450 --> 00:00:25,130
+By going to that address, you qualify for free ebook download.
+
+6
+00:00:25,130 --> 00:00:29,510
+When you sign up for a 30 day trial membership, there is no obligation to continue the
+
+7
+00:00:29,510 --> 00:00:32,570
+service and you can cancel anytime and keep the free book.
+
+8
+00:00:33,230 --> 00:00:37,160
+You can also keep going with one of the monthly subscription options and get great deals
+
+9
+00:00:37,160 --> 00:00:39,200
+on all future audio book purchases.
+
+10
+00:00:40,730 --> 00:00:45,500
+This time, I'm going to go with a double feature as both will be relevant for our latest
+
+11
+00:00:45,500 --> 00:00:52,400
+revolution 1776 by David McCullough, recommended by listener MC Sean and Common Sense by
+
+12
+00:00:52,400 --> 00:00:55,460
+Thomas Paine, recommended by listener Mia L..
+
+13
+00:00:55,910 --> 00:00:57,560
+Hopefully I'm pronouncing both of those right.
+
+14
+00:00:58,400 --> 00:01:03,500
+I haven't actually read 1776, but McCullough's other stuff has always been top notch and
+
+15
+00:01:03,500 --> 00:01:08,390
+common sense is, of course, one of the foundational texts of the American Revolution and
+
+16
+00:01:08,390 --> 00:01:10,370
+everyone ought to go through it at least once.
+
+17
+00:01:11,090 --> 00:01:15,800
+So when you're done with this episode, go to audible podcast dot com forward slash
+
+18
+00:01:15,800 --> 00:01:18,410
+revolutions so that they know who sent you.
+
+19
+00:01:24,820 --> 00:01:27,670
+Hello and welcome to revolutions.
+
+20
+00:01:32,400 --> 00:01:33,630
+Episode 17.
+
+21
+00:01:39,030 --> 00:01:40,780
+Ok. Welcome back to the show.
+
+22
+00:01:41,320 --> 00:01:45,820
+We are now, as you know, jumping a hundred years forward and three thousand miles to the
+
+23
+00:01:45,820 --> 00:01:51,190
+left to play out the tumultuous drama of the American Revolution, a tumultuous drama that
+
+24
+00:01:51,190 --> 00:01:56,620
+occasionally parallels and sometimes even explicitly recalls the tumultuous drama of the
+
+25
+00:01:56,620 --> 00:02:01,840
+English Revolution. But before we can get into the guts of it, we need to do a survey of
+
+26
+00:02:01,840 --> 00:02:03,430
+the stage and the players.
+
+27
+00:02:03,670 --> 00:02:10,090
+So today we'll do a quick and necessarily blunt tour of colonial North America who live
+
+28
+00:02:10,120 --> 00:02:11,830
+there. Why did they live there?
+
+29
+00:02:12,190 --> 00:02:13,960
+What did they do when they got there?
+
+30
+00:02:14,770 --> 00:02:18,250
+Then we can get into the good stuff about the colonists going crazy after parliament
+
+31
+00:02:18,250 --> 00:02:21,790
+started randomly taxing stuff at the end of the French and Indian War.
+
+32
+00:02:24,560 --> 00:02:29,630
+Broadly speaking, we divide the future United States into three big colonial chunks.
+
+33
+00:02:30,140 --> 00:02:35,480
+New England, the middle colonies and the southern colonies above New England was French
+
+34
+00:02:35,480 --> 00:02:38,360
+Canada and below Georgia with Spanish Florida.
+
+35
+00:02:38,840 --> 00:02:41,740
+There is a map of all this that revolutions podcast dot com.
+
+36
+00:02:42,170 --> 00:02:44,390
+For those of you who would like to follow along at home.
+
+37
+00:02:45,350 --> 00:02:49,550
+Now, each of these colonial regions was settled at a different time and for different
+
+38
+00:02:49,550 --> 00:02:53,960
+reasons. And on the eve of the revolution, the inhabitants of each lived very different
+
+39
+00:02:53,960 --> 00:02:54,980
+lives from one another.
+
+40
+00:02:55,490 --> 00:02:59,180
+Indeed, one of the great feats of the revolution was binding together.
+
+41
+00:02:59,180 --> 00:03:04,130
+The separate colonies into a single unit, something many revolutionary leaders feared was
+
+42
+00:03:04,160 --> 00:03:08,030
+impossible starting up in the North.
+
+43
+00:03:08,240 --> 00:03:13,970
+We have New England, which includes Massachusetts, Connecticut, New Hampshire and Rhode
+
+44
+00:03:13,970 --> 00:03:18,230
+Island. These days, New England also includes Maine and Vermont.
+
+45
+00:03:18,590 --> 00:03:22,430
+But on the eve of the revolution, Maine was still a part of Massachusetts, and Vermont
+
+46
+00:03:22,430 --> 00:03:26,870
+was populated by a bunch of unruly squatters who had not yet succeeded in breaking away
+
+47
+00:03:26,870 --> 00:03:32,480
+from New York. For our purposes, colonization of New England is a nice place to start
+
+48
+00:03:32,750 --> 00:03:36,770
+because it is an offshoot of the same Puritan movement that eventually led to the English
+
+49
+00:03:36,770 --> 00:03:38,240
+civil wars that we just covered.
+
+50
+00:03:39,470 --> 00:03:44,810
+Shortly after King James, the first came to power, a group of Puritan separatists decided
+
+51
+00:03:44,810 --> 00:03:49,550
+they couldn't hack the ungodly ways of the Church of England anymore and decamped for the
+
+52
+00:03:49,550 --> 00:03:54,410
+Netherlands. But a decade in Holland only convinced this congregation that Dutch was a
+
+53
+00:03:54,410 --> 00:03:55,820
+really hard language to learn.
+
+54
+00:03:56,210 --> 00:04:01,730
+And my 16/17, they got it into their heads to maybe start over again in the new world, as
+
+55
+00:04:01,730 --> 00:04:06,290
+we'll see in a moment. The English had by now planted a permanent settlement at Jamestown
+
+56
+00:04:06,320 --> 00:04:11,630
+in Virginia, and the Puritan dissenters applied for and received permission to set up a
+
+57
+00:04:11,630 --> 00:04:13,550
+colony of their own in Virginia.
+
+58
+00:04:14,330 --> 00:04:19,340
+But of course, when the first hundred colonists known to all American schoolchildren as
+
+59
+00:04:19,550 --> 00:04:24,350
+the pilgrims set sail on the Mayflower and 16 twenty, they were blown off course and
+
+60
+00:04:24,350 --> 00:04:26,430
+wound up landing on Cape Cod instead.
+
+61
+00:04:27,410 --> 00:04:31,070
+Undeterred, they elected to stay and found the Plymouth comedy.
+
+62
+00:04:32,390 --> 00:04:36,410
+The early years were, of course, tough for our fanatical Puritans, but with the help of
+
+63
+00:04:36,410 --> 00:04:40,520
+some friendly American Indians, they managed to survive, establish the permanence of the
+
+64
+00:04:40,520 --> 00:04:44,270
+colony and invite their brethren to follow and follow.
+
+65
+00:04:44,360 --> 00:04:48,200
+Their brethren did between sixteen, twenty eight and sixteen forty two.
+
+66
+00:04:48,200 --> 00:04:51,860
+About twenty thousand Puritans abandoned England for the new world.
+
+67
+00:04:52,460 --> 00:04:57,440
+And of course, as we all know by now, that period corresponds exactly to the era of
+
+68
+00:04:57,440 --> 00:05:01,910
+personal rule when both the monarchy and the church started drifting in a tyrannical
+
+69
+00:05:01,910 --> 00:05:04,280
+direction, at least according to the pittance.
+
+70
+00:05:05,270 --> 00:05:09,050
+There is even a nice little story that I passed over that during the early days of the
+
+71
+00:05:09,050 --> 00:05:14,840
+long parliament. An obscure backbench MP all over Craughwell noted that had Parliament
+
+72
+00:05:14,840 --> 00:05:19,430
+not passed the grand remonstrance in sixteen forty two, that he and his friends were
+
+73
+00:05:19,430 --> 00:05:24,680
+prepared to pack up and move to America, which means that world history was about 10
+
+74
+00:05:24,680 --> 00:05:31,940
+votes shy of all over Kromm while becoming an American as the Puritan diaspora continued
+
+75
+00:05:31,940 --> 00:05:33,080
+through the sixteen thirties.
+
+76
+00:05:33,350 --> 00:05:35,690
+The other core New England colonies were founded.
+
+77
+00:05:36,170 --> 00:05:40,280
+Connecticut came along officially in sixteen thirty six, founded by men looking for a
+
+78
+00:05:40,280 --> 00:05:43,550
+little more religious freedom than the men running Massachusetts allowed.
+
+79
+00:05:44,000 --> 00:05:47,720
+Because remember, religious freedom doesn't really mean religious freedom.
+
+80
+00:05:49,100 --> 00:05:53,870
+Shortly thereafter, the Earl of Work granted a patent to Lordes Brooke, and saying cele
+
+81
+00:05:54,170 --> 00:05:56,720
+to establish a settlement in Connecticut called Saybrook.
+
+82
+00:05:57,290 --> 00:06:01,250
+And as you'll recall, all three of those guys were in the inner circle of the
+
+83
+00:06:01,250 --> 00:06:03,760
+parliamentary revolt against Charles the first.
+
+84
+00:06:04,310 --> 00:06:08,420
+So the connections between New England and the men who were about to start a war with the
+
+85
+00:06:08,420 --> 00:06:10,700
+king ran very deep.
+
+86
+00:06:12,920 --> 00:06:17,870
+The little colony of Rhode Island was also founded in 16 36 by a guy named Roger
+
+87
+00:06:17,870 --> 00:06:22,070
+Williams, who was looking for more religious freedom than the men running Massachusetts
+
+88
+00:06:22,070 --> 00:06:26,900
+allowed. Rhode Island was the smallest colony and is the smallest state.
+
+89
+00:06:27,500 --> 00:06:31,640
+And it wound up being populated by a group of obnoxious free thinkers who just didn't fit
+
+90
+00:06:31,640 --> 00:06:37,970
+in anywhere else. As a result, Rhode Island tended to go its own way, as we will see.
+
+91
+00:06:38,360 --> 00:06:42,590
+They were very difficult to convince of the utility of non importation agreements.
+
+92
+00:06:43,040 --> 00:06:47,000
+They were the first colony then to declare independence from Britain and the last state
+
+93
+00:06:47,000 --> 00:06:48,110
+to ratify the U.S.
+
+94
+00:06:48,110 --> 00:06:51,950
+Constitution. There is just no accounting for Rhode Island.
+
+95
+00:06:53,650 --> 00:06:57,550
+Finally, we have New Hampshire, which started being settled shortly after Massachusetts
+
+96
+00:06:57,930 --> 00:07:00,700
+and basically became its own thing after 16 twenty nine.
+
+97
+00:07:01,030 --> 00:07:05,500
+Though the on-again off-again political connection to Massachusetts wouldn't be settled
+
+98
+00:07:05,500 --> 00:07:06,910
+until 16 ninety one.
+
+99
+00:07:07,570 --> 00:07:12,040
+New Hampshire was defined predominantly by small farming hamlets cut off from each other
+
+100
+00:07:12,190 --> 00:07:16,050
+by the local terrain economically.
+
+101
+00:07:16,540 --> 00:07:21,100
+The New England colonies were limited by the harsh land they planted themselves on, land
+
+102
+00:07:21,400 --> 00:07:25,450
+that would never support the kind of huge cash crop plantations that were growing up in
+
+103
+00:07:25,450 --> 00:07:30,130
+the southern colonies. So through the colonial period, they survived on small plots of
+
+104
+00:07:30,130 --> 00:07:34,630
+land for food and started to engage in trans-Atlantic trade with England, mostly
+
+105
+00:07:34,630 --> 00:07:38,080
+providing fish, lumber and fur to the mother country.
+
+106
+00:07:39,430 --> 00:07:41,800
+Through it all, the New Englanders a setting.
+
+107
+00:07:41,800 --> 00:07:47,050
+Rhode Island, of course, ran quasi democratic communities dominated by church leaders who
+
+108
+00:07:47,050 --> 00:07:50,500
+were trying to put into practice beliefs that had been stifled in England.
+
+109
+00:07:51,070 --> 00:07:55,300
+There were more than a few Puritans on both side of the Atlantic who saw the colonies as
+
+110
+00:07:55,300 --> 00:07:58,270
+a laboratory for ideas that could be put into practice.
+
+111
+00:07:58,600 --> 00:08:02,320
+Back in England. But of course, the restoration put an end to all that.
+
+112
+00:08:02,650 --> 00:08:06,790
+And rather than being the vanguard of a pure revolution in England, New England became
+
+113
+00:08:06,790 --> 00:08:11,770
+something of a time capsule as England resettled into its old, familiar traditions.
+
+114
+00:08:13,270 --> 00:08:17,980
+The dominant city of New England was, of course, Boston first settled in 16:30 and soon
+
+115
+00:08:17,980 --> 00:08:22,450
+became one of the main trading centres in North America as the surrounding towns and
+
+116
+00:08:22,450 --> 00:08:26,830
+villages shipped their produce overland to Boston for transit back to England.
+
+117
+00:08:27,640 --> 00:08:32,020
+On the eve of the revolution, Boston had a population of about 15000 and believe it or
+
+118
+00:08:32,020 --> 00:08:34,930
+not, they were not all fire-breathing radicals.
+
+119
+00:08:37,380 --> 00:08:43,800
+Moving south, we find the middle colonies, New York, New Jersey, Pennsylvania and
+
+120
+00:08:43,800 --> 00:08:49,100
+Delaware. The middle colonies were settled under very different circumstances from New
+
+121
+00:08:49,100 --> 00:08:52,730
+England and under different circumstances from each other.
+
+122
+00:08:54,230 --> 00:08:58,590
+New York was, of course, initially populated by the Dutch who arrived in 16 13.
+
+123
+00:08:59,090 --> 00:09:03,650
+In between the founding of Jamestown and the founding of Plymouth, Dutch interest was
+
+124
+00:09:03,650 --> 00:09:04,880
+focused on the fur trade.
+
+125
+00:09:05,270 --> 00:09:09,230
+And they built a series of forts up the Hudson River to barter with the native Indians
+
+126
+00:09:09,230 --> 00:09:12,980
+for the lucrative furs in sixteen twenty six.
+
+127
+00:09:13,370 --> 00:09:17,900
+The leader of the Dutch merchants allegedly purchased the island of Manhattan for 60
+
+128
+00:09:17,900 --> 00:09:22,760
+Dutch guilders. Though the details of that deal are way more complicated than the old
+
+129
+00:09:22,760 --> 00:09:26,420
+legend about buying Manhattan for twenty four dollars worth of beads.
+
+130
+00:09:27,470 --> 00:09:31,580
+Anyway, the Dutch built New Amsterdam on the southern tip of the island serve as the
+
+131
+00:09:31,580 --> 00:09:33,290
+capital of the New Netherlands.
+
+132
+00:09:35,000 --> 00:09:37,640
+But the Dutch hold in North America was always precarious.
+
+133
+00:09:38,050 --> 00:09:41,780
+And after a series of wars with Britain, the New Netherlands were handed over to the
+
+134
+00:09:41,840 --> 00:09:43,530
+English in 16 74.
+
+135
+00:09:44,510 --> 00:09:48,800
+In exchange, the Dutch got to hold Suriname, which probably seemed like a better deal at
+
+136
+00:09:48,800 --> 00:09:50,450
+the time than it does today.
+
+137
+00:09:51,650 --> 00:09:56,990
+The English promptly renamed Everything New York after James Duke of York The Future
+
+138
+00:09:56,990 --> 00:10:02,540
+James the Second. Aside from the trade operating out of the now renamed New York City,
+
+139
+00:10:03,080 --> 00:10:08,060
+the economy of New York was dominated by huge, essentially feudal estates up the Hudson
+
+140
+00:10:08,060 --> 00:10:12,710
+River, where the landlords were able to wield extensive legal power over their tenants.
+
+141
+00:10:14,590 --> 00:10:16,910
+South of New York was New Jersey.
+
+142
+00:10:17,660 --> 00:10:22,640
+Starting in 16 38, the area was actually colonized by the Swedes and called New Sweden
+
+143
+00:10:23,000 --> 00:10:28,220
+until it was absorbed by the Dutch in 16 55, who then handed it over to the English in 16
+
+144
+00:10:28,230 --> 00:10:33,480
+74. King Charles, the second then gave it to his brother James as a gift.
+
+145
+00:10:33,870 --> 00:10:39,120
+And James turned the territory into a proprietary colony wherein huge tracts of land are
+
+146
+00:10:39,120 --> 00:10:43,800
+handed over to individuals or corporations who then act as a sort of private government.
+
+147
+00:10:45,150 --> 00:10:50,280
+Colonial New Jersey wound up being defined by a running conflict between small holding
+
+148
+00:10:50,280 --> 00:10:54,630
+farmers who trace their claims back to the initial Dutch and Swedish settlements and the
+
+149
+00:10:54,630 --> 00:10:59,310
+newly arrived English aristocracy who traced their claims to the proprietary grants from
+
+150
+00:10:59,310 --> 00:11:05,880
+the King. It was a conflict that would run right into and then get merged with the unrest
+
+151
+00:11:05,940 --> 00:11:11,310
+of the revolution. New Jersey would be reorganized as a royal colony.
+
+152
+00:11:11,430 --> 00:11:16,950
+That is one directly under the crown in 1:43, which I mention, so that I can mention that
+
+153
+00:11:16,950 --> 00:11:22,290
+the first royal governor of New Jersey was none other than Edward Hyde, the third Earl of
+
+154
+00:11:22,290 --> 00:11:27,270
+Clarendon, grandson of the Edward Hyde, who was so instrumental in the history of the
+
+155
+00:11:27,270 --> 00:11:28,290
+English Revolution.
+
+156
+00:11:28,920 --> 00:11:32,940
+Of course, this Edward Hyde wound up being so corrupt that he was stripped of his title
+
+157
+00:11:32,940 --> 00:11:37,740
+in 1788, whereupon New Jersey was governed by New York for the next 30 years.
+
+158
+00:11:39,640 --> 00:11:44,230
+Speaking of proprietary colonies, the biggest was established right next door to New
+
+159
+00:11:44,230 --> 00:11:50,020
+Jersey in sixteen eighty one to clear out old debts to the Penn family.
+
+160
+00:11:50,500 --> 00:11:55,270
+Charles the second granted William Penn control of an enormous tract of land in the new
+
+161
+00:11:55,270 --> 00:11:56,790
+world, making pan.
+
+162
+00:11:56,790 --> 00:12:01,870
+the single largest landowner in terms of square miles of any man in the British Empire.
+
+163
+00:12:03,180 --> 00:12:07,980
+William Penn was also a Quaker, one of those dissenting sacks that had flourished in the
+
+164
+00:12:07,980 --> 00:12:09,870
+chaos of 17th century England.
+
+165
+00:12:10,650 --> 00:12:14,220
+But now, though, the Quakers were defined mostly by their quiet pacifism.
+
+166
+00:12:14,580 --> 00:12:19,050
+And it was along those lines that Penn founded his colony, achieving probably the most
+
+167
+00:12:19,050 --> 00:12:23,280
+enlightened relationship with the native Indians of any of the North American colonies.
+
+168
+00:12:24,120 --> 00:12:29,700
+Though in time that pacifism became a huge sticking point because many of the settlers
+
+169
+00:12:29,700 --> 00:12:31,770
+who started filling up the colony were not Quakers.
+
+170
+00:12:32,190 --> 00:12:36,420
+Many indeed were German Lutherans settling on the western edges who dealt constantly with
+
+171
+00:12:36,450 --> 00:12:42,150
+Indian attacks. The tension within Pennsylvania between the Quaker leadership and
+
+172
+00:12:42,180 --> 00:12:46,920
+everyone else came to a head in a series of political battles that saw the Quakers
+
+173
+00:12:46,920 --> 00:12:51,300
+essentially admit that their principles were incompatible with the rough business of
+
+174
+00:12:51,360 --> 00:12:52,380
+actual governance.
+
+175
+00:12:54,430 --> 00:12:59,380
+Pennsylvania also boasted the city of Philadelphia, which on the eve of the revolution
+
+176
+00:12:59,380 --> 00:13:05,740
+had a population just north of 30000, was the largest and most cosmopolitan city in North
+
+177
+00:13:05,740 --> 00:13:10,600
+America, thanks in no small part to the efforts of its most famous citizen, Benjamin
+
+178
+00:13:10,600 --> 00:13:15,310
+Franklin, who I assure you we are about to have extensive dealings with.
+
+179
+00:13:17,460 --> 00:13:21,840
+The last of the middle colonies was Delaware and is the one that earns you trivia.
+
+180
+00:13:21,870 --> 00:13:26,670
+Bonus points, if you say that technically there were only 12 original colonies, not 13,
+
+181
+00:13:27,420 --> 00:13:32,540
+because Delaware, known as the three lower counties, were included in the sixteen eighty
+
+182
+00:13:32,540 --> 00:13:34,200
+one land grant to William Penn.
+
+183
+00:13:34,740 --> 00:13:39,060
+Though Penn quickly saw the utility of allowing the lower counties their own legislative
+
+184
+00:13:39,060 --> 00:13:43,950
+assembly, its attachment to Pennsylvania was always a little strange because as you can
+
+185
+00:13:43,950 --> 00:13:47,820
+see from the map, if anything, Delaware should have been a part of Maryland.
+
+186
+00:13:48,120 --> 00:13:53,070
+But it wasn't. And though it was technically a part of Pennsylvania, it achieved more
+
+187
+00:13:53,070 --> 00:13:56,370
+than enough de facto autonomy to be considered by everyone.
+
+188
+00:13:56,490 --> 00:13:59,550
+Both past and present to be its own colony.
+
+189
+00:14:01,230 --> 00:14:05,040
+The economy of the middle colonies was a mix of agriculture and trade.
+
+190
+00:14:05,610 --> 00:14:09,600
+The land was better than New England, and the barons of Hudson Valley, for example, were
+
+191
+00:14:09,600 --> 00:14:12,060
+able to run their operations like little kingdoms.
+
+192
+00:14:12,960 --> 00:14:17,280
+The Western frontier became populated with smallholder farmers, while the coastal areas
+
+193
+00:14:17,280 --> 00:14:21,390
+became dominated by merchants operating out of New York City and Philadelphia.
+
+194
+00:14:22,320 --> 00:14:25,920
+These two groups did not necessarily see eye to eye on how to run things.
+
+195
+00:14:26,400 --> 00:14:29,950
+The Western farmers always chafing under the thumb of the coastal elites.
+
+196
+00:14:30,680 --> 00:14:34,020
+That is to say, nothing, of course, of the battles fought between the colonies themselves
+
+197
+00:14:34,470 --> 00:14:39,570
+over boundary lines and access to resources as migrating families simply settled places
+
+198
+00:14:39,570 --> 00:14:41,910
+and dared anyone to try to kick them off.
+
+199
+00:14:44,790 --> 00:14:50,250
+So finally, we come to the southern colonies, Virginia, North Carolina, South Carolina
+
+200
+00:14:50,520 --> 00:14:54,600
+and Georgia, with Maryland sort of hanging out as a border state.
+
+201
+00:14:55,740 --> 00:14:59,910
+The southern colonies, of course, developed a very different and far more pernicious
+
+202
+00:15:00,360 --> 00:15:01,860
+social and economic life.
+
+203
+00:15:02,490 --> 00:15:04,800
+But even still, there were differences among them.
+
+204
+00:15:06,510 --> 00:15:09,960
+First, we'll clear out the unique border colony of Maryland.
+
+205
+00:15:10,380 --> 00:15:14,850
+The land for which was handed over to the family of Lord Baltimore in 16 32.
+
+206
+00:15:16,020 --> 00:15:21,000
+Lord Baltimore was a devout Catholic, and he saw Maryland, which was probably named after
+
+207
+00:15:21,000 --> 00:15:25,950
+Queen Henrietta Maria, Catholic, wife of Charles, the first as a refuge for his rich
+
+208
+00:15:25,980 --> 00:15:31,110
+Catholic buddies. Because as much as the Puritans of England saw King Charles and
+
+209
+00:15:31,110 --> 00:15:35,790
+Archbishop Lott engaged in some popish plot, the Catholics of England knew better.
+
+210
+00:15:36,380 --> 00:15:38,880
+And like the Puritans on the other side of the religious spectrum.
+
+211
+00:15:39,300 --> 00:15:42,960
+Lord Baltimore saw the new world as a place to escape persecution.
+
+212
+00:15:43,770 --> 00:15:49,080
+But soon enough that original intent was washed away by the flood of Protestant settlers.
+
+213
+00:15:49,080 --> 00:15:50,790
+Coming up mostly from Virginia.
+
+214
+00:15:51,540 --> 00:15:56,480
+By sixteen forty nine, Baltimore had to give way, and he granted freedom of worship,
+
+215
+00:15:57,000 --> 00:16:01,730
+making Maryland the second colony after, you guessed it, Rhode Island to do so.
+
+216
+00:16:03,870 --> 00:16:09,100
+The great colony of the South and indeed the great colony of British North America was,
+
+217
+00:16:09,100 --> 00:16:13,240
+of course, Virginia, occasionally known as the Prussia of America.
+
+218
+00:16:14,620 --> 00:16:20,170
+By the time of the revolution, it would be the oldest, largest, richest and most populous
+
+219
+00:16:20,170 --> 00:16:21,430
+colony in North America.
+
+220
+00:16:22,090 --> 00:16:23,770
+And its leaders knew it.
+
+221
+00:16:25,440 --> 00:16:30,030
+After the mysterious false start that is the lost colony of Roanoke, a new settlement
+
+222
+00:16:30,030 --> 00:16:34,200
+called Jamestown was constructed beside the James River in 6:44.
+
+223
+00:16:35,460 --> 00:16:39,690
+For those of you who are interested in the whole sordid history of early Virginia should
+
+224
+00:16:39,690 --> 00:16:44,460
+read American Slavery, American Freedom by Edmund Morgan, which has surprisingly little
+
+225
+00:16:44,460 --> 00:16:48,990
+to say about slavery, but a great deal about the struggles, failures and hardships of
+
+226
+00:16:48,990 --> 00:16:54,210
+seventeenth century Virginia, including their persistent inability to grow enough food to
+
+227
+00:16:54,210 --> 00:16:58,380
+live despite having planted themselves in some of the most fertile soil in the world.
+
+228
+00:16:59,340 --> 00:17:04,080
+Initially, this was the result of the colonists themselves, a mix of indentured servants
+
+229
+00:17:04,080 --> 00:17:07,620
+and gentleman adventurers just not doing what it took to survive.
+
+230
+00:17:08,340 --> 00:17:12,870
+But then John Roffe discovered the miracle of tobacco, which became the cash crop of
+
+231
+00:17:12,870 --> 00:17:13,890
+British North America.
+
+232
+00:17:14,610 --> 00:17:17,700
+From then on, it wasn't so much about screwing around when you were supposed to be
+
+233
+00:17:17,700 --> 00:17:22,650
+working so much as refusing to be distracted from tobacco long enough to grow some food.
+
+234
+00:17:24,340 --> 00:17:29,560
+So early Virginia was a mess, but by the seventeen hundreds it had established itself as
+
+235
+00:17:29,560 --> 00:17:34,480
+the Old Dominion. And more than any other colony resembled the socioeconomic structure of
+
+236
+00:17:34,540 --> 00:17:38,860
+England with large landowners, really a collection of about one hundred families
+
+237
+00:17:39,280 --> 00:17:44,440
+dominating a population of indebted freeholders, indentured servants and African slaves.
+
+238
+00:17:45,550 --> 00:17:50,290
+These large landowners propped up the established Anglican Church, Virginia being the one
+
+239
+00:17:50,290 --> 00:17:53,020
+place in North America that the Church of England really took root.
+
+240
+00:17:53,610 --> 00:17:58,000
+And they all believe mightily in their rights as Englishmen, especially their right as
+
+241
+00:17:58,000 --> 00:17:59,230
+gentlemen landlords.
+
+242
+00:18:00,820 --> 00:18:05,500
+But the truly defining feature of economic life in Virginia, besides the complete
+
+243
+00:18:05,500 --> 00:18:11,170
+reliance on tobacco as both export commodity and means of internal exchange, was that
+
+244
+00:18:11,170 --> 00:18:16,060
+everyone from the largest plantation owner to the smallest little freeholder was deeply
+
+245
+00:18:16,060 --> 00:18:20,410
+in debt. Everyone bought on liberally extended credit from England.
+
+246
+00:18:20,790 --> 00:18:23,380
+They would always come due with the next tobacco crop.
+
+247
+00:18:24,200 --> 00:18:26,650
+And this caused more than a little tension.
+
+248
+00:18:26,920 --> 00:18:34,600
+I promise you. South of Virginia were the Carolinas founded in sixteen twenty nine and
+
+249
+00:18:34,600 --> 00:18:36,850
+named after our old friend Charles the first.
+
+250
+00:18:37,810 --> 00:18:41,110
+Carolina was established initially as one big proprietary colony.
+
+251
+00:18:41,620 --> 00:18:46,210
+But in 1712, the disaffected northern settlements broke away and the territory was
+
+252
+00:18:46,210 --> 00:18:49,210
+reformed as North Carolina and South Carolina.
+
+253
+00:18:50,690 --> 00:18:55,010
+Initially, the Carolinas followed the Virginia path in to plantation tobacco with a
+
+254
+00:18:55,010 --> 00:18:57,170
+smattering of pitch and lumber thrown in there.
+
+255
+00:18:57,890 --> 00:19:01,880
+But eventually South Carolina became deeply involved in the cultivation of rice in
+
+256
+00:19:01,970 --> 00:19:07,940
+Indigo. A newly discovered plant that was being used for dye, both commodities unique to
+
+257
+00:19:07,940 --> 00:19:11,360
+South Carolina will become sticking points in the Continental Congress.
+
+258
+00:19:11,570 --> 00:19:14,180
+As the Pan Colonial Alliance was taking shape.
+
+259
+00:19:15,480 --> 00:19:16,870
+South Carolina also house.
+
+260
+00:19:16,920 --> 00:19:19,680
+The only real city in the South Charleston.
+
+261
+00:19:20,070 --> 00:19:25,230
+Named after Guess Who, which grew to about 10000 people as the revolution broke out.
+
+262
+00:19:26,250 --> 00:19:30,540
+Now, the reason the southern colonies never developed major urban centers like the
+
+263
+00:19:30,540 --> 00:19:35,880
+northern colonies did was because the region had so many deep navigable rivers that any
+
+264
+00:19:35,880 --> 00:19:40,530
+landowner could just throw up a dock without needing to ship his commodity overland to a
+
+265
+00:19:40,530 --> 00:19:45,600
+central hub like they had to do up in the north with Boston, New York or Philadelphia.
+
+266
+00:19:47,640 --> 00:19:53,970
+South of the Carolinas was Georgia the last colony established, not founded until 1733.
+
+267
+00:19:54,690 --> 00:19:59,850
+Georgia was a proprietary colony dreamed up by James Oglethorpe and a group of benevolent
+
+268
+00:19:59,850 --> 00:20:05,340
+utopians who saw the colony as a way to rehabilitate and put to good use the desperate
+
+269
+00:20:05,340 --> 00:20:06,390
+poor of England.
+
+270
+00:20:07,650 --> 00:20:13,110
+But their excruciatingly detailed plans for how land would be allocated, what you could
+
+271
+00:20:13,110 --> 00:20:19,170
+grow, what you could import, and what you could export ran smack into the reality of,
+
+272
+00:20:19,350 --> 00:20:24,990
+well, life in Georgia, which was, for example, not conducive to growing silk, which the
+
+273
+00:20:24,990 --> 00:20:30,090
+proprietors of Georgia were convinced the colony ought to be hemorrhaging by now, facing
+
+274
+00:20:30,150 --> 00:20:31,410
+almost certain destruction.
+
+275
+00:20:31,770 --> 00:20:36,750
+Many of the poor colonies shipped over found life in Oglethorpe Utopia dangerously rigid
+
+276
+00:20:37,230 --> 00:20:39,660
+and fled to the relative freedom of Carolina.
+
+277
+00:20:40,440 --> 00:20:45,450
+The proprietors of Georgia finally gave up and 1752 and handed control of the colony back
+
+278
+00:20:45,450 --> 00:20:52,020
+to the crown. So in broad terms, that covers where the colonies came from, then a little
+
+279
+00:20:52,020 --> 00:20:55,470
+bit of what they were up to economically by the time the revolution broke out.
+
+280
+00:20:56,820 --> 00:21:00,510
+It is important to always remember as we walk through this, though, that the colonies
+
+281
+00:21:00,510 --> 00:21:05,460
+were very much separate entities from each other and they bickered constantly over land
+
+282
+00:21:05,720 --> 00:21:10,710
+and boundaries and access to resources, really only their shared attachment to England
+
+283
+00:21:10,710 --> 00:21:17,010
+uniting them. But there was at least one big similarity between them all their distance
+
+284
+00:21:17,010 --> 00:21:21,060
+from the mother country and said mother country's disinterest in them.
+
+285
+00:21:21,390 --> 00:21:25,800
+After all, we are talking about a collection of dissenters, secretaries and poor debtors
+
+286
+00:21:26,500 --> 00:21:29,820
+led them all to enjoy a great deal of local political autonomy.
+
+287
+00:21:30,810 --> 00:21:35,580
+Every colony had some kind of central assembly that engaged in practical administration,
+
+288
+00:21:35,850 --> 00:21:39,720
+dispensing of justice and, of course, taxing the inhabitants.
+
+289
+00:21:40,750 --> 00:21:45,070
+It should not be underestimated just how much the roughly century and a half of English
+
+290
+00:21:45,070 --> 00:21:47,980
+neglect influenced the course of the American Revolution.
+
+291
+00:21:48,880 --> 00:21:54,370
+It certainly helped transform some pretty innocuous taxes into a belief that tyranny and
+
+292
+00:21:54,370 --> 00:21:56,320
+slavery were just around the corner.
+
+293
+00:21:58,180 --> 00:22:02,770
+And that Segways us nicely into a discussion of the two groups we haven't talked about
+
+294
+00:22:02,770 --> 00:22:07,990
+yet, but who represent the deep hypocrisy that unfortunately lies at the heart of the
+
+295
+00:22:07,990 --> 00:22:09,160
+American Revolution.
+
+296
+00:22:10,000 --> 00:22:12,580
+Slaves and American Indians.
+
+297
+00:22:14,280 --> 00:22:19,590
+How can we reconcile the ideology of liberty and equality that fueled the revolution with
+
+298
+00:22:19,590 --> 00:22:24,630
+an all but genocidal policy towards the Indians and the stark reality of African slavery?
+
+299
+00:22:25,560 --> 00:22:28,140
+The answer is you can't really.
+
+300
+00:22:28,560 --> 00:22:35,820
+At least I can't. It's just something that is unavoidably there to take the American
+
+301
+00:22:35,880 --> 00:22:41,160
+Indians first. We obviously can't dive into a comprehensive history of native peoples in
+
+302
+00:22:41,160 --> 00:22:45,450
+the new world because for one, we're talking about dozens of individual tribes and
+
+303
+00:22:45,450 --> 00:22:51,540
+nations ranging from frozen Canada down to swampy Florida, the Iroquois, Shawnee,
+
+304
+00:22:51,660 --> 00:22:56,520
+Cherokee. These are all major nations with rich and unique histories all their own.
+
+305
+00:22:57,690 --> 00:23:02,070
+But what they shared in common was an encounter with Europeans that generally followed a
+
+306
+00:23:02,070 --> 00:23:04,410
+similar trajectory in all the colonies.
+
+307
+00:23:05,250 --> 00:23:09,870
+The first white men appear in small numbers and find themselves incapable of surviving in
+
+308
+00:23:09,870 --> 00:23:15,060
+the new world. These helpless colonists make contact with the local tribes and often
+
+309
+00:23:15,060 --> 00:23:17,400
+begin exchanging commercial products for food.
+
+310
+00:23:18,300 --> 00:23:21,710
+Once the European settlers establish themselves, more colonists arrive.
+
+311
+00:23:22,230 --> 00:23:26,520
+Indian land is encroached upon, leading to internment and an increasingly bitter
+
+312
+00:23:26,520 --> 00:23:29,340
+skirmishes and or massacres on both sides.
+
+313
+00:23:30,240 --> 00:23:35,550
+Then a combination of numbers, firepower and disease lead the Europeans to pretty quickly
+
+314
+00:23:35,550 --> 00:23:38,730
+get the upper hand and the Indians get pushed west.
+
+315
+00:23:40,170 --> 00:23:44,640
+By the mid seventeen hundreds, the Indians have been pretty well pushed off the eastern
+
+316
+00:23:44,640 --> 00:23:49,710
+seaboard, but they were able to maintain some kind of independence sovereignty by playing
+
+317
+00:23:49,710 --> 00:23:51,540
+the British off the French.
+
+318
+00:23:52,530 --> 00:23:56,850
+As long as there were two imperial powers competing for the fur trade and the affection
+
+319
+00:23:56,850 --> 00:23:59,790
+of the tribes. There was hope of national survival.
+
+320
+00:24:00,410 --> 00:24:04,920
+Certainly hope that the British American colonists would be confined to the land east of
+
+321
+00:24:04,920 --> 00:24:06,060
+the Appalachian Mountains.
+
+322
+00:24:07,320 --> 00:24:12,060
+This is what led the majority of Indians to fight with the French in the American theater
+
+323
+00:24:12,120 --> 00:24:16,140
+of the Seven Years War, which were about to talk about, and then hop over to side with
+
+324
+00:24:16,140 --> 00:24:18,240
+the British during the American Revolution.
+
+325
+00:24:18,930 --> 00:24:23,430
+Because, to put it bluntly, the worst case scenario for the Indians was to be left alone
+
+326
+00:24:23,430 --> 00:24:28,590
+on the continent with the Americans who were hungry for land and never really felt too
+
+327
+00:24:28,590 --> 00:24:32,370
+constrained by moral or political duty when it came to the Indians.
+
+328
+00:24:33,150 --> 00:24:37,380
+The subsequent history of Indian American relations, I think pretty well establishes that
+
+329
+00:24:37,380 --> 00:24:39,810
+those fears were not at all misplaced.
+
+330
+00:24:42,180 --> 00:24:48,630
+The other great hypocrisy deep in the heart of the revolution is, of course, slavery at
+
+331
+00:24:48,630 --> 00:24:49,680
+the time of the revolution.
+
+332
+00:24:49,770 --> 00:24:52,530
+There were about four hundred thousand slaves living in the U.S.,
+
+333
+00:24:53,010 --> 00:24:54,810
+mostly in the southern colonies.
+
+334
+00:24:55,590 --> 00:24:59,640
+They had been present from almost the beginning with the first nineteen Africans arriving
+
+335
+00:24:59,640 --> 00:25:01,380
+in Virginia in sixteen nineteen.
+
+336
+00:25:02,190 --> 00:25:06,690
+But for the rest of the century, African slavery was more of a supplement to the far more
+
+337
+00:25:06,690 --> 00:25:10,110
+common use of indentured servants as the colonial labor force.
+
+338
+00:25:10,920 --> 00:25:15,990
+Since mortality rates were so high in colonial America, it was cheaper to pay for seven
+
+339
+00:25:15,990 --> 00:25:17,870
+years labor than a lifetime of labor.
+
+340
+00:25:18,300 --> 00:25:21,170
+Since the labor was going to be dead in three years anyway.
+
+341
+00:25:22,410 --> 00:25:27,150
+But once mortality rates began to improve, it became increasingly common to invest in a
+
+342
+00:25:27,150 --> 00:25:31,470
+slave for life, since you would never have to let them go, nor deal with the pressure
+
+343
+00:25:31,470 --> 00:25:35,700
+from ex indentured servants who now wanted land and political rights.
+
+344
+00:25:36,830 --> 00:25:41,150
+So by seventeen hundred, the African slaves that had been getting mostly shipped to work
+
+345
+00:25:41,150 --> 00:25:45,830
+in the horrific sugar plantations of the British West Indies started being funneled north
+
+346
+00:25:46,160 --> 00:25:50,000
+to work the estates of major landowners, the kind of guys who could actually scrape
+
+347
+00:25:50,000 --> 00:25:52,220
+together enough cash to buy a slave.
+
+348
+00:25:54,530 --> 00:25:59,690
+Now, this point has been made 10000 times before, so there is no reason to belabor it,
+
+349
+00:26:00,290 --> 00:26:05,660
+but basically all the southern leaders of the American Revolution were slave holders and
+
+350
+00:26:05,660 --> 00:26:07,910
+they weren't conservative fence sitters either.
+
+351
+00:26:08,390 --> 00:26:12,560
+I mean, we're talking about George Washington, Thomas Jefferson, Patrick Henry, George
+
+352
+00:26:12,560 --> 00:26:14,360
+Mason, James Madison.
+
+353
+00:26:15,140 --> 00:26:19,850
+These were the guys who defined American liberty, fought a war to protect American
+
+354
+00:26:19,850 --> 00:26:23,510
+liberty, and then built a new government to preserve American liberty.
+
+355
+00:26:24,120 --> 00:26:25,880
+And they all owned slaves.
+
+356
+00:26:26,630 --> 00:26:31,910
+It's ridiculous. Now, had these guys followed through on the logic of their own argument
+
+357
+00:26:31,910 --> 00:26:37,100
+to its conclusion, that is that all men are created equal and like freed their slaves,
+
+358
+00:26:37,130 --> 00:26:40,910
+that is, had George Washington issued the Emancipation Proclamation.
+
+359
+00:26:41,540 --> 00:26:45,770
+The American Revolution would have been the greatest historical event in world history,
+
+360
+00:26:46,340 --> 00:26:51,830
+simultaneously tossing off the archaic bonds of monarchy and the evil chains of slavery.
+
+361
+00:26:52,960 --> 00:26:57,640
+But they simply couldn't see a way out of the economic implications of emancipation.
+
+362
+00:26:58,240 --> 00:27:01,480
+So the legacy of the revolution remains forever tarnished.
+
+363
+00:27:04,130 --> 00:27:08,990
+We'll wrap up today with the war to set the stage for the conflict between Britain and
+
+364
+00:27:08,990 --> 00:27:11,900
+her North American colonies in the United States.
+
+365
+00:27:11,930 --> 00:27:13,400
+We call it the French and Indian War.
+
+366
+00:27:13,880 --> 00:27:16,070
+It is known elsewhere as the Seven Years War.
+
+367
+00:27:16,610 --> 00:27:20,930
+A wide ranging conflict between France and Britain, which North America was simply one
+
+368
+00:27:20,930 --> 00:27:27,140
+theater of the war, technically started in 1754, but had been in the making for some
+
+369
+00:27:27,140 --> 00:27:32,850
+time. As the British began to colonize North America, the French got in on the action and
+
+370
+00:27:32,850 --> 00:27:35,760
+established a foothold in the far north along the St.
+
+371
+00:27:35,760 --> 00:27:39,960
+Lawrence River from their main bases in Quebec City and Montreal.
+
+372
+00:27:40,440 --> 00:27:45,330
+They grew up a primarily fur based trade network that extended deep into the interior.
+
+373
+00:27:46,280 --> 00:27:47,370
+Now, though, it took a while.
+
+374
+00:27:47,400 --> 00:27:52,020
+Eventually, British Colonial started pushing West in search of more land, and they ran up
+
+375
+00:27:52,020 --> 00:27:54,240
+against the French traders in the Ohio Valley.
+
+376
+00:27:55,210 --> 00:27:59,230
+Both sides claim sovereignty over the land and the local Indians were caught in the
+
+377
+00:27:59,230 --> 00:28:06,010
+middle. The resulting war is intricate enough and dramatic enough to sustain a multi
+
+378
+00:28:06,010 --> 00:28:11,800
+episode arc all its own from Braddock's initial disastrous march to Wolf's final victory
+
+379
+00:28:11,800 --> 00:28:16,870
+at the plains of Abraham. But for our purposes, we need only note that the British won
+
+380
+00:28:17,190 --> 00:28:23,470
+and the French lost. The final peace was signed in Paris in 1763, leaving the British in
+
+381
+00:28:23,470 --> 00:28:25,470
+sole control of North America.
+
+382
+00:28:27,460 --> 00:28:32,770
+The story of the American Revolution begins just as the ink is drying on the Treaty of
+
+383
+00:28:32,770 --> 00:28:38,770
+Paris. The cost of the war and the cost of their empire let Britain's political
+
+384
+00:28:38,770 --> 00:28:44,530
+leadership, both in parliament and the royal ministry to re-evaluate how that empire was
+
+385
+00:28:44,530 --> 00:28:50,850
+governed and financed, in many ways, their goal was both prudent and far sighted.
+
+386
+00:28:51,400 --> 00:28:53,200
+Make the colonies self-sufficient.
+
+387
+00:28:54,330 --> 00:28:58,540
+But the instruments they devised to achieve this goal were heavy handed, the manner they
+
+388
+00:28:58,540 --> 00:28:59,590
+were employed, clumsy.
+
+389
+00:29:00,100 --> 00:29:02,880
+The justifications offered downright arrogant.
+
+390
+00:29:03,850 --> 00:29:09,510
+So the story of the American Revolution owes at least as much to British bungling as it
+
+391
+00:29:09,510 --> 00:29:13,590
+does to American bravery patriotism valor etc.
+
+392
+00:29:13,800 --> 00:29:14,860
+etc. etc.
+
+393
+00:29:17,070 --> 00:29:22,680
+So next week we will kick things off with the first of two episodes covering the 17 60s
+
+394
+00:29:22,680 --> 00:29:27,760
+and early 70s 70s which saw American anger expand and contract in turn.
+
+395
+00:29:28,200 --> 00:29:32,640
+As the Stamp Act was passed and repealed the towns and Acts were passed and mostly
+
+396
+00:29:32,640 --> 00:29:36,990
+repealed and then the Tea Act was passed and now by then things had gotten out of hand.
+
+397
+00:29:38,040 --> 00:29:41,370
+Then we will move on into the campaigns of the Revolutionary War.
+
+398
+00:29:41,790 --> 00:29:45,960
+On our way to American independence and then finally the ratification of the United
+
+399
+00:29:45,960 --> 00:29:50,820
+States Constitution does either the ultimate embodiment of the ideals of the revolution
+
+400
+00:29:51,330 --> 00:29:54,840
+or an abject betrayal of the ideals of the revolution.
+
+401
+00:29:55,230 --> 00:29:57,300
+Depending on who you talk to.
