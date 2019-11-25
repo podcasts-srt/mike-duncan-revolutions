@@ -1,0 +1,1587 @@
+1
+00:00:04,480 --> 00:00:07,300
+Hello and welcome to revolutions.
+
+2
+00:00:11,910 --> 00:00:14,820
+Episode 18, The Stamp Act.
+
+3
+00:00:19,200 --> 00:00:23,430
+As I said at the end of last week's show, the story of the American Revolution begins
+
+4
+00:00:23,430 --> 00:00:26,940
+with the end of the French and Indian War in 1763.
+
+5
+00:00:27,840 --> 00:00:30,300
+Now, that does not mean that it was all downhill from there.
+
+6
+00:00:30,780 --> 00:00:34,170
+And there were a number of different points along the way that everyone could have safely
+
+7
+00:00:34,170 --> 00:00:38,910
+peeled off. But in the end, it was British imperial policy after the war and the
+
+8
+00:00:38,910 --> 00:00:43,410
+escalating cycles of American resistance they provoked that were the ground from which
+
+9
+00:00:43,410 --> 00:00:44,580
+the revolution sprang.
+
+10
+00:00:45,240 --> 00:00:47,070
+So though nothing is inevitable.
+
+11
+00:00:47,400 --> 00:00:51,210
+The road to independence clearly begins in 1763.
+
+12
+00:00:52,290 --> 00:00:57,420
+Now, one thing I'll add before we move on is that any truly comprehensive account of the
+
+13
+00:00:57,420 --> 00:01:02,550
+American Revolution would require 13 different chapters for every major turning point in
+
+14
+00:01:02,550 --> 00:01:06,300
+history, from the Sugar Act to the ratification of the Constitution.
+
+15
+00:01:06,900 --> 00:01:12,660
+Because local concerns, interests and personalities unique to each colony defined how
+
+16
+00:01:12,660 --> 00:01:14,160
+those turning points unfolded.
+
+17
+00:01:14,940 --> 00:01:18,240
+But unfortunately, we don't really have the time to provide that kind of
+
+18
+00:01:18,240 --> 00:01:22,410
+comprehensiveness. So for the most part, we'll be following the leading edge of
+
+19
+00:01:22,410 --> 00:01:27,480
+radicalism or the most influential supporters of that radicalism, which means that we'll
+
+20
+00:01:27,480 --> 00:01:32,550
+be talking an awful lot about events in Massachusetts and Virginia and Pennsylvania and
+
+21
+00:01:32,550 --> 00:01:36,120
+much less about Connecticut and Delaware and North Carolina.
+
+22
+00:01:36,870 --> 00:01:41,820
+But let me state unequivocally that the revolution was provoked, debated and waged in
+
+23
+00:01:41,880 --> 00:01:46,230
+every colony. And I would hate for anyone to walk away thinking that my silence on, let's
+
+24
+00:01:46,230 --> 00:01:49,620
+say, events in Maryland means that nothing was going on in Maryland.
+
+25
+00:01:49,650 --> 00:01:50,940
+Things were going on in Maryland.
+
+26
+00:01:51,240 --> 00:01:52,860
+Things were going on all over the place.
+
+27
+00:01:53,310 --> 00:01:55,500
+But we have to pick and choose our battles.
+
+28
+00:01:57,090 --> 00:02:01,470
+Now, as I mentioned last week, one of the central features of American colonial life
+
+29
+00:02:01,500 --> 00:02:06,210
+before 1763 was that British administration was pretty hands off.
+
+30
+00:02:07,080 --> 00:02:11,730
+There is a great paragraph from Edmund Morgan's birth of the Republic that not only makes
+
+31
+00:02:11,730 --> 00:02:15,780
+this point, but also provides a succinct description of the colonial administrative
+
+32
+00:02:15,780 --> 00:02:18,330
+framework. So I'm just going to copy and paste it.
+
+33
+00:02:19,740 --> 00:02:24,390
+Administration of the Colonies was left to the king, who turned it over to his secretary
+
+34
+00:02:24,390 --> 00:02:28,380
+of State for Southern Affairs, whose principal business was England's relations with
+
+35
+00:02:28,380 --> 00:02:33,000
+Southern Europe. The secretary left it pretty much to the Board of Trade and Plantations,
+
+36
+00:02:33,420 --> 00:02:36,450
+a sort of chamber of commerce with purely advisory powers.
+
+37
+00:02:37,170 --> 00:02:39,300
+The Board of Trade told the secretary what to do.
+
+38
+00:02:39,750 --> 00:02:41,040
+He told the royal governors.
+
+39
+00:02:41,040 --> 00:02:45,120
+The governors told the colonists and the colonists did what they pleased.
+
+40
+00:02:46,830 --> 00:02:50,910
+The point here is that whatever direct control the British ministry had tried to wield in
+
+41
+00:02:50,910 --> 00:02:56,130
+the colonies was usually stymied by the skimpy imperial apparatus actually on the scene
+
+42
+00:02:56,130 --> 00:03:00,360
+in North America. That is what they are about to try to change.
+
+43
+00:03:02,640 --> 00:03:07,020
+To further unpack Morgan's quote, though, I should probably mention that by the king, we
+
+44
+00:03:07,020 --> 00:03:12,060
+are now talking about 25 year old George, the third King George had ascended to the
+
+45
+00:03:12,060 --> 00:03:15,750
+throne in 1760, right in the middle of the war with France.
+
+46
+00:03:16,380 --> 00:03:22,110
+He was the third Hanoverian king, a dynasty that had been imported from Germany in 1714
+
+47
+00:03:22,470 --> 00:03:25,710
+after parliament declared that no Roman Catholic could ascend to the throne.
+
+48
+00:03:26,910 --> 00:03:31,140
+During the first few years of his Randy Young King's ministry was dominated by his old
+
+49
+00:03:31,140 --> 00:03:32,850
+Scottish tutor, Lord Buit.
+
+50
+00:03:33,540 --> 00:03:37,800
+But just as the treaty with the French was being signed buit succumb to pressure from
+
+51
+00:03:37,800 --> 00:03:43,350
+domestic enemies and retired and George Grenville, first Lord of the Treasury, stepped up
+
+52
+00:03:43,350 --> 00:03:46,080
+to serve as what we're going to call prime minister.
+
+53
+00:03:46,410 --> 00:03:50,760
+Even though at this point the term prime minister was merely an unofficial title, and
+
+54
+00:03:50,760 --> 00:03:52,740
+Grenville himself never used it.
+
+55
+00:03:53,580 --> 00:03:57,000
+But English historians seem content to recognise the office, starting with Sir Robert
+
+56
+00:03:57,000 --> 00:03:58,740
+Walpole back in the seventeen twenties.
+
+57
+00:03:59,070 --> 00:04:00,330
+And so for convenience sake.
+
+58
+00:04:00,360 --> 00:04:04,950
+I'm going to use the term to describe the run of prime ministers who will rise and fall
+
+59
+00:04:05,010 --> 00:04:09,090
+over the next decade as Britain struggles to make sense of its colonial policy.
+
+60
+00:04:10,820 --> 00:04:16,520
+The problems facing Granville in North America as he took office in April 1763 were
+
+61
+00:04:16,520 --> 00:04:23,030
+threefold. How to ensure the security of Britain's holdings, how to manage and or contain
+
+62
+00:04:23,270 --> 00:04:26,780
+the colonials hunger for land and then the big one.
+
+63
+00:04:27,230 --> 00:04:28,700
+How do we pay for everything?
+
+64
+00:04:30,260 --> 00:04:34,100
+The question of security had been answered by Lord Buit on his way out the door, and it
+
+65
+00:04:34,100 --> 00:04:38,780
+was decided that a line of forts stretching from Canada to Florida would be permanently
+
+66
+00:04:38,780 --> 00:04:43,130
+garrisoned by regular troops to defend against possible Spanish encroachment from the
+
+67
+00:04:43,130 --> 00:04:48,620
+South. Unruly new French Canadian citizens in the North, and American Indians everywhere
+
+68
+00:04:48,620 --> 00:04:54,500
+in between. Now, this may seem a perfectly reasonable decision, but to the men and women
+
+69
+00:04:54,500 --> 00:05:00,450
+of the 13 colonies, something rang ominous about it for as long as anyone could remember.
+
+70
+00:05:00,470 --> 00:05:04,820
+The French had been the main military threat to the colonies, and the ministry had never
+
+71
+00:05:04,820 --> 00:05:07,410
+seen fit to station a standing army in North America.
+
+72
+00:05:07,940 --> 00:05:10,010
+But now that that threat has been removed.
+
+73
+00:05:10,400 --> 00:05:12,110
+Now you're going to station troops.
+
+74
+00:05:13,430 --> 00:05:18,410
+The belief that standing armies always wind up being tools of despotism had a long and
+
+75
+00:05:18,410 --> 00:05:23,600
+rich tradition. So for the colonists, the decision to garrison the Western frontiers set
+
+76
+00:05:23,600 --> 00:05:25,130
+off an early warning bell.
+
+77
+00:05:26,360 --> 00:05:31,280
+The question of land hungry colonists was answered in part by the experience the British
+
+78
+00:05:31,280 --> 00:05:36,560
+had with Pontiac's uprising, a rebellion by a coalition of American Indian tribes that
+
+79
+00:05:36,560 --> 00:05:38,750
+erupted in May 1763.
+
+80
+00:05:39,590 --> 00:05:43,820
+Though the uprising ultimately failed, it did convince the ministry that balancing
+
+81
+00:05:43,820 --> 00:05:48,290
+American Indian interests against American colonial interests would make for sound
+
+82
+00:05:48,290 --> 00:05:54,770
+policy. So in October, George the third issued the Proclamation Line of 1763, which
+
+83
+00:05:54,770 --> 00:05:57,260
+basically drew a line along the appellation mountains.
+
+84
+00:05:57,860 --> 00:06:02,120
+The colonists were to stay east of the line and leave the west, including the much
+
+85
+00:06:02,120 --> 00:06:04,580
+coveted Ohio Valley to the Indians.
+
+86
+00:06:05,700 --> 00:06:10,950
+It was a nice idea, but it would turn out to be impossible to enforce in practice and in
+
+87
+00:06:10,950 --> 00:06:15,360
+the end did little but add to colonial frustrations with the mother country.
+
+88
+00:06:17,880 --> 00:06:21,870
+The question of money could not, of course, be answered by the colonists alone.
+
+89
+00:06:22,770 --> 00:06:25,050
+The costs of the recent war had been enormous.
+
+90
+00:06:25,290 --> 00:06:29,500
+And as First Lord of the Treasury, Grenville woke up every morning staring at one hundred
+
+91
+00:06:29,500 --> 00:06:33,540
+and twenty two million pounds of debt that had been accumulated by his predecessors.
+
+92
+00:06:34,530 --> 00:06:38,670
+Grenville made no attempt to try to balance the budget on the backs of the colonists.
+
+93
+00:06:39,330 --> 00:06:42,720
+Nor did he, even at this point, think about trying to make the colonies fully fund
+
+94
+00:06:42,720 --> 00:06:44,010
+colonial administration.
+
+95
+00:06:44,610 --> 00:06:48,900
+But he did think they should chip in, especially now that the permanent troops were going
+
+96
+00:06:48,900 --> 00:06:50,490
+to need food and supplies.
+
+97
+00:06:51,330 --> 00:06:56,190
+So as the proclamation line was being issued, Grenville drew up step one of his new
+
+98
+00:06:56,190 --> 00:06:58,410
+revenue plan, the Sugar Act.
+
+99
+00:06:59,780 --> 00:07:02,640
+The Sugar Act was not really a bad idea at all.
+
+100
+00:07:03,240 --> 00:07:08,220
+For years, colonies had dealt with a six penny per gallon tax on foreign molasses by
+
+101
+00:07:08,220 --> 00:07:09,420
+simply evading it.
+
+102
+00:07:10,260 --> 00:07:14,670
+The manufacturer of rum was big business in America and British supplies of molasses were
+
+103
+00:07:14,670 --> 00:07:16,500
+not nearly enough to meet demand.
+
+104
+00:07:17,340 --> 00:07:22,080
+Meanwhile, the customs agents in charge of enforcing the duty on molasses were underpaid,
+
+105
+00:07:22,590 --> 00:07:24,990
+unenthusiastic and a long way from home.
+
+106
+00:07:25,770 --> 00:07:30,210
+So it became standard procedure to give the customs agent a penny and a half per gallon
+
+107
+00:07:30,210 --> 00:07:35,160
+to look the other way. As foreign molasses was off loaded, Granville's idea was to cut
+
+108
+00:07:35,160 --> 00:07:40,470
+the molasses duty in half to induce the colonists to return to legal channels and thus
+
+109
+00:07:40,770 --> 00:07:41,850
+raise more revenue.
+
+110
+00:07:43,530 --> 00:07:48,990
+The law was passed in April, 1764 by a parliament who had no idea the colonists would
+
+111
+00:07:48,990 --> 00:07:50,220
+even look sideways at it.
+
+112
+00:07:50,730 --> 00:07:53,700
+It was, after all, a tax cut, not a tax increase.
+
+113
+00:07:53,790 --> 00:07:59,700
+Right. But of course, the tax cut was packaged with enforcement mechanisms that no one in
+
+114
+00:07:59,700 --> 00:08:01,830
+British North America had ever dealt with before.
+
+115
+00:08:02,760 --> 00:08:07,830
+Corrupt and or absentee customs inspectors were replaced by more diligent agents.
+
+116
+00:08:08,400 --> 00:08:12,810
+Legal challenges were bumped over to Admiralty courts, which worked on the basis of
+
+117
+00:08:12,810 --> 00:08:14,550
+guilty until proven innocent.
+
+118
+00:08:15,070 --> 00:08:18,690
+And naturally, the new law brought with it a mountain of new paperwork.
+
+119
+00:08:19,560 --> 00:08:23,940
+The Sugar Act also had the misfortune of being launched just as a postwar economic
+
+120
+00:08:23,940 --> 00:08:29,400
+depression was setting in colonial overseas trade operated to a great extent on the
+
+121
+00:08:29,400 --> 00:08:34,320
+barter system, leaving rum as one of the few reliable means of actually bringing in the
+
+122
+00:08:34,320 --> 00:08:39,600
+kind of specie that is hard money that had to circulate to keep the internal colonial
+
+123
+00:08:39,600 --> 00:08:43,260
+economy functioning and creditors back in England off their backs.
+
+124
+00:08:45,460 --> 00:08:49,930
+The problem of decreasing money supply was compounded by the Currency Act of September
+
+125
+00:08:50,040 --> 00:08:55,720
+1764, which ended the practice of individual colonies being able to issue their own paper
+
+126
+00:08:55,720 --> 00:09:01,270
+money. The Currency Act was driven by British merchants and creditors who worried that
+
+127
+00:09:01,270 --> 00:09:06,640
+colonial paper, subject to no regulation or standardization, would eventually prove
+
+128
+00:09:06,670 --> 00:09:08,140
+damaging to their investments.
+
+129
+00:09:08,560 --> 00:09:13,210
+But what it really did was further slow an already sluggish American economy.
+
+130
+00:09:15,060 --> 00:09:19,470
+In response to the Sugar Act, colonial merchants started getting together, comparing
+
+131
+00:09:19,470 --> 00:09:24,390
+grievances and sending petitions back to England, asking the ministry to reconsider their
+
+132
+00:09:24,390 --> 00:09:30,510
+decisions. Now, most of these petitions made purely economic arguments, but a few made
+
+133
+00:09:30,510 --> 00:09:35,040
+the further point that Parliament did not really have the right to tax the colonies
+
+134
+00:09:35,070 --> 00:09:37,860
+because the colonists were not represented in parliament.
+
+135
+00:09:38,280 --> 00:09:42,270
+And no Englishman was required to give up his property in voluntarily.
+
+136
+00:09:44,170 --> 00:09:48,200
+Now, we should pause here a second to consider this idea of property and taxation.
+
+137
+00:09:49,300 --> 00:09:53,770
+The thing we need to keep in mind is that jealously guarding your property from unjust
+
+138
+00:09:53,770 --> 00:09:56,320
+taxation was not just about being greedy.
+
+139
+00:09:56,840 --> 00:10:01,420
+Well, maybe it was a little bit about being greedy, but mostly it was about the belief
+
+140
+00:10:01,450 --> 00:10:04,540
+that property represented more than just economic wealth.
+
+141
+00:10:05,050 --> 00:10:10,900
+It was also the fundamental guarantee of political liberty where property rights existed.
+
+142
+00:10:11,230 --> 00:10:14,140
+Freedom reigned were property rights did not exist.
+
+143
+00:10:14,590 --> 00:10:19,070
+Tyranny reigned. This, as you'll recall, was one of the central questions that helped
+
+144
+00:10:19,070 --> 00:10:20,570
+spark the English civil wars.
+
+145
+00:10:21,020 --> 00:10:25,460
+Could Charles the first simply assert his right to the property of his subjects without
+
+146
+00:10:25,460 --> 00:10:29,290
+their consent? The answer turned out to be no.
+
+147
+00:10:30,200 --> 00:10:34,580
+This was something Englishmen took really, really seriously and the colonists were
+
+148
+00:10:34,580 --> 00:10:36,410
+nothing if not proud Englishmen.
+
+149
+00:10:38,310 --> 00:10:43,020
+But once it had been established that only parliament could levy taxes, a hidden question
+
+150
+00:10:43,020 --> 00:10:47,850
+lingered, a question that went to the heart of the rising tension between the colonists
+
+151
+00:10:47,880 --> 00:10:53,340
+and the mother country. Did parliamentary control of taxation mean that literally only
+
+152
+00:10:53,340 --> 00:10:54,990
+parliament could levy taxes?
+
+153
+00:10:55,770 --> 00:11:01,020
+Or was Parliament's control of taxation simply a manifestation of the broader point that
+
+154
+00:11:01,020 --> 00:11:06,090
+you were only subject to taxes levied by a body within which you are duly represented?
+
+155
+00:11:07,290 --> 00:11:09,870
+Because it's not like the colonists didn't pay taxes.
+
+156
+00:11:09,900 --> 00:11:15,510
+They did. But those taxes were levied by the local colonial assembly, which represented
+
+157
+00:11:15,510 --> 00:11:17,490
+the property interests of each colony.
+
+158
+00:11:18,540 --> 00:11:21,780
+The problem, of course, is that parliament and the ministry believe that this had been a
+
+159
+00:11:21,780 --> 00:11:26,550
+practical expedient that had now run its course and it was time for the real authority
+
+160
+00:11:26,880 --> 00:11:27,990
+parliament to step in.
+
+161
+00:11:28,440 --> 00:11:32,610
+While the colonies believed that this was all rooted in their long established rights as
+
+162
+00:11:32,610 --> 00:11:38,010
+Englishmen, the divergence of opinion about who had the right to tax who in the American
+
+163
+00:11:38,010 --> 00:11:41,790
+colonies would become the central question in the run up to the revolution.
+
+164
+00:11:42,630 --> 00:11:45,960
+To wit, no taxation without representation.
+
+165
+00:11:48,360 --> 00:11:53,340
+But if the colonies were hoping for a redress of their grievances in 1765, they were
+
+166
+00:11:53,340 --> 00:11:58,290
+badly mistaken, also badly mistaken with Granville's ministry, who thought that they
+
+167
+00:11:58,290 --> 00:12:01,910
+would be able to continue decreeing new taxes without further pushback.
+
+168
+00:12:02,820 --> 00:12:08,010
+Both sides would be rudely awoken with the arrival of Step 2 in Granville's revenue plan.
+
+169
+00:12:08,490 --> 00:12:13,620
+The Stamp Act put it simply, the Stamp Act was a tax on paper.
+
+170
+00:12:14,250 --> 00:12:16,670
+All paper paper used for contracts.
+
+171
+00:12:16,710 --> 00:12:18,630
+Customs. Receipts. Handbills.
+
+172
+00:12:18,810 --> 00:12:20,730
+Newspapers. Everything.
+
+173
+00:12:21,740 --> 00:12:26,360
+This stamped paper would come from England and be distributed in America by a certified
+
+174
+00:12:26,450 --> 00:12:31,490
+agent. Now, of course, a version of the Stamp Act already existed in Britain, but it was
+
+175
+00:12:31,490 --> 00:12:36,710
+a novelty in the colonies and one that threatened to worm its way into every aspect of
+
+176
+00:12:36,710 --> 00:12:39,350
+life. No one would be able to avoid it.
+
+177
+00:12:40,670 --> 00:12:44,810
+Rumors had been spreading all through 1764 that something like the Stamp Act was on the
+
+178
+00:12:44,810 --> 00:12:50,150
+way. And when word of its passage came in the spring of 1765, the colonists were ready to
+
+179
+00:12:50,150 --> 00:12:51,830
+fight it tooth and nail.
+
+180
+00:12:54,760 --> 00:12:59,350
+American indignation over the stamp pack found its first and most eloquent expression in
+
+181
+00:12:59,350 --> 00:13:01,060
+the Virginia House of Burgesses.
+
+182
+00:13:01,540 --> 00:13:06,910
+Probably the most August of all the colonial assemblies at the end of May on what
+
+183
+00:13:06,910 --> 00:13:08,620
+happened to be his twenty ninth birthday.
+
+184
+00:13:08,980 --> 00:13:13,240
+A young attorney and freshman member of the House named Patrick Henry gave a rather
+
+185
+00:13:13,240 --> 00:13:17,590
+inflammatory speech asserting that colonial assemblies had the exclusive right of
+
+186
+00:13:17,590 --> 00:13:22,630
+taxation. Henry finished off this inflammatory speech with the dramatic line.
+
+187
+00:13:23,020 --> 00:13:25,890
+Caesar had his Brutus, Charles the first.
+
+188
+00:13:25,930 --> 00:13:28,480
+His Cranwell and George the third.
+
+189
+00:13:29,140 --> 00:13:33,610
+At which point he was cut off by cries of treason by conservative members who thought
+
+190
+00:13:33,610 --> 00:13:34,780
+they knew where this was headed.
+
+191
+00:13:35,410 --> 00:13:38,860
+But the dramatic Henry wryly concluded, George, the third.
+
+192
+00:13:39,100 --> 00:13:41,140
+May he profit by their example.
+
+193
+00:13:42,030 --> 00:13:46,030
+He then supposedly wrap this up by saying, if this be treason, make the most of it.
+
+194
+00:13:46,750 --> 00:13:49,300
+But it is likely that the final bit is apocryphal.
+
+195
+00:13:51,010 --> 00:13:56,170
+The next day, Henry, an academy of young and more radically inclined Burgess's pushed the
+
+196
+00:13:56,170 --> 00:13:59,350
+Virginia resolves through a sparsely attended session.
+
+197
+00:14:00,400 --> 00:14:05,470
+The result were set of five resolutions that stake a defiant colonial position.
+
+198
+00:14:06,220 --> 00:14:10,630
+They went like this first when the colonists emigrated to America.
+
+199
+00:14:10,780 --> 00:14:12,940
+They brought with them all their rights as Englishmen.
+
+200
+00:14:13,660 --> 00:14:19,000
+Second, the Virginia Colonial Charter, granted by King James explicitly stated that
+
+201
+00:14:19,000 --> 00:14:21,430
+colonists would be treated as if they lived in England.
+
+202
+00:14:22,330 --> 00:14:27,670
+Third, that the right to self taxation is the distinguishing characteristic of British
+
+203
+00:14:27,670 --> 00:14:33,160
+freedom. Fourth, that this is exactly how things have operated in Virginia since the
+
+204
+00:14:33,160 --> 00:14:34,330
+founding of the colony.
+
+205
+00:14:35,200 --> 00:14:37,750
+So and I'll quote the big finale in full.
+
+206
+00:14:38,530 --> 00:14:44,590
+Resolved, therefore, that the General Assembly of this colony have the only an exclusive
+
+207
+00:14:44,590 --> 00:14:49,630
+right and power to lay taxes and impositions upon the inhabitants of this colony, and
+
+208
+00:14:49,630 --> 00:14:55,210
+that every attempt to vest such power in any person or persons whatsoever other than the
+
+209
+00:14:55,210 --> 00:15:01,270
+General Assembly aforesaid as a manifest tendency to destroy British as well as American
+
+210
+00:15:01,270 --> 00:15:08,440
+freedom. Now, although the fifth resolve followed logically from the first four, it was
+
+211
+00:15:08,440 --> 00:15:12,590
+too radical for the House of Burgesses and a conservative opposition rally back.
+
+212
+00:15:12,610 --> 00:15:14,200
+The next day and overturned it.
+
+213
+00:15:15,010 --> 00:15:19,630
+But the first four resolved remained officially on the books and the fifth one leaked out
+
+214
+00:15:19,630 --> 00:15:23,170
+to the rest of the colonies by unofficial reports and correspondence.
+
+215
+00:15:24,340 --> 00:15:28,510
+The Virginia resolves circulated through the colonies over the summer, and most of the
+
+216
+00:15:28,510 --> 00:15:31,990
+other colonial assemblies began to pass similar declarations.
+
+217
+00:15:34,190 --> 00:15:38,720
+Meanwhile, up in Massachusetts, events took a far more extreme turn.
+
+218
+00:15:39,170 --> 00:15:43,310
+And we will find our first injection of mob violence into the dispute.
+
+219
+00:15:44,750 --> 00:15:49,430
+As I said, the way the Stamp Act crisis unfolded in each colony was often driven by
+
+220
+00:15:49,430 --> 00:15:51,860
+political divisions unique to each colony.
+
+221
+00:15:52,280 --> 00:15:56,690
+And this was clearly the case in Massachusetts, where the flames were fanned by a long
+
+222
+00:15:56,690 --> 00:16:01,640
+standing rivalry between Lieutenant Governor Thomas Hutchinson and the on-again off-again
+
+223
+00:16:01,640 --> 00:16:04,910
+political alliance of Radic Attorney James Otis Jr.
+
+224
+00:16:05,420 --> 00:16:09,020
+and soon to be professional agitator Samuel Adams.
+
+225
+00:16:10,880 --> 00:16:16,580
+Beginning back in 1764, Adams and his friends began to form committees of correspondence
+
+226
+00:16:16,590 --> 00:16:21,470
+throughout Massachusetts, whose job it would be to share information and ideas and
+
+227
+00:16:21,470 --> 00:16:27,920
+responses amongst the various towns adjacent to and overlapping with these committees
+
+228
+00:16:28,540 --> 00:16:33,050
+were semi clandestine organizations of artisans, shopkeepers and traders.
+
+229
+00:16:33,530 --> 00:16:36,890
+That soon consolidated into the famous sons of Liberty.
+
+230
+00:16:38,030 --> 00:16:42,080
+So when official news of the stamp pack hit, along with the news that the hated
+
+231
+00:16:42,080 --> 00:16:46,640
+Hutchison's brother in law, Andrew Oliver, had been named stamp distributor, the
+
+232
+00:16:46,640 --> 00:16:48,800
+burgeoning populist machine went to work.
+
+233
+00:16:49,400 --> 00:16:51,430
+They were not going to take this lying down.
+
+234
+00:16:53,860 --> 00:16:59,470
+By the middle of August, 1765, the time for plotting was over and the time for action was
+
+235
+00:16:59,470 --> 00:17:05,350
+at hand, marshalling the loosely organized mobs of Boston to provide the shock troops.
+
+236
+00:17:05,870 --> 00:17:10,480
+The radical opponents of the Stamp Act hung an effigy of Andrew Oliver in Boston on
+
+237
+00:17:10,510 --> 00:17:13,810
+August the 14th when the sheriff came to take it down.
+
+238
+00:17:14,290 --> 00:17:18,790
+He took one look at the size and disposition of the mob and said, Forget it, I'm out of
+
+239
+00:17:18,790 --> 00:17:24,640
+here. As darkness fell, the mob moved to some offices located on a dock that they
+
+240
+00:17:24,640 --> 00:17:28,060
+believed Oliver was planning to use as the stamp distribution hub.
+
+241
+00:17:28,510 --> 00:17:30,400
+And they smashed the offices to bits.
+
+242
+00:17:31,180 --> 00:17:33,010
+Then they moved on to Oliver's home.
+
+243
+00:17:33,790 --> 00:17:38,860
+When they got there, they beheaded the effigy, ritually stamped it into the ground.
+
+244
+00:17:39,010 --> 00:17:40,360
+Get it? Stamp Act.
+
+245
+00:17:40,870 --> 00:17:42,670
+These guys were not without a sense of humor.
+
+246
+00:17:43,660 --> 00:17:47,890
+And then they pushed their way into Oliver's home and smashed the place up all over
+
+247
+00:17:47,890 --> 00:17:50,020
+himself. Of course, had been warned to stay away.
+
+248
+00:17:51,160 --> 00:17:52,990
+The mob did its work and then retired.
+
+249
+00:17:53,680 --> 00:17:57,550
+The next day, a small delegation met with Oliver and suggested that he resign his
+
+250
+00:17:57,550 --> 00:18:01,510
+commission, and Oliver agreed that yes, I think that would be for the best.
+
+251
+00:18:03,640 --> 00:18:04,990
+But that was not the end of it.
+
+252
+00:18:05,620 --> 00:18:09,880
+On August the twenty sixth, the mobs reconvened with the intention of smashing up the
+
+253
+00:18:09,880 --> 00:18:12,220
+homes of other alleged supporters of the Stamp Act.
+
+254
+00:18:12,970 --> 00:18:17,320
+One of those houses was actually only being rented by the intended target, and when the
+
+255
+00:18:17,320 --> 00:18:21,430
+mob arrived, they found the much distressed owner begging them to leave the house alone.
+
+256
+00:18:22,270 --> 00:18:26,590
+As a show of good faith, he provided free beer for everyone.
+
+257
+00:18:27,490 --> 00:18:32,560
+So now, good and drunk, the mob moved on to the big finale, the home of the hated Thomas
+
+258
+00:18:32,560 --> 00:18:37,600
+Hutchinson, a home that, by all accounts, was the largest and grandest in Massachusetts.
+
+259
+00:18:38,740 --> 00:18:42,250
+The mob broke in and methodically destroyed everything.
+
+260
+00:18:43,530 --> 00:18:48,180
+But though this all seems like the work of out-of-control drunks, it was in fact highly
+
+261
+00:18:48,180 --> 00:18:52,740
+organized and all things considered, highly disciplined and the destruction did not
+
+262
+00:18:52,740 --> 00:18:54,900
+spread beyond the specified targets.
+
+263
+00:18:56,700 --> 00:19:01,740
+So here we have two of the most important colonies, Virginia and Massachusetts, taking
+
+264
+00:19:01,740 --> 00:19:06,480
+the lead in strenuously opposing a law that wasn't even technically to go in effect until
+
+265
+00:19:06,480 --> 00:19:07,500
+November the first.
+
+266
+00:19:08,540 --> 00:19:12,530
+Clearly, there had been some kind of political miscalculation back in England.
+
+267
+00:19:13,970 --> 00:19:19,160
+But if anyone wanted to blame Grenville, it was already too late because in July he was
+
+268
+00:19:19,160 --> 00:19:23,420
+forced out of the ministry not so much because of his colonial policies, but because of
+
+269
+00:19:23,480 --> 00:19:25,850
+infighting within and around the royal family.
+
+270
+00:19:26,630 --> 00:19:32,690
+He was succeeded by Lord Rockingham, who entered office in July 1765 and immediately
+
+271
+00:19:32,690 --> 00:19:36,350
+started looking for ways to get out from under his predecessor's colonial policies.
+
+272
+00:19:37,520 --> 00:19:41,900
+But it was not going to be as easy as simply repealing the Stamp Act, especially after
+
+273
+00:19:41,900 --> 00:19:44,450
+reports of the riots in Boston started filtering in.
+
+274
+00:19:44,930 --> 00:19:49,340
+Because you can't simply let a mob dictate policy and you certainly can't let the
+
+275
+00:19:49,340 --> 00:19:52,750
+colonists walk away thinking parliament has no right to tax them.
+
+276
+00:19:55,220 --> 00:19:58,700
+As Rockingham is weak and divided, ministry groped for a solution.
+
+277
+00:19:59,150 --> 00:20:05,120
+Colonial anger continued as high minded rhetorical appeals were joined by one, let's call
+
+278
+00:20:05,120 --> 00:20:07,820
+them less high minded mob demonstrations.
+
+279
+00:20:08,810 --> 00:20:10,400
+It all culminated in October.
+
+280
+00:20:10,880 --> 00:20:17,060
+What we now call the Stamp Act Congress, the Massachusetts legislature had sent out a
+
+281
+00:20:17,060 --> 00:20:22,580
+circular letter calling for a Pan Colonial Assembly to discuss a coordinated response to
+
+282
+00:20:22,580 --> 00:20:24,530
+both the sugar and stamp acts.
+
+283
+00:20:25,280 --> 00:20:30,350
+In the end, nine colonies sent delegates to meet in New York City from Massachusetts,
+
+284
+00:20:30,530 --> 00:20:36,950
+Connecticut, Rhode Island, New York, New Jersey, Pennsylvania, Delaware, Maryland and
+
+285
+00:20:36,950 --> 00:20:42,500
+South Carolina. Virginia and Georgia would have almost certainly been among them, but
+
+286
+00:20:42,500 --> 00:20:46,970
+their colonial governors had refused to allow their respective assemblies to convene in
+
+287
+00:20:46,970 --> 00:20:48,290
+order to select delegates.
+
+288
+00:20:50,400 --> 00:20:54,750
+The Stepback Congress met on October the 7th, and over the course of their deliberations,
+
+289
+00:20:54,750 --> 00:20:59,370
+they started discussing an idea that will help define the next round of the fight between
+
+290
+00:20:59,370 --> 00:21:00,660
+Britain and her colonies.
+
+291
+00:21:01,320 --> 00:21:05,190
+The distinction between internal and external taxation.
+
+292
+00:21:06,620 --> 00:21:11,810
+The theory was that parliament had no right to levy direct taxes for the purposes of
+
+293
+00:21:11,810 --> 00:21:17,060
+raising revenue. Levying those sorts of internal taxes were the sole right of the
+
+294
+00:21:17,060 --> 00:21:18,080
+colonial assemblies.
+
+295
+00:21:19,010 --> 00:21:23,090
+But the delegates were willing to grant the parliament have the right to levy external
+
+296
+00:21:23,090 --> 00:21:25,700
+taxes for the purposes of regulating trade.
+
+297
+00:21:26,840 --> 00:21:32,750
+Both the Sugar Act and Stamp Act would be classified as internal taxes because both were
+
+298
+00:21:32,750 --> 00:21:36,860
+explicitly designed to raise revenue, not regulate trade.
+
+299
+00:21:38,540 --> 00:21:43,100
+This distinction was a nice formulation that would work for the present crisis.
+
+300
+00:21:43,730 --> 00:21:47,600
+But as we will see next week when Charles Townsend devises a way to test the theory
+
+301
+00:21:48,080 --> 00:21:51,500
+proved to be a distinction that no one really recognized.
+
+302
+00:21:53,950 --> 00:21:58,540
+The Stamp Act Congress concluded by drafting a fourteen point Declaration of Rights and
+
+303
+00:21:58,540 --> 00:22:03,070
+grievances, which opened by stating that the colonists owed Parliament all due
+
+304
+00:22:03,070 --> 00:22:08,140
+subordination, but that they possess the same rights as any Englishman and that direct
+
+305
+00:22:08,140 --> 00:22:10,990
+taxes could only be levied by the colonial assemblies.
+
+306
+00:22:11,910 --> 00:22:16,630
+It was a remarkable bit of unity from a group of colonies that under normal circumstances
+
+307
+00:22:16,630 --> 00:22:19,960
+would have agreed only that they disagreed about everything.
+
+308
+00:22:22,180 --> 00:22:28,160
+The stamp that Congress broke up on October the 25th, 1765, just as the Stamp Act itself
+
+309
+00:22:28,400 --> 00:22:29,570
+was about to take effect.
+
+310
+00:22:31,040 --> 00:22:35,390
+Meanwhile, just down the street, a group of merchants in New York City got together and
+
+311
+00:22:35,390 --> 00:22:40,670
+agreed to a limited non importation agreement that was to endure as long as the Stamp Act
+
+312
+00:22:40,670 --> 00:22:45,950
+was in effect. This idea soon spread to other colonies, and merchant groups in the major
+
+313
+00:22:45,950 --> 00:22:50,450
+cities agreed not to bring in any British goods until the Stamp Act was repealed.
+
+314
+00:22:51,500 --> 00:22:56,630
+But by this point, the non importation movement was probably unnecessary as the ministry
+
+315
+00:22:56,630 --> 00:22:59,540
+was already looking for ways to get out from under the Stamp Act.
+
+316
+00:23:00,080 --> 00:23:04,310
+But it did provide a first round of practical experience for the merchants because as we
+
+317
+00:23:04,310 --> 00:23:09,620
+will see down the road, not importation will become a major component of colonial
+
+318
+00:23:09,620 --> 00:23:15,650
+resistance. So by the time November the 1st finally came around, the Stamp Act was dead
+
+319
+00:23:15,650 --> 00:23:20,960
+on arrival. Practically every single stamp distributor had been confronted and either
+
+320
+00:23:20,960 --> 00:23:26,660
+resigned or agreed not to distribute the stamp paper when Parliament reconvened in
+
+321
+00:23:26,660 --> 00:23:30,710
+December. It was already of a mind to do away with this troublesome act.
+
+322
+00:23:31,190 --> 00:23:33,080
+But the big question remained unanswered.
+
+323
+00:23:33,680 --> 00:23:37,670
+How do you repeal the Stamp Act without letting the colonists think that they can avoid
+
+324
+00:23:37,670 --> 00:23:41,360
+parliamentary control simply by throwing a collective temper tantrum?
+
+325
+00:23:42,050 --> 00:23:43,400
+Because while most M.P.s
+
+326
+00:23:43,400 --> 00:23:46,370
+agreed of the Stamp Act itself was counterproductive.
+
+327
+00:23:46,880 --> 00:23:50,480
+They uniformly believed that parliament had the right to run the colonies however they
+
+328
+00:23:50,480 --> 00:23:54,080
+saw fit, and on that principle they would not be moved.
+
+329
+00:23:55,790 --> 00:24:00,530
+As parliament debated the question, the Americans suddenly won a powerful ally in the
+
+330
+00:24:00,530 --> 00:24:03,980
+Commons. Former Prime Minister William Pitt.
+
+331
+00:24:05,330 --> 00:24:07,730
+Though he was on the back end of his life and career.
+
+332
+00:24:08,090 --> 00:24:13,130
+The charismatic Pitt still had a spark and he launched a fierce denunciation of the
+
+333
+00:24:13,130 --> 00:24:16,310
+ministry and openly praised colonial resistance.
+
+334
+00:24:17,360 --> 00:24:21,680
+This led to a famous exchange with George Grenville, who still sat as an MP.
+
+335
+00:24:22,500 --> 00:24:26,300
+The incredulous Grenville asked Pitt, when was it exactly that the colonists had been
+
+336
+00:24:26,300 --> 00:24:28,550
+emancipated from parliamentary control?
+
+337
+00:24:28,910 --> 00:24:30,080
+To which Pitt replied.
+
+338
+00:24:30,530 --> 00:24:36,650
+Well, when is it exactly that we made them slaves in the midst of this debate?
+
+339
+00:24:36,980 --> 00:24:41,180
+Parliament called an influential American agent to testify as to the mood of his
+
+340
+00:24:41,180 --> 00:24:43,100
+countrymen with regard to the Stamp Act.
+
+341
+00:24:43,760 --> 00:24:45,620
+None other than Benjamin Franklin.
+
+342
+00:24:46,850 --> 00:24:52,610
+Franklin was easily the most famous and most respected American pretty much ever, and he
+
+343
+00:24:52,610 --> 00:24:55,850
+was basically the first colonial that Europeans took seriously.
+
+344
+00:24:56,990 --> 00:25:01,130
+He has often been called the first American, and I sometimes like to call him the
+
+345
+00:25:01,130 --> 00:25:06,200
+founding grandfather as he was a generation older than the men who will become known as
+
+346
+00:25:06,200 --> 00:25:07,250
+the Founding Fathers.
+
+347
+00:25:09,510 --> 00:25:14,850
+Born in 1786, Franklin skipped out on a printing apprenticeship to an elder brother at
+
+348
+00:25:14,850 --> 00:25:18,390
+the age of 17, started over from scratch in Philadelphia.
+
+349
+00:25:18,840 --> 00:25:23,850
+And through wit, guile and hard work soon established himself as the leading printer in
+
+350
+00:25:23,850 --> 00:25:26,190
+the city, achieving his greatest success.
+
+351
+00:25:26,700 --> 00:25:31,730
+The annual publication of Poor Richard's Almanac, which debuted in 1733.
+
+352
+00:25:33,120 --> 00:25:36,670
+But Franklin was merely a printer by trade, by passion.
+
+353
+00:25:36,700 --> 00:25:41,170
+He was an intensely curious polymath who was interested in everything.
+
+354
+00:25:41,920 --> 00:25:45,790
+A passion that eventually led him to famously dabble in electricity.
+
+355
+00:25:46,720 --> 00:25:51,100
+He soon not only proved that lightning was in fact made of electricity, but ever driven
+
+356
+00:25:51,100 --> 00:25:52,780
+by his practical sensibilities.
+
+357
+00:25:53,200 --> 00:25:56,290
+He invented these lightning rod to protect houses from strikes.
+
+358
+00:25:57,250 --> 00:26:01,180
+It was his scientific work that earned him the attention of Europe.
+
+359
+00:26:03,000 --> 00:26:07,620
+Now, it would take 20 episodes to run through the endlessly fascinating life of the good
+
+360
+00:26:07,620 --> 00:26:11,040
+Doctor Franklin. For our purposes, we should skip ahead.
+
+361
+00:26:11,310 --> 00:26:12,750
+Who 1757?
+
+362
+00:26:12,990 --> 00:26:17,840
+When Pennsylvania appointed him to serve as their agent in London, at that point,
+
+363
+00:26:17,850 --> 00:26:22,440
+Franklin moved to England and pretty much lived there continuously until the outbreak of
+
+364
+00:26:22,440 --> 00:26:28,870
+the revolution. By the time of the Stamp Act crisis, Franklin was also officially
+
+365
+00:26:28,870 --> 00:26:31,330
+representing both Georgia and Massachusetts.
+
+366
+00:26:31,800 --> 00:26:36,250
+And when he was called before Parliament, he reiterated the distinction between internal
+
+367
+00:26:36,490 --> 00:26:41,080
+and external taxation, neatly dancing around the few probing m.p.'s
+
+368
+00:26:41,080 --> 00:26:42,160
+who tried to trip him up.
+
+369
+00:26:43,030 --> 00:26:47,230
+But for the most part, his testimony was arranged by friends in Parliament who very much
+
+370
+00:26:47,230 --> 00:26:52,990
+wanted to ditch the Stamp Act and were looking for an excuse to do so through February.
+
+371
+00:26:53,110 --> 00:26:56,200
+The debate raged on until finally a solution was hit upon.
+
+372
+00:26:56,980 --> 00:26:58,750
+The Stamp Act would be repealed.
+
+373
+00:26:59,560 --> 00:27:03,730
+But along with it, Parliament would issue what has become known as the Declaratory Act,
+
+374
+00:27:04,270 --> 00:27:09,220
+which stated that Parliament had the power and authority to make laws and statutes of
+
+375
+00:27:09,220 --> 00:27:14,950
+sufficient force and validity to bind the colonies and people of America in all cases
+
+376
+00:27:14,960 --> 00:27:21,220
+whatsoever. In other words, we're giving into your immediate demands, but we are not
+
+377
+00:27:21,220 --> 00:27:22,720
+conceding the broader point.
+
+378
+00:27:23,350 --> 00:27:24,910
+Not even a little bit.
+
+379
+00:27:25,600 --> 00:27:27,610
+In all cases whatsoever.
+
+380
+00:27:28,770 --> 00:27:33,320
+But though the more savvy colonial leaders could see the dangers posed by the Declaratory
+
+381
+00:27:33,320 --> 00:27:37,880
+Act when news hit the colonies in May that the Stamp Act had been repealed, it kicked off
+
+382
+00:27:37,880 --> 00:27:44,180
+a wave of celebrations, bonfires, merrymaking and heavy drinking from New Hampshire to
+
+383
+00:27:44,180 --> 00:27:51,620
+Georgia. In the first round of the fight, the colonists had won, but that declaratory act
+
+384
+00:27:51,950 --> 00:27:55,070
+clearly signalled that parliament would soon be back for more.
+
+385
+00:27:57,150 --> 00:28:00,280
+The fight over the Stamp Act very nearly broke.
+
+386
+00:28:00,300 --> 00:28:03,540
+The revolutionary wave a decade earlier than it finally did.
+
+387
+00:28:04,590 --> 00:28:09,870
+The pattern of colonial assemblies issuing strong resolutions, organized mobs targeting
+
+388
+00:28:09,930 --> 00:28:15,360
+enemies of liberty, merchants forming non importation pacts, all culminating with a pan
+
+389
+00:28:15,360 --> 00:28:18,030
+colonial alliance to organize collective resistance.
+
+390
+00:28:18,690 --> 00:28:22,440
+Well, this is all going to get replayed in the 1770s, though.
+
+391
+00:28:22,450 --> 00:28:27,060
+By that point, the British will be done backing down and the Revolutionary War will
+
+392
+00:28:27,060 --> 00:28:31,350
+finally break out. But that is still a ways down the road.
+
+393
+00:28:31,660 --> 00:28:35,610
+And as I also noted, it was not at all inevitable that that Revolutionary War should
+
+394
+00:28:35,610 --> 00:28:41,310
+break out. But next week, we will get into round two of the fight as Lord of the
+
+395
+00:28:41,310 --> 00:28:45,870
+Treasury, Charles Townsend will test the proposition that the colonists did not object to
+
+396
+00:28:45,870 --> 00:28:48,240
+taxes merely designed to regulate trade.
+
+397
+00:28:49,140 --> 00:28:52,280
+Spoiler alert. Turns out they were just saying.
