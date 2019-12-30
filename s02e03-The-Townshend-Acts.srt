@@ -1,0 +1,1491 @@
+1
+00:00:04,350 --> 00:00:07,380
+Hello and welcome to revolutions.
+
+2
+00:00:11,990 --> 00:00:15,010
+Episode 19, The Townsend Acts.
+
+3
+00:00:19,530 --> 00:00:24,410
+So we ended last time with the demise of the Stamp Act, which had done so little to raise
+
+4
+00:00:24,410 --> 00:00:27,260
+revenue, so much to infuriate the colonies.
+
+5
+00:00:28,040 --> 00:00:31,870
+But the British government's pullback from the Stamp Act had been a retreat, not a
+
+6
+00:00:31,910 --> 00:00:36,140
+surrender. And this week we will walk through their second attempt to raise money from
+
+7
+00:00:36,140 --> 00:00:42,020
+the colonies. Before we get going, though, I should also probably point out that my dream
+
+8
+00:00:42,020 --> 00:00:46,280
+of succinctly moving through the pre-revolutionary period in two episodes was, of course,
+
+9
+00:00:46,310 --> 00:00:48,910
+pure folly and I've expanded it out to three.
+
+10
+00:00:49,670 --> 00:00:52,010
+So last time was the Stamp Act.
+
+11
+00:00:52,460 --> 00:00:54,340
+This week will be the Townsend Axe.
+
+12
+00:00:54,860 --> 00:00:59,620
+Next week will be the Tea Act, which works better from a narrative perspective anyway.
+
+13
+00:01:01,640 --> 00:01:07,550
+OK, so by the spring of 1766, the Stamp Act has been repealed and the Declaratory Act
+
+14
+00:01:07,640 --> 00:01:12,140
+passed, this formula for ending the crisis worked well for the moment.
+
+15
+00:01:12,590 --> 00:01:15,350
+But Lord Rockingham did not long survive the solution.
+
+16
+00:01:15,680 --> 00:01:19,230
+And in July, he was dismissed as prime minister in his place.
+
+17
+00:01:19,250 --> 00:01:23,090
+George the third, turned to the man who had successfully steered Britain to victory
+
+18
+00:01:23,090 --> 00:01:24,410
+during the Seven Years War.
+
+19
+00:01:24,890 --> 00:01:26,480
+William Pitt, the elder.
+
+20
+00:01:27,520 --> 00:01:31,630
+This was good news for the colonies as Pitt had just come out as a full throated
+
+21
+00:01:31,630 --> 00:01:33,190
+supporter of American interests.
+
+22
+00:01:33,850 --> 00:01:39,910
+But while it looked good on paper, the reality left much to be desired in accepting the
+
+23
+00:01:39,910 --> 00:01:45,130
+prime ministership. Pitt was also created First Earl of Chatham, taking him out of the
+
+24
+00:01:45,130 --> 00:01:49,840
+House of Commons and plopping him into the House of Lords, where his ability to manage
+
+25
+00:01:49,840 --> 00:01:52,240
+daily administration was much reduced.
+
+26
+00:01:53,020 --> 00:01:54,040
+Not that it mattered anyway.
+
+27
+00:01:54,440 --> 00:01:59,740
+It was in poor health and frequently absent from London altogether, without a strong
+
+28
+00:01:59,740 --> 00:02:03,340
+guiding hand. The individual ministers were left to their own devices.
+
+29
+00:02:03,850 --> 00:02:09,430
+Even those devices ran contrary to Pit's wishes, as was the case with the new Chancellor
+
+30
+00:02:09,430 --> 00:02:11,530
+of the Exchequer, Charles Townsend.
+
+31
+00:02:13,440 --> 00:02:18,150
+The 41 year old Townsend was famously as sharp of tongue as he was of mind, and he had a
+
+32
+00:02:18,150 --> 00:02:20,460
+reputation for political unpredictability.
+
+33
+00:02:21,120 --> 00:02:24,840
+But he does seem to have consistently believed that there was money to be had in the
+
+34
+00:02:24,840 --> 00:02:27,930
+colonies and parliament had every right to get at it.
+
+35
+00:02:28,860 --> 00:02:33,570
+So he started drawing up a colonial revenue scheme that would cleverly skirt the American
+
+36
+00:02:33,570 --> 00:02:35,790
+objection to so-called direct taxes.
+
+37
+00:02:36,960 --> 00:02:40,890
+This put him on the wrong side of Pitt, who attempted to oust Townsend from the ministry.
+
+38
+00:02:41,220 --> 00:02:44,940
+But before he could finish the job, Pitt suffered a physical collapse that knocked him
+
+39
+00:02:44,940 --> 00:02:49,890
+out of commission. This left Townsend the dominant personality in an otherwise weak
+
+40
+00:02:49,890 --> 00:02:53,520
+ministry, and he energetically pushed his plans through parliament.
+
+41
+00:02:54,330 --> 00:02:59,910
+The result was the passage in June 1767 of the so-called Towns and Acts.
+
+42
+00:03:01,440 --> 00:03:06,540
+The towns an axe actually refer to five inter-related bills, including one designed to
+
+43
+00:03:06,540 --> 00:03:10,860
+help shore up the floundering East India Company and one specifically targeting the New
+
+44
+00:03:10,860 --> 00:03:14,850
+York Assembly for their failure to comply with the Quartering Act of 1765.
+
+45
+00:03:15,600 --> 00:03:20,220
+But when most people talk about the towns and acts they are generally referring to is the
+
+46
+00:03:20,220 --> 00:03:21,900
+most explosive component.
+
+47
+00:03:22,380 --> 00:03:29,190
+The Revenue Act, which levied import duties on lead glass, paper, printer ink and t
+
+48
+00:03:30,060 --> 00:03:34,470
+exactly the kind of trade base taxes the colonists themselves had just said parliament
+
+49
+00:03:34,470 --> 00:03:38,520
+was allowed to levy to ensure compliance with the new duties.
+
+50
+00:03:38,550 --> 00:03:43,740
+The Towns and Acts also created a board of Customs, which meant that even more salary
+
+51
+00:03:43,770 --> 00:03:46,800
+agents would soon be digging around in colonial business.
+
+52
+00:03:48,160 --> 00:03:52,330
+But on top of these two innovations, which we're sure all on their own to rile up the
+
+53
+00:03:52,330 --> 00:03:56,110
+colonists, Townsend inserted another innovation into this program.
+
+54
+00:03:56,920 --> 00:04:01,420
+Revenue from the duties would be used to pay the salaries of colonial governors.
+
+55
+00:04:02,950 --> 00:04:07,390
+Up until this point, governors had been paid by grants from the colonial assemblies.
+
+56
+00:04:07,960 --> 00:04:12,880
+This power of the purse had done much to ensure that the governors never drifted too far
+
+57
+00:04:12,940 --> 00:04:18,520
+out of line. Removing this all important check sent the colonial warning bells back to
+
+58
+00:04:18,520 --> 00:04:23,020
+clanging as it appeared to be striking right at the heart of self-government.
+
+59
+00:04:25,110 --> 00:04:29,520
+In response to the Townsend Axe and one of the most influential series of articles of the
+
+60
+00:04:29,520 --> 00:04:35,280
+whole revolutionary era started circulating the colonies in the summer of 1767, the
+
+61
+00:04:35,340 --> 00:04:41,010
+letters from a Pennsylvania farmer written by John Dickinson, who was no farmer but
+
+62
+00:04:41,010 --> 00:04:42,960
+rather a successful Philadelphia lawyer.
+
+63
+00:04:44,220 --> 00:04:48,120
+The letters eloquently furthered the argument that Parliament did not have the right to
+
+64
+00:04:48,120 --> 00:04:52,710
+tax the colonies for revenue under any circumstances, and that whatever pretences to the
+
+65
+00:04:52,710 --> 00:04:57,330
+contrary, the Townsend duties were clearly designed to generate revenue, not regulate
+
+66
+00:04:57,330 --> 00:05:02,460
+trade. The letters were important because initially reaction to the Townsend Act was
+
+67
+00:05:02,460 --> 00:05:07,260
+muted. In many cases, the colonists were exhausted from the recent battle over the Stamp
+
+68
+00:05:07,260 --> 00:05:11,730
+Act, and they weren't super stoked about having to immediately remobilize for war.
+
+69
+00:05:12,690 --> 00:05:15,930
+But when Dickinson's letters started showing up throughout the colonies, they
+
+70
+00:05:15,930 --> 00:05:19,050
+persuasively confirm the necessity of further resistance.
+
+71
+00:05:20,010 --> 00:05:25,860
+But Dickinson himself was no radical, and he advocated frugality, home manufacturing and
+
+72
+00:05:25,860 --> 00:05:31,080
+petitioning as the surest means to avoid falling for Parliament unconstitutional taxes.
+
+73
+00:05:31,920 --> 00:05:36,630
+It was left to more radical leaders to push the envelope in the great defence of American
+
+74
+00:05:36,630 --> 00:05:43,240
+liberty. Charles Townsend himself, though, would not live to see that great defense as he
+
+75
+00:05:43,240 --> 00:05:44,920
+died suddenly in September.
+
+76
+00:05:45,160 --> 00:05:52,000
+1767, his death and the continued incapacitation of Pitt, the elder left the ministry
+
+77
+00:05:52,030 --> 00:05:56,230
+basically rudderless and it fell to the 33 year old Duke of Grafton.
+
+78
+00:05:56,410 --> 00:06:01,030
+First Lord of the Treasury to try to lead the way, though he would not be recognized as
+
+79
+00:06:01,030 --> 00:06:04,950
+prime minister until Pitt finally resigned in October 1768.
+
+80
+00:06:05,680 --> 00:06:09,130
+But don't worry. The Duke of Grafton is not on the test.
+
+81
+00:06:11,460 --> 00:06:15,240
+When the new customs official started arriving in the colonies in November, the radical
+
+82
+00:06:15,240 --> 00:06:19,470
+leaders in Boston tried to get the rest of Massachusetts to stop buying British goods,
+
+83
+00:06:19,920 --> 00:06:24,060
+but they got nowhere because for the moment, everyone just wanted things to go back to
+
+84
+00:06:24,060 --> 00:06:30,750
+normal. But by February 1768, a Samuel Adams had called in every favor he could in the
+
+85
+00:06:30,750 --> 00:06:35,730
+Massachusetts assembly to get them to produce another circular letter like the one that
+
+86
+00:06:35,730 --> 00:06:37,170
+had gone out over the Stamp Act.
+
+87
+00:06:38,370 --> 00:06:42,660
+Though this letter was milder and merely called for the other colonies to harmonize a
+
+88
+00:06:42,660 --> 00:06:47,670
+response to the towns acts, it did contain the more extreme assertion that the colonists
+
+89
+00:06:47,670 --> 00:06:49,920
+weren't simply unrepresented in parliament.
+
+90
+00:06:50,310 --> 00:06:54,510
+They could never be represented in parliament because they were, quote, separated by an
+
+91
+00:06:54,570 --> 00:06:56,220
+ocean of a thousand leagues.
+
+92
+00:06:56,850 --> 00:07:02,100
+So in other words, don't expect to ever byas off with like 13 seats in parliament.
+
+93
+00:07:03,960 --> 00:07:08,610
+The new circular letter was, of course, authored personally by Samuel Adams, who I
+
+94
+00:07:08,610 --> 00:07:13,290
+briefly introduced last time, but since he's so central to the revolutionary movement, we
+
+95
+00:07:13,290 --> 00:07:14,720
+do need to flesh him out of it.
+
+96
+00:07:16,390 --> 00:07:22,600
+Born in Boston in 1722 to a prosperous merchant, young Sam entered Harvard and 1736 and
+
+97
+00:07:22,600 --> 00:07:24,400
+was headed for a career in the church.
+
+98
+00:07:24,790 --> 00:07:27,940
+But then politics caught his eye and he never looked back.
+
+99
+00:07:28,930 --> 00:07:33,160
+Among all the founding fathers, there was probably no one so singularly focused on
+
+100
+00:07:33,160 --> 00:07:36,250
+politics at the expense of every other aspect of his life.
+
+101
+00:07:36,670 --> 00:07:40,160
+As Samuel Adams, it was his consuming passion.
+
+102
+00:07:41,350 --> 00:07:45,370
+He went into business after graduation, but had neither the head nor the heart for it.
+
+103
+00:07:45,640 --> 00:07:48,390
+And he lost all the money his father loaned him to get started.
+
+104
+00:07:49,640 --> 00:07:54,050
+His love of politics, though, led him to various public offices in Boston, where he soon
+
+105
+00:07:54,110 --> 00:07:58,100
+emerged as one of the leaders of the popular faction, that is the group opposed to the
+
+106
+00:07:58,100 --> 00:08:02,120
+men who circled around the royal governor after the French and Indian War.
+
+107
+00:08:02,150 --> 00:08:06,110
+Adams became a leader in the fight against British taxation, fiercely denouncing, in turn
+
+108
+00:08:06,110 --> 00:08:07,610
+the Sugar Act and the Stamp Act.
+
+109
+00:08:07,940 --> 00:08:12,200
+Though exactly how involved he was in the Stamp Act riots is still an open question.
+
+110
+00:08:12,770 --> 00:08:17,120
+Not that he didn't approve of them, just that he probably wasn't the arch puppet master
+
+111
+00:08:17,120 --> 00:08:19,130
+his enemies often made him out to be.
+
+112
+00:08:21,580 --> 00:08:24,780
+When the Townsend acts came around, Adams was obviously fired up.
+
+113
+00:08:25,260 --> 00:08:28,290
+But as I've mentioned, public opinion was running conservative these days.
+
+114
+00:08:29,040 --> 00:08:33,390
+But then Adams and his friends got a timely assist from the new costume's commissioners,
+
+115
+00:08:33,810 --> 00:08:37,800
+who were even more committed to their jobs than the inspectors who had been sent over to
+
+116
+00:08:37,800 --> 00:08:38,850
+enforce the Sugar Act.
+
+117
+00:08:39,930 --> 00:08:45,150
+These new customs agents saw it as their job not to simply collect taxes, but also to
+
+118
+00:08:45,150 --> 00:08:50,850
+reinforce political obedience, which predictably provoked political disobedience.
+
+119
+00:08:52,050 --> 00:08:56,070
+One of the first things they decided to do was to make an example of leading Boston
+
+120
+00:08:56,070 --> 00:09:02,280
+merchant and occasional Boston smuggler John Handcock, who we also now have to stop and
+
+121
+00:09:02,280 --> 00:09:08,770
+take a look at. Fifteen years younger than his political mentor, Samuel Adams.
+
+122
+00:09:09,190 --> 00:09:14,830
+John Hancock was born in Braintree in 1737, making him just 31 years old at the time of
+
+123
+00:09:14,830 --> 00:09:16,030
+the town's in crisis.
+
+124
+00:09:17,140 --> 00:09:22,480
+After graduating from Harvard and 1754, he went to work in his uncle's import export
+
+125
+00:09:22,480 --> 00:09:26,410
+house, where he made a good living on government contracts during the French and Indian
+
+126
+00:09:26,410 --> 00:09:29,770
+War. And he started to appreciate the finer things in life.
+
+127
+00:09:30,970 --> 00:09:35,020
+After a short stint living in London to work the other side of the business, Handcock
+
+128
+00:09:35,020 --> 00:09:39,520
+returned to Boston and inherited everything when his uncle died in 1764.
+
+129
+00:09:40,480 --> 00:09:42,560
+But as successful as he was business wise.
+
+130
+00:09:43,060 --> 00:09:48,340
+Handcock was mostly obsessed with politics, and he soon fell under the sway of Adams, who
+
+131
+00:09:48,340 --> 00:09:52,990
+guided the young man's ambitions or, if you prefer, the arch puppet master version of
+
+132
+00:09:52,990 --> 00:09:58,270
+history. The Machiavellian Adams manipulated the rich and gullible Handcock into doing
+
+133
+00:09:58,270 --> 00:10:04,300
+his bidding. Hancock's wealth and radical politics made him an obvious target for the new
+
+134
+00:10:04,300 --> 00:10:08,470
+Board of Customs. Who knew that, like most Boston merchants, Handcock had learned the
+
+135
+00:10:08,500 --> 00:10:13,990
+fine art of mixing declared cargo with undeclared cargo with Miss declared cargo.
+
+136
+00:10:14,680 --> 00:10:17,920
+So it shouldn't be too hard to catch him in the act of something.
+
+137
+00:10:20,200 --> 00:10:24,780
+The customs officials made two moves against Handcock in the spring and summer of 1768,
+
+138
+00:10:25,200 --> 00:10:26,400
+the first of which backfired.
+
+139
+00:10:26,730 --> 00:10:28,800
+The second of which backfired spectacularly.
+
+140
+00:10:30,090 --> 00:10:34,800
+In March, an agent boarded one of Handcock ships, finding nothing illegal.
+
+141
+00:10:35,130 --> 00:10:38,970
+He headed down below decks where his authority did not extend.
+
+142
+00:10:39,690 --> 00:10:43,470
+This affront was all the more galling because he didn't even have a writ of assistance.
+
+143
+00:10:43,830 --> 00:10:47,760
+Essentially a blanket search warrant tool that was so despised it would soon be
+
+144
+00:10:47,760 --> 00:10:49,410
+prohibited by the Fourth Amendment.
+
+145
+00:10:50,100 --> 00:10:53,160
+The agent was forcibly thrown off the ship for trespassing.
+
+146
+00:10:53,610 --> 00:10:57,510
+The local court upheld Hancox right not to be searched illegally.
+
+147
+00:10:58,440 --> 00:10:59,820
+This was the move that backfired.
+
+148
+00:11:00,810 --> 00:11:02,490
+The move backfired spectacularly.
+
+149
+00:11:02,490 --> 00:11:07,380
+Came in May when the Board of Customs seized one of Handcock shipped aptly named the
+
+150
+00:11:07,380 --> 00:11:09,960
+Liberty and held it on a legal technicality.
+
+151
+00:11:10,920 --> 00:11:15,300
+This was too much for the rejuvenated Boston radicals when the Navy attempted to move the
+
+152
+00:11:15,300 --> 00:11:20,010
+ship in June. A mob convened on the dock and successfully prevented the ship from being
+
+153
+00:11:20,010 --> 00:11:24,870
+taken away when the customs agents filed their reports back home.
+
+154
+00:11:25,080 --> 00:11:29,400
+They described the mob as a bunch of out-of-control barbarians, begged the ministry to
+
+155
+00:11:29,400 --> 00:11:31,140
+send troops to help restore order.
+
+156
+00:11:31,610 --> 00:11:37,530
+But it was clear from other eyewitnesses that, like the Stamp Act riots of 1765, the mob
+
+157
+00:11:37,530 --> 00:11:42,030
+was disciplined and under control, which to a guy like, say, Lt.
+
+158
+00:11:42,030 --> 00:11:46,590
+Governor Thomas Hutchinson, was actually scarier because it meant that this was not about
+
+159
+00:11:46,590 --> 00:11:49,770
+random passion, but highly organized resistance.
+
+160
+00:11:51,870 --> 00:11:56,580
+By this point, the long distance cross-Atlantic communications had finally gotten around
+
+161
+00:11:56,580 --> 00:12:01,140
+to providing the governor of Massachusetts, Francis, burnered for the record with an
+
+162
+00:12:01,200 --> 00:12:05,430
+answer or what to do about the circular letter that had been passed way back in February.
+
+163
+00:12:06,150 --> 00:12:10,590
+Bernard was ordered to demand the assembly, rescind the letter or be dissolved.
+
+164
+00:12:11,640 --> 00:12:15,270
+This, of course, is one of the major problems with trying to run a territory when you are
+
+165
+00:12:15,270 --> 00:12:17,790
+separated by an ocean of a thousand leagues.
+
+166
+00:12:18,510 --> 00:12:22,320
+When the ministry issued this order, they had no idea that events in Boston had already
+
+167
+00:12:22,320 --> 00:12:24,600
+progressed to organized mob violence.
+
+168
+00:12:25,630 --> 00:12:26,850
+But Governor Bernard did.
+
+169
+00:12:26,850 --> 00:12:31,290
+As he was told, the assembly must rescind the letter or face disillusion.
+
+170
+00:12:32,190 --> 00:12:36,820
+In the famous vote followed at the end of June, the assembly voted not to rescind by an
+
+171
+00:12:36,880 --> 00:12:42,220
+overwhelming ninety two to 17, with those ninety two soon being hailed in the streets and
+
+172
+00:12:42,220 --> 00:12:47,950
+in the press and in the taverns as the glorious ninety-two, the Massachusetts assembly
+
+173
+00:12:48,250 --> 00:12:49,360
+was immediately dissolved.
+
+174
+00:12:51,240 --> 00:12:55,380
+Meanwhile, the merchants of the various other colonial ports were starting to have their
+
+175
+00:12:55,380 --> 00:12:57,090
+reluctance to gear up for war.
+
+176
+00:12:57,450 --> 00:13:01,620
+Overwhelmed by their annoyance with the new taxes and the new customs officials.
+
+177
+00:13:02,100 --> 00:13:05,670
+And so they started discussing a new non importation pact.
+
+178
+00:13:06,720 --> 00:13:10,890
+But every city was worried that if they made the first move, that all their business
+
+179
+00:13:10,890 --> 00:13:12,780
+would simply move down to the next port.
+
+180
+00:13:13,470 --> 00:13:17,460
+So non importation could only work if everyone signed on the dotted line.
+
+181
+00:13:18,600 --> 00:13:23,070
+When the merchants of New York drew up a pact in April, it was contingent on Pennsylvania
+
+182
+00:13:23,070 --> 00:13:24,270
+signing a similar pact.
+
+183
+00:13:25,300 --> 00:13:29,850
+The now hugely influential John Dickinson through all his political and rhetorical weight
+
+184
+00:13:29,850 --> 00:13:31,260
+behind non importation.
+
+185
+00:13:31,650 --> 00:13:35,790
+But in the end, the more conservative Pennsylvania merchants refused to budge and they
+
+186
+00:13:35,790 --> 00:13:40,170
+rejected the pact, which meant that New York rejected the pact and then it was back to
+
+187
+00:13:40,170 --> 00:13:45,160
+square one. On August the 1st, 1768.
+
+188
+00:13:45,190 --> 00:13:50,320
+However, the merchants of Boston elected to go ahead with unilateral non importation to
+
+189
+00:13:50,320 --> 00:13:55,510
+commence January, the first event since the last meeting in April, convinced New York to
+
+190
+00:13:55,510 --> 00:14:00,970
+soon follow suit. Pennsylvania continued to drag their feet, but in the end, the main
+
+191
+00:14:00,970 --> 00:14:05,650
+threat of non importation was not the conservatives in Philadelphia who did get on board
+
+192
+00:14:05,650 --> 00:14:07,040
+in March 1769.
+
+193
+00:14:07,570 --> 00:14:12,580
+But the loose cannons over in Rhode Island, the Rhode Island merchants took a look around
+
+194
+00:14:12,580 --> 00:14:17,230
+at the closed for business signs going up and said, well, boys, if we stay open, we are
+
+195
+00:14:17,230 --> 00:14:19,030
+going to make a killing as well.
+
+196
+00:14:19,030 --> 00:14:23,920
+They did until Massachusetts, New York and Pennsylvania shut up their docks, not just to
+
+197
+00:14:23,920 --> 00:14:27,130
+imports from Britain, but also anything coming out of Rhode Island.
+
+198
+00:14:27,910 --> 00:14:31,720
+Ever the pragmatist, the Rhode Islanders drafted a non importation pact of their own,
+
+199
+00:14:32,140 --> 00:14:36,130
+which was just tight enough to satisfy their neighbors, but not so tight that they didn't
+
+200
+00:14:36,130 --> 00:14:39,940
+continue to bring in a few odds and ends spurned by the other colonies.
+
+201
+00:14:41,820 --> 00:14:44,430
+But by then, of course, things had gone from bad to worse.
+
+202
+00:14:44,460 --> 00:14:50,880
+Up in Boston. Finally, reacting to the Liberty incident, the ministry ordered 4000 troops
+
+203
+00:14:50,880 --> 00:14:54,720
+down from Halifax in September to help bring the rabble to heel.
+
+204
+00:14:55,920 --> 00:14:58,980
+Reckoning the probably the worst thing that could happen would be for these troops to
+
+205
+00:14:58,980 --> 00:15:02,880
+show up unannounced. Governor Bernard leaked word of their pending arrival.
+
+206
+00:15:03,510 --> 00:15:07,620
+The leaders of Massachusetts then demanded that their assembly be allowed to reconvene so
+
+207
+00:15:07,620 --> 00:15:08,790
+they could discuss a response.
+
+208
+00:15:09,240 --> 00:15:10,470
+But Bernard refused.
+
+209
+00:15:11,280 --> 00:15:16,230
+So on September the 22nd, an unofficial convention of towns met in Boston to urge the
+
+210
+00:15:16,230 --> 00:15:17,460
+governor to reconsider.
+
+211
+00:15:18,210 --> 00:15:23,220
+The meeting wasn't technically illegal, but was yet another sign that the colonists were
+
+212
+00:15:23,220 --> 00:15:27,960
+all too willing to defy their supposed masters and take matters into their own hands.
+
+213
+00:15:30,140 --> 00:15:34,400
+About a week later, the ships carrying the troops arrived in Boston, and on October the
+
+214
+00:15:34,400 --> 00:15:41,660
+1st, 1768, soldiers began to disembark from the hysterical letters coming from the
+
+215
+00:15:41,660 --> 00:15:45,710
+customs agents. These soldiers probably expected to walk into something out of Lord of
+
+216
+00:15:45,710 --> 00:15:50,330
+the Flies, but instead they found a peaceful city going about its business.
+
+217
+00:15:50,960 --> 00:15:55,610
+The radical leaders recognizing that 4000 armed regulars is not something you actively
+
+218
+00:15:55,610 --> 00:16:01,250
+resist. But the decision not to engage in any overt resistance did not mean that there
+
+219
+00:16:01,250 --> 00:16:02,750
+would be no resistance at all.
+
+220
+00:16:03,050 --> 00:16:08,240
+As the troops discovered, when they found no available lodgings, they were forced to set
+
+221
+00:16:08,240 --> 00:16:10,010
+up a tent camp on the Commons.
+
+222
+00:16:10,820 --> 00:16:15,230
+It would take weeks of threats, wrangling and confrontations before the troops were able
+
+223
+00:16:15,230 --> 00:16:18,320
+to move into passable winter quarters in leased warehouses.
+
+224
+00:16:19,250 --> 00:16:22,280
+So the city may have been peaceful, but it was not subdued.
+
+225
+00:16:24,870 --> 00:16:31,380
+The whole of 1769 was defined by rising tensions in occupied Boston, soldiers and
+
+226
+00:16:31,380 --> 00:16:35,160
+civilians were constantly at odds and constantly in each other's faces.
+
+227
+00:16:35,970 --> 00:16:40,950
+Boston was a big city for colonial North America, but it wasn't a big city.
+
+228
+00:16:41,500 --> 00:16:46,440
+And the two sides fell into what Robert Middle Koff describes as familiar mutual
+
+229
+00:16:46,440 --> 00:16:52,740
+contempt.. The soldiers had a tendency, as all soldiers do, to get drunk, break the
+
+230
+00:16:52,740 --> 00:16:57,600
+Sabbath. Then how shall I put this seduce away the virtue of the local maidens.
+
+231
+00:16:58,560 --> 00:17:03,330
+On top of that, off duty enlisted men were only too happy to do manual labor to
+
+232
+00:17:03,330 --> 00:17:04,770
+supplement their meager pay.
+
+233
+00:17:05,190 --> 00:17:09,540
+Taking jobs away from the unskilled workers who form the rank and file of the Boston
+
+234
+00:17:09,540 --> 00:17:16,790
+mobs. All through 1769, these two sides butted heads, insulting each other and a few
+
+235
+00:17:16,790 --> 00:17:17,840
+fistfights broke out.
+
+236
+00:17:18,590 --> 00:17:22,430
+Any one of these incidents threatened to blow the lid off the pressure cooker.
+
+237
+00:17:23,520 --> 00:17:25,590
+By August, Governor Burnered had had enough.
+
+238
+00:17:25,980 --> 00:17:29,460
+And after nine years as governor, decided that, however this was going to be resolved, he
+
+239
+00:17:29,460 --> 00:17:30,570
+was washing his hands of it.
+
+240
+00:17:31,290 --> 00:17:36,150
+He sailed back to England and the old scourge of the populace, Thomas Hutchinson became
+
+241
+00:17:36,210 --> 00:17:43,380
+acting governor. Meanwhile, in the rest of the colony, 1769 saw the continued expansion
+
+242
+00:17:43,380 --> 00:17:45,030
+of the non importation movement.
+
+243
+00:17:45,810 --> 00:17:49,860
+The southern colonies first came on board when the Virginia House of Burgesses met in May
+
+244
+00:17:50,430 --> 00:17:52,920
+and members began denouncing parliamentary taxation.
+
+245
+00:17:53,430 --> 00:17:55,230
+They were immediately dissolved by the governor.
+
+246
+00:17:55,620 --> 00:17:59,250
+But undeterred, the Burgesses reconvened unofficially at the Raleigh Tavern.
+
+247
+00:18:00,060 --> 00:18:05,040
+There they debated and then adopted the Virginia Association Non Importation Agreement.
+
+248
+00:18:05,480 --> 00:18:09,180
+It was not quite as strict as those being passed up in the north, but one that would do
+
+249
+00:18:09,180 --> 00:18:15,390
+the job. The Virginia Association also marks the first foray into radical politics for
+
+250
+00:18:15,390 --> 00:18:19,860
+the wealthy Virginia planter George Washington, who, along with his friend and neighbor
+
+251
+00:18:19,860 --> 00:18:24,210
+George Mason, helped convince their fellow Burgess's to join the association.
+
+252
+00:18:25,210 --> 00:18:28,960
+I'll have more to say about both of these guys down the road, especially obviously George
+
+253
+00:18:28,960 --> 00:18:33,250
+Washington, but I think I'll wait to take stock of the indispensable man of the
+
+254
+00:18:33,250 --> 00:18:37,360
+revolution when he comes striding into the second Continental Congress wearing a full
+
+255
+00:18:37,360 --> 00:18:39,880
+dress uniform. It's more dramatic that way.
+
+256
+00:18:41,660 --> 00:18:46,100
+After Virginia non importation passed, the rest of the South followed at a rate of about
+
+257
+00:18:46,100 --> 00:18:49,820
+a colony a month, which isn't to say that they needed Virginia to lead the way.
+
+258
+00:18:50,120 --> 00:18:51,950
+Just that that's the way it happened to go.
+
+259
+00:18:53,300 --> 00:18:58,040
+By the end of the year, the American colonies formed a solid wall, orders to British
+
+260
+00:18:58,040 --> 00:19:02,330
+merchant houses, dried-up ships carrying targeted goods were turned away.
+
+261
+00:19:03,340 --> 00:19:07,340
+It had taken a little while longer, but the towns and acts like the Stamp Act was
+
+262
+00:19:07,340 --> 00:19:09,770
+officially becoming more trouble than it was worth.
+
+263
+00:19:10,830 --> 00:19:15,600
+Unfortunately, things would get worse before they would get better, though, as we will
+
+264
+00:19:15,600 --> 00:19:18,920
+see next week, things will get better, at least for a little while.
+
+265
+00:19:21,120 --> 00:19:25,950
+Back in Britain, King George finally relieved the young Duke of Grafton of the burden he
+
+266
+00:19:25,950 --> 00:19:31,290
+had proved himself incapable of bearing any reform, the ministry yet again, this time
+
+267
+00:19:31,290 --> 00:19:32,520
+turning to Lord North.
+
+268
+00:19:32,580 --> 00:19:38,240
+In January 1770, North had been serving as Chancellor of the Exchequer since Townsend
+
+269
+00:19:38,250 --> 00:19:41,610
+death, and he was able to step seamlessly into his new role.
+
+270
+00:19:42,740 --> 00:19:46,510
+Luckily for all of you out there, Lord North is going to stick around for a while.
+
+271
+00:19:47,120 --> 00:19:51,350
+All the way through the Revolutionary War, in fact, so we can finally dispense with this
+
+272
+00:19:51,350 --> 00:19:55,610
+revolving door of British prime ministers that define the 1760s.
+
+273
+00:19:58,510 --> 00:20:02,980
+As Lord North took office, Massachusetts was rapidly heading towards one of the most
+
+274
+00:20:02,980 --> 00:20:04,870
+famous set pieces of the revolution.
+
+275
+00:20:05,470 --> 00:20:06,670
+The Boston Massacre.
+
+276
+00:20:08,300 --> 00:20:12,830
+The groundwork was laid in February by an ugly incident involving a merchant accused of
+
+277
+00:20:12,830 --> 00:20:17,120
+breaking the non importation agreement that ended with an 11 year old kid getting shot
+
+278
+00:20:17,120 --> 00:20:20,540
+and killed, thousands turned out for a funeral procession.
+
+279
+00:20:21,010 --> 00:20:23,960
+It was as much a show political force as memorial to the boy.
+
+280
+00:20:24,770 --> 00:20:28,220
+This was followed by a few weeks of escalating anger and recurrent fights between
+
+281
+00:20:28,220 --> 00:20:32,120
+soldiers and civilians who were utterly sick of the sight of the other.
+
+282
+00:20:34,320 --> 00:20:38,420
+Finally, on March the 5th, 1770, it all came to a head.
+
+283
+00:20:40,200 --> 00:20:44,880
+Outside the Customs House on Kingstree, Private Hugh White was chatting with some off
+
+284
+00:20:44,880 --> 00:20:49,110
+duty comrades when a passing Bostonian made a crack about their commanding officer.
+
+285
+00:20:49,710 --> 00:20:53,040
+Private White proceeded to clock the dude upside the head.
+
+286
+00:20:54,020 --> 00:20:58,040
+The off duty soldiers made themselves scarce, leaving Private White to deal with the ring
+
+287
+00:20:58,040 --> 00:21:02,930
+of ticked off Bostonians who soon surrounded him, White backed up against the Customs
+
+288
+00:21:02,930 --> 00:21:08,060
+House door, gun drawn, the growing crowd heckled them and dared him to shoot.
+
+289
+00:21:09,550 --> 00:21:13,140
+Up the street. Captain Preston, commander of the Customs House Garrison.
+
+290
+00:21:13,510 --> 00:21:14,890
+Watch this all unfold.
+
+291
+00:21:15,460 --> 00:21:18,340
+He was probably hoping it would just resolve itself naturally.
+
+292
+00:21:18,820 --> 00:21:23,140
+But then the church bells started going off and more men, these armed with clubs, et
+
+293
+00:21:23,190 --> 00:21:25,090
+cetera, started showing up.
+
+294
+00:21:25,300 --> 00:21:28,450
+And Captain Preston decided it was high time to go get his man.
+
+295
+00:21:29,870 --> 00:21:34,070
+He led a corporal and six privates through the crowd, now numbering some three or four
+
+296
+00:21:34,070 --> 00:21:37,560
+hundred, but rather than just pulling private white out of there.
+
+297
+00:21:37,880 --> 00:21:41,000
+Preston had his men form a semicircle facing the crowd.
+
+298
+00:21:41,600 --> 00:21:43,460
+Guns unfortunately loaded.
+
+299
+00:21:44,710 --> 00:21:49,610
+A tense 15 minute standoff ensued with the civilians, insulting the soldiers and pelting
+
+300
+00:21:49,610 --> 00:21:51,500
+them with snowballs and chunks of ice.
+
+301
+00:21:52,160 --> 00:21:55,010
+One of those snowballs finally hit a private at the end of the line.
+
+302
+00:21:55,520 --> 00:21:57,920
+He fell down probably after slipping on the ice.
+
+303
+00:21:58,340 --> 00:22:00,410
+And when he popped back up, he fired his gun.
+
+304
+00:22:01,490 --> 00:22:05,280
+Now reports conflict about how long of a pause followed the first shot.
+
+305
+00:22:05,670 --> 00:22:09,450
+But however long it was, the jumpy soldiers were soon firing into the crowd.
+
+306
+00:22:10,140 --> 00:22:11,220
+Eleven men were hit.
+
+307
+00:22:11,820 --> 00:22:13,110
+Five ultimately died.
+
+308
+00:22:13,500 --> 00:22:14,940
+Six more were just wounded.
+
+309
+00:22:15,870 --> 00:22:19,590
+A regimens worth of British regulars were soon on hand to secure the peace.
+
+310
+00:22:20,010 --> 00:22:24,690
+But though the crowd fell back, it continued to grow and was only dispersed when Acting
+
+311
+00:22:24,690 --> 00:22:27,510
+Governor Hutchinson promised a full inquiry.
+
+312
+00:22:28,320 --> 00:22:32,160
+The next morning, captain pressed into his men, were arrested by the local authorities.
+
+313
+00:22:34,010 --> 00:22:38,330
+In the months that followed, a ruckus wore in the press erupted as radicals and
+
+314
+00:22:38,330 --> 00:22:40,460
+conservatives tried to control the story.
+
+315
+00:22:41,150 --> 00:22:45,920
+Are we talking about innocent boys gunned down by the cruel lobster backs or brave
+
+316
+00:22:45,920 --> 00:22:48,770
+soldiers defending themselves against violent hooligans?
+
+317
+00:22:49,780 --> 00:22:54,290
+It was in these months that silversmith Paul Revere produced his famous plate depicting
+
+318
+00:22:54,310 --> 00:22:58,100
+Preston ordering a line of disciplined troops to fire on an unarmed crowd.
+
+319
+00:22:58,910 --> 00:23:02,840
+Threw a good shot of it up at Revolution's podcast on com if you want to check it out.
+
+320
+00:23:03,980 --> 00:23:08,030
+But as the two sides fought over the meaning of the incident, the radical leadership took
+
+321
+00:23:08,030 --> 00:23:13,220
+pains to ensure that the soldiers received a fair trial as moderates might be alienated
+
+322
+00:23:13,220 --> 00:23:14,720
+by summary mob justice.
+
+323
+00:23:15,740 --> 00:23:20,300
+Which brings us to the man they turned to to defend the soldiers and make sure that they
+
+324
+00:23:20,300 --> 00:23:22,460
+were zealously and honestly defended.
+
+325
+00:23:23,260 --> 00:23:26,270
+Thirty five year old attorney John Adams.
+
+326
+00:23:28,220 --> 00:23:31,440
+John Adams was born in Braintree in 1735.
+
+327
+00:23:32,150 --> 00:23:36,590
+His father was a farmer and a church deacon, and his mother came from the influential
+
+328
+00:23:36,590 --> 00:23:41,510
+Boylston family. The age of 16, he went off to Harvard after graduation.
+
+329
+00:23:41,540 --> 00:23:46,010
+He spent a few years teaching in Worcester, dashing his father's hopes that he would
+
+330
+00:23:46,010 --> 00:23:49,390
+become a minister. Adams became enchanted with the law.
+
+331
+00:23:49,730 --> 00:23:53,900
+Apprenticing in a Worcester law office and then earning a master's degree at Harvard in
+
+332
+00:23:53,900 --> 00:24:02,130
+1758. After a few years of bachelor lawyering, Adams married Abigail Smith in 1764,
+
+333
+00:24:02,550 --> 00:24:06,450
+creating one of the all time great husband and wife teams in American history.
+
+334
+00:24:07,950 --> 00:24:10,290
+Adams made his first entry into public life.
+
+335
+00:24:10,320 --> 00:24:13,500
+The next year as a staunch opponent of the Stamp Act.
+
+336
+00:24:14,130 --> 00:24:18,360
+And though he was an early and committed advocate of American rights, he was
+
+337
+00:24:18,360 --> 00:24:23,130
+constitutionally allergic to the kind of radical populism spouse by his second cousin,
+
+338
+00:24:23,130 --> 00:24:31,970
+Samuel. The short and punchy Adams was famously argumentative, irascible and vain, but he
+
+339
+00:24:31,970 --> 00:24:38,240
+was also brilliant and passionate and irresistible at once on aspiring and the subject of
+
+340
+00:24:38,330 --> 00:24:44,120
+endless ridicule. And he will soon become known as both the Colossus of Independence and
+
+341
+00:24:44,420 --> 00:24:50,960
+his rotund Eddie Adams took on the Boston Massacre case with some hesitation.
+
+342
+00:24:50,990 --> 00:24:53,930
+He was, after all, an ambitious man with patriot leanings.
+
+343
+00:24:54,500 --> 00:24:58,700
+But in the end, he believed that the men deserve their day in court, and that facts, not
+
+344
+00:24:58,700 --> 00:25:00,670
+emotion, deserve to carry the day.
+
+345
+00:25:02,310 --> 00:25:06,630
+After Captain Preston was tried and acquitted separately in October, it was proven beyond
+
+346
+00:25:06,660 --> 00:25:08,760
+any doubt that he never ordered his men to fire.
+
+347
+00:25:09,300 --> 00:25:12,180
+The rest of the soldiers were brought up for murder in November.
+
+348
+00:25:13,340 --> 00:25:15,440
+Adams, of course, did more than put on a good show.
+
+349
+00:25:15,830 --> 00:25:17,690
+He slaughtered the prosecution.
+
+350
+00:25:18,770 --> 00:25:22,430
+He argued that if the soldiers were endangered by the mob, then they had every right to
+
+351
+00:25:22,430 --> 00:25:27,350
+fire. And if they weren't technically endangered, but had been provoked by the mob, then
+
+352
+00:25:27,350 --> 00:25:31,850
+the most they could be convicted of with manslaughter, not murder, as all the evidence
+
+353
+00:25:31,850 --> 00:25:34,910
+suggested that the mob was not a bunch of innocent bystanders.
+
+354
+00:25:35,450 --> 00:25:38,450
+The jury agreed with Adams after just a few hours deliberation.
+
+355
+00:25:39,460 --> 00:25:43,310
+Six of the soldiers were acquitted outright, while the other two were convicted of
+
+356
+00:25:43,310 --> 00:25:48,230
+manslaughter. These two, however, were soon released with a reduced sentence of public
+
+357
+00:25:48,230 --> 00:25:55,730
+branding. Now, surprisingly, the acquittals did not like ignite a riot, though the Boston
+
+358
+00:25:55,730 --> 00:26:01,100
+massacre continued to be played up and commemorated annually by now, some of the spark
+
+359
+00:26:01,100 --> 00:26:02,670
+had gone out of the radical course.
+
+360
+00:26:03,530 --> 00:26:08,180
+Mostly this was because soon after the incident itself, parliament once again caved to
+
+361
+00:26:08,180 --> 00:26:13,430
+the wall of colonial opposition and repealed the Townsend duties in April 1770.
+
+362
+00:26:14,240 --> 00:26:19,430
+Well, not all the towns duties as with the Stamp Act repeal parliament couldn't walk away
+
+363
+00:26:19,430 --> 00:26:24,560
+without leaving its foot in the door on the duty on tea was kept in place too
+
+364
+00:26:24,560 --> 00:26:26,630
+insignificant to provoke mass resistance.
+
+365
+00:26:27,110 --> 00:26:31,220
+But more than enough to keep the precedent going that Parliament had the right to impose
+
+366
+00:26:31,250 --> 00:26:34,190
+whatever taxes it wished when ever it wished.
+
+367
+00:26:38,040 --> 00:26:43,470
+Next week, we'll begin with two years of relative calm, which everyone hope meant that
+
+368
+00:26:43,470 --> 00:26:44,670
+the crisis was now over.
+
+369
+00:26:45,840 --> 00:26:52,140
+But in 1773, Parliament will reignite the Patriot flame when they attempt to bail out the
+
+370
+00:26:52,170 --> 00:26:57,300
+totally mismanaged East India Company by allowing them to import tea directly into the
+
+371
+00:26:57,300 --> 00:27:01,500
+colonies, bypassing the colonial merchants who made their living as middlemen.
+
+372
+00:27:02,010 --> 00:27:06,330
+As you can imagine, the merchants were not too happy about this and they were led down
+
+373
+00:27:06,330 --> 00:27:11,080
+the path. The next great set piece of the revolution, the Boston Tea Party.
