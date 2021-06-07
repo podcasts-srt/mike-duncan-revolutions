@@ -1,0 +1,1155 @@
+1
+00:00:04,000 --> 00:00:13,960
+Hello, and welcome to revolutions Episode 28 Yorktown.
+
+2
+00:00:18,490 --> 00:00:22,210
+Today we come to the end of the American War of Independence.
+
+3
+00:00:22,720 --> 00:00:28,120
+What had started in the 1760s as a political conflict over the place of the American colonies within
+
+4
+00:00:28,120 --> 00:00:33,370
+the British Empire, it turned into a military conflict that was now dragging into its sixth year.
+
+5
+00:00:34,120 --> 00:00:38,590
+During these years, the leaders of the American Revolution had been consumed almost entirely with the
+
+6
+00:00:38,590 --> 00:00:43,960
+task of running the war. But the victory Yorktown finally allowed them to return to the questions that
+
+7
+00:00:43,960 --> 00:00:48,550
+had roused them to action in the first place. What are the proper limits of government? What are the
+
+8
+00:00:48,550 --> 00:00:54,130
+rights of the citizens? How do we reconcile the forces of power and liberty so that we can preserve
+
+9
+00:00:54,130 --> 00:01:00,490
+freedom while maintaining stability? While the war was on these questions were mostly tabled in the interest
+
+10
+00:01:00,490 --> 00:01:06,789
+of maintaining a united Patriotic Front. When the war ended, it came time to figure out what it had
+
+11
+00:01:06,789 --> 00:01:12,280
+all been for. As we will see in the episodes to come, there would turn out to be surprisingly little
+
+12
+00:01:12,280 --> 00:01:15,430
+agreement about what the revolution was supposed to have meant.
+
+13
+00:01:17,710 --> 00:01:21,820
+Before we get into it, though, I need to make a few corrections that have been helpfully passed along.
+
+14
+00:01:22,270 --> 00:01:27,370
+listener Malcolm expressed some surprise that the British would put an 86 year old Admiral in charge
+
+15
+00:01:27,370 --> 00:01:34,030
+of its navy and he was of course, right. Admiral arbuthnott got the pronunciation now to was 68 years
+
+16
+00:01:34,030 --> 00:01:38,200
+old, not 86. I was just some accidental dyslexia on my part.
+
+17
+00:01:38,980 --> 00:01:43,840
+listener Dylan points out that Camden, South Carolina isn't really on the border between the Carolinas
+
+18
+00:01:43,840 --> 00:01:46,360
+and that's also true and was badly worded on my part.
+
+19
+00:01:46,600 --> 00:01:51,910
+It's down about 75 or 80 miles or so. So you know, it's near the border, but not on the border.
+
+20
+00:01:52,510 --> 00:01:57,760
+Finally, listener, Elizabeth reminds me that the quote about Philadelphia taking how rather than how
+
+21
+00:01:57,760 --> 00:02:02,710
+taking Philadelphia comes from Benjamin Franklin, not George Washington, which of course it does.
+
+22
+00:02:03,070 --> 00:02:07,660
+I don't know how I got that wrong, but I did. Especially since there's an old rhetorical trick where
+
+23
+00:02:07,660 --> 00:02:12,370
+if you don't know who said something, you can just attribute it to Benjamin Franklin or also Mark Twain,
+
+24
+00:02:12,730 --> 00:02:17,290
+and no one will ever call you out on it even works if you've got some pithy quote of your own, you want
+
+25
+00:02:17,290 --> 00:02:21,820
+to test out on your friends, you know, I believe it was Benjamin Franklin, who said never trust a man
+
+26
+00:02:21,820 --> 00:02:25,150
+who says that his favourite kind of music is whatever's on the radio.
+
+27
+00:02:25,660 --> 00:02:34,210
+So thank you guys for keeping me honest. Okay, so when we left off last time, in March 1781, Cornwallis
+
+28
+00:02:34,210 --> 00:02:37,360
+had just quote unquote, won the battle of Guildford courthouse.
+
+29
+00:02:37,840 --> 00:02:43,030
+The air quotes are there because the heavy casualties the British suffered not only further pinch, Cornwallis
+
+30
+00:02:43,030 --> 00:02:46,660
+has strategic options, but also badly eroded the morale of his men.
+
+31
+00:02:47,200 --> 00:02:51,670
+Even more than their commander the rank and file had been suffering through this year in the Carolinas
+
+32
+00:02:52,060 --> 00:02:55,840
+fighting battles that settled nothing, defending positions that controlled nothing.
+
+33
+00:02:56,140 --> 00:03:01,240
+And all the while getting jumped by guerrillas eating rotten food and contracting all manner of disease
+
+34
+00:03:01,810 --> 00:03:04,750
+was all turning out to be as deadly as it was pointless.
+
+35
+00:03:05,350 --> 00:03:09,520
+And now their only reward for having driven the Americans from the field at Guilford Courthouse was
+
+36
+00:03:09,520 --> 00:03:11,950
+to find that a quarter of their comrades were dead or wounded.
+
+37
+00:03:12,790 --> 00:03:16,420
+Are we any closer to securing the South than we were yesterday? No.
+
+38
+00:03:16,840 --> 00:03:21,040
+Are we in fact probably even further away than ever? sure looks like it.
+
+39
+00:03:23,290 --> 00:03:28,210
+On the other side of lines, General Nathaniel Greene was regrouping from the quote unquote loss at Guildford
+
+40
+00:03:28,210 --> 00:03:34,300
+courthouse by proposing a bold initiative to plunge into South Carolina and start attacking all those
+
+41
+00:03:34,300 --> 00:03:38,050
+little Garrison's Cornwallis had spread across the countryside in the previous year.
+
+42
+00:03:38,860 --> 00:03:43,990
+It was a good idea because it would put Cornwallis in a bind or so Greene thought.
+
+43
+00:03:44,860 --> 00:03:49,420
+The British General could either follow the American South and engage in more running battles that would
+
+44
+00:03:49,420 --> 00:03:55,060
+exhaust his been physically and emotionally or he could stay and try to consolidate his hold on North
+
+45
+00:03:55,060 --> 00:03:58,870
+Carolina, leaving green to have the run of South Carolinaon a post.
+
+46
+00:04:00,000 --> 00:04:06,000
+But his sound his greens reasoning seem to be Cornwallis already had a third option in mind.
+
+47
+00:04:07,560 --> 00:04:12,660
+Is he Cornwallis was just as discouraged as his men about their prospects in the Carolinas.
+
+48
+00:04:13,140 --> 00:04:17,670
+The strategy of systematically moving from south to north was proving to be a bust.
+
+49
+00:04:17,970 --> 00:04:22,800
+It had been entirely dependent on a partnership with a loyalist population that had turned out to be
+
+50
+00:04:22,800 --> 00:04:26,220
+neither as plentiful nor as helpful as the British assumed.
+
+51
+00:04:27,270 --> 00:04:31,740
+But even as the whole war now really started to slip away from the British for good.
+
+52
+00:04:32,280 --> 00:04:36,720
+Cornwallis dreamed up yet another grand strategy to try to salvage the situation.
+
+53
+00:04:37,500 --> 00:04:43,110
+In a letter to Clinton purportedly asking for instructions, Cornwallis laid out what he thought those
+
+54
+00:04:43,110 --> 00:04:48,510
+instructions ought to be. That Cornwallis should have been in the Carolinas move into Virginia, make
+
+55
+00:04:48,510 --> 00:04:52,260
+a base on the Chesapeake Bay. From that central pivot point.
+
+56
+00:04:52,500 --> 00:04:55,590
+They would then divide and conquer the rebel colonies once and for all.
+
+57
+00:04:56,610 --> 00:05:00,630
+And so when green plunged into South Carolina, and Cornwallis did not follow.
+
+58
+00:05:00,840 --> 00:05:05,310
+It wasn't because he was trying to hold North Carolina, but because he was trying to get out of there
+
+59
+00:05:05,370 --> 00:05:13,470
+as quickly as possible. In the middle of April 1781, Greene put his plan in motion and move first on
+
+60
+00:05:13,470 --> 00:05:19,680
+the 900 British steel garrison in Camden, South Carolina, under the command of Lord rondon, who was
+
+61
+00:05:19,680 --> 00:05:24,480
+left as the senior British officer in the state. When Cornwallis decided to march away to Virginia.
+
+62
+00:05:25,590 --> 00:05:31,530
+Green led a column of about 1500 directly to Camden, while smaller detachments were sent around to lock
+
+63
+00:05:31,530 --> 00:05:34,770
+up the countryside and cut off supplies and communication lines.
+
+64
+00:05:35,430 --> 00:05:41,520
+On April the 23rd, Francis Marion and light horse Harry Lee, famous cavalry Colonel and father of Robert
+
+65
+00:05:41,550 --> 00:05:47,250
+E. Lee, succeeded in capturing fort Watson just south of Camden, after they constructed a large tower
+
+66
+00:05:47,250 --> 00:05:49,770
+that allowed sharpshooters to fire inside the fort.
+
+67
+00:05:50,670 --> 00:05:56,190
+But Camden proved a tougher nut to crack. The British had built up the defense's since the Americans
+
+68
+00:05:56,190 --> 00:06:01,710
+had last been in the area. Unable to storm the steady right away, green pulled back about a mile to
+
+69
+00:06:01,710 --> 00:06:06,870
+an elevated position called hob Kirk's Hill, and could only hope to induce the British to come out and
+
+70
+00:06:06,870 --> 00:06:13,440
+fight. Luckily for green, Lord ridden was both nervous about what would happen when the forces under
+
+71
+00:06:13,440 --> 00:06:19,200
+Marion and Lee link back up with green. And he'd been tipped off by a desert that the Americans had
+
+72
+00:06:19,200 --> 00:06:24,840
+no artillery. So if he was going to stop the seed before it began, now was the time to do it.
+
+73
+00:06:25,350 --> 00:06:30,539
+So on the morning of April the 25th, he led his men out of Camden, skirting the edge of a swamp to hit
+
+74
+00:06:30,539 --> 00:06:37,560
+the hopefully unsuspecting Americans. The Americans were in fact caught by surprise, but the British
+
+75
+00:06:37,560 --> 00:06:40,650
+were then themselves surprised to find that the deserter had been wrong.
+
+76
+00:06:40,950 --> 00:06:43,890
+Green did have himself a nice little battery of artillery.
+
+77
+00:06:44,970 --> 00:06:50,220
+The British came up in a narrow line, so green ordered his now scrambling into line forces to envelop
+
+78
+00:06:50,220 --> 00:06:53,130
+them. While he pasted their centre with the heavy guns.
+
+79
+00:06:53,789 --> 00:06:58,350
+The British took a sharp and unexpected beating but managed to keep themselves composed.
+
+80
+00:06:58,980 --> 00:07:04,110
+Meanwhile, the American regiment supposedly enveloping the left flank, saw their commander get shot
+
+81
+00:07:04,110 --> 00:07:09,180
+down and then in a confused attempt to recruit round up easy prey for a hard charge by the British that
+
+82
+00:07:09,180 --> 00:07:14,100
+scattered them. Meanwhile, the American cavalry that had been sent around the other side got bogged
+
+83
+00:07:14,100 --> 00:07:18,030
+down taking some prisoners and never made it back around to the battle in time.
+
+84
+00:07:18,510 --> 00:07:23,880
+So Greene was forced to withdraw from the field. But as with Guildford courthouse, the Battle of hobb
+
+85
+00:07:23,880 --> 00:07:29,400
+Kirk's Hill was another Pyrrhic victory for the British, with 40 dead and over 200 wounded.
+
+86
+00:07:31,800 --> 00:07:37,260
+With the Americans controlling the surrounding area, Lord ridden recognise that Camden was a lost cause.
+
+87
+00:07:37,830 --> 00:07:41,010
+On May the 90 abandon the city and headed south for Charleston.
+
+88
+00:07:42,000 --> 00:07:46,470
+After breaking off a detachment to go capture Augusta, Georgia, a mission that went off without a hitch,
+
+89
+00:07:46,950 --> 00:07:53,700
+Greene took the rest of his forces west to drive off the 550 man garrison, mostly loyalists, the town
+
+90
+00:07:53,700 --> 00:07:59,760
+of 96, South Carolina Don't ask me why it's calledthat there's apparently a half dozen different legends
+
+91
+00:07:59,760 --> 00:08:05,580
+to explain it. Greene settled in outside the fortified village on May the 22nd with about 1000 men.
+
+92
+00:08:06,240 --> 00:08:11,220
+But the British fortifications again precluded an immediate attack so green had to lay siege.
+
+93
+00:08:11,880 --> 00:08:17,190
+But after a few weeks of digging trenches, news arrived that ridden was personally leading a 2000 man
+
+94
+00:08:17,190 --> 00:08:23,340
+relief army out of Charleston, having just been reinforced by the men he had sent to take Augusta green
+
+95
+00:08:23,340 --> 00:08:29,159
+decided to mountain attack on 96 on June 18, for the British reinforcements can show up.
+
+96
+00:08:29,940 --> 00:08:34,409
+The attack started well for the Americans. But as they pushed forward, their officers started getting
+
+97
+00:08:34,409 --> 00:08:38,730
+shot up under heavy fire and the men fell back to the safety of their trenches.
+
+98
+00:08:39,570 --> 00:08:44,039.
+With ridden breathing down his neck green with drew back to the relative safety of Charlotte.
+
+99
+00:08:44,730 --> 00:08:50,970
+But as with Camden, the tactical defeat was a strategic victory as Ratan simply collected the loyalists
+
+100
+00:08:50,970 --> 00:08:54,450
+at 96 abandon the village and headed back to Charleston.
+
+101
+00:08:54,840 --> 00:09:01,770
+Now, the only spot left in South Carolina, the British still controlled it anyone personified the old
+
+102
+00:09:01,770 --> 00:09:07,800
+cliche of losing the battle, winning the war. It was Nathaniel Greene in the southern Theatre of the
+
+103
+00:09:07,800 --> 00:09:16,470
+American Revolutionary War. Backup in the north, the stalemate that had persisted for the last few years
+
+104
+00:09:16,470 --> 00:09:22,890
+was finally about to break loose, but not without some touching go trouble for General George Washington.
+
+105
+00:09:23,910 --> 00:09:32,069.
+over the winter of 1780 1781, the inevitable finally occurred, mutiny in the continental ranks.
+
+106
+00:09:32,850 --> 00:09:38,580
+The amazing thing, of course, is that it had taken this long, the grievances of the soldiers were as
+
+107
+00:09:38,580 --> 00:09:45,150
+many as they were justified. They were badly fed, badly supplied, paid late, and then when they were
+
+108
+00:09:45,150 --> 00:09:51,600
+paid at all given worthless continental script. One of Washington's great accomplishments perhaps the
+
+109
+00:09:51,600 --> 00:09:57,540
+great accomplishment is that he exuded such a force of inspirational leadership that his men had endured,
+
+110
+00:09:57,780 --> 00:10:06,540
+without ever taking any fatal steps. Sure desertion was a daily problem, but not mutiny, never mutiny.
+
+111
+00:10:07,410 --> 00:10:13,620
+But on New Year's Day 1781 1200 men from the Pennsylvania line wintering in Morristown, New Jersey had
+
+112
+00:10:13,620 --> 00:10:18,270
+had enough. They revolted against their officers killing a few in the process.
+
+113
+00:10:18,690 --> 00:10:22,800
+And then they set out for Philadelphia to force the Congress to address their grievances.
+
+114
+00:10:23,460 --> 00:10:30,240
+Now, these guys were loyal patriots, and their rallying cry was actually we're not Arnold's but enough
+
+115
+00:10:30,270 --> 00:10:38,280
+was enough. Washington was concerned about confronting them personally fearful that his aura of authority
+
+116
+00:10:38,280 --> 00:10:44,040
+might be shattered if they did not submit. So he dispatched mad Anthony Wayne to nip it in the bud.
+
+117
+00:10:44,730 --> 00:10:48,360
+Wayne let the mutineers crossed the Delaware River, and then surrounded them.
+
+118
+00:10:48,930 --> 00:10:53,310
+Negotiations produced an agreement that half of these guys would be released from service altogether,
+
+119
+00:10:53,610 --> 00:10:59,490
+and the rest furloughed until spring. But Wayne did identify the ringleaders and ordered them shocked,
+
+120
+00:10:59,850 --> 00:11:04,950
+though he was forced to also threatened to shoot the assigned executioner's when they hesitated to fire
+
+121
+00:11:04,950 --> 00:11:11,790
+on their own comrades. Then, almost as soon as this crisis passed, another 200 men from the New Jersey
+
+122
+00:11:11,790 --> 00:11:18,420
+line mutinied. Washington again stayed away personally, but ordered this time that there'll be no negotiations
+
+123
+00:11:18,420 --> 00:11:25,920
+this had already gone too far. The 200 mutineers were surrounded and offered no terms they submitted,
+
+124
+00:11:26,069. --> 00:11:32,940
+and again, the ringleaders were shocked. With the benefit of hindsight, we also now know that these
+
+125
+00:11:32,940 --> 00:11:39,390
+two mutinies were merely prelude to the really big mutiny that will bubble up next week, a mutiny that
+
+126
+00:11:39,390 --> 00:11:44,730
+leads to one of the most dramatic single moments of the whole revolutionary era, the moment when the
+
+127
+00:11:44,730 --> 00:11:50,910
+Continental Army did not follow the example of the New Model Army, because Washington refused to be
+
+128
+00:11:50,910 --> 00:11:57,540
+cast as an American Cromwell. The mutinies though did highlight the pressing necessity for more loans
+
+129
+00:11:57,540 --> 00:12:02,550
+from the French. And over that same winter, Benjamin Franklin managed to not only secure more money,
+
+130
+00:12:02,910 --> 00:12:06,060
+but yet a deeper commitment for military assistance.
+
+131
+00:12:07,860 --> 00:12:10,620
+So to go back a little bit to catch up with the French.
+
+132
+00:12:10,830 --> 00:12:16,980
+After failing to take Savannah in 1779, the comp distain had sailed home, where he was understandably
+
+133
+00:12:16,980 --> 00:12:24,510
+replaced in the spring of 17. At a new fleet was dispatched carrying 7000 land forces that would join
+
+134
+00:12:24,510 --> 00:12:29,100
+with Washington's army. This army larger even than the one Washington himself.
+
+135
+00:12:29,100 --> 00:12:32,550
+Currently lead was commanded by the comp de roshambo.
+
+136
+00:12:33,540 --> 00:12:36,870
+This fleet landed in Newport, Rhode Island in July 1780.
+
+137
+00:12:36,900 --> 00:12:40,560
+Odd Did I mention the British pulled out of Newport at the end of 1779.
+
+138
+00:12:41,040 --> 00:12:43,860
+I didn't. Man there's a lot of moving pieces here.
+
+139
+00:12:44,579 --> 00:12:47,490
+The British moved out of Newport at the end of 1779.
+
+140
+00:12:48,000 --> 00:12:53,460
+So the French landed at Newport and the army disembarked, but then the British Navy promptly swung in
+
+141
+00:12:53,460 --> 00:12:59,220
+and blockaded a lot of them. With the Navy trapped roshambo refused to leave them unsupported to the
+
+142
+00:12:59,220 --> 00:13:01,770
+plan link up with Washington was delayed for the year.
+
+143
+00:13:02,340 --> 00:13:08,970
+Things might have gone on like that indefinitely, but in January 1781, a storm blew through New England
+
+144
+00:13:08,970 --> 00:13:11,850
+that drove the British blockade from its position outside Newport.
+
+145
+00:13:12,360 --> 00:13:17,760
+The French fleet was now free to manoeuvre, and the French army under roshambo was free to start making
+
+146
+00:13:17,760 --> 00:13:23,610
+plans for a joint operation with Washington, though both the French army and French Navy maintain their
+
+147
+00:13:23,610 --> 00:13:31,020
+base at Newport. The timing of the storm was fortuitous, because just a few weeks earlier, Henry Clinton
+
+148
+00:13:31,020 --> 00:13:37,770
+had decided to put the trader Benedict Arnold to good use, and put him in charge of about 1500 men in
+
+149
+00:13:37,770 --> 00:13:43,890
+late December 1780 aren't a lead these forces down on a rate of Virginia, surprising the local militias,
+
+150
+00:13:44,130 --> 00:13:49,710
+destroying the supply infrastructure and temporarily capturing Richmond the capital, but he didn't have
+
+151
+00:13:49,710 --> 00:13:54,780
+the manpower to hold it. So Arnold withdrew to the coastal city of Portsmouth, where he holed up and
+
+152
+00:13:54,780 --> 00:14:00,960
+waited for reinforcements. With the trader Arnold threatening his home state, Washington dispatch the
+
+153
+00:14:00,960 --> 00:14:07,560
+now trusted practically to the point of being a surrogate son, Marquis de Lafayette, down with 1200
+
+154
+00:14:07,560 --> 00:14:13,170
+men to shore up the defences. He also successfully convinced the newly freed French Navy to follow in
+
+155
+00:14:13,170 --> 00:14:20,910
+support. As they sail though, the Nao regrouped British fleet under 174 year old Admiral arbuthnott
+
+156
+00:14:20,910 --> 00:14:27,210
+followed, a brief skirmish ensued. On both fleets hit Virginia at just about the same time, the French
+
+157
+00:14:27,210 --> 00:14:32,580
+decided to withdraw back to Newport, leaving the British for the moment in control of Chesapeake Bay.
+
+158
+00:14:34,980 --> 00:14:41,640
+While all of this was going on in early 1781, another French fleet this one bound for the West Indies,
+
+159
+00:14:41,880 --> 00:14:48,300
+set sail under the command of Admiral to grace. The grace had served with distinction under sustained
+
+160
+00:14:48,300 --> 00:14:51,060
+during the first run through the Caribbean in 1779.
+
+161
+00:14:51,480 --> 00:14:56,910
+And it was expected that he would wage a more vigorous and cooperative campaign than his predecessor
+
+162
+00:14:56,910 --> 00:15:03,090
+had. This second French fleet say All the way from Europe without so much as a Hey, where are you going
+
+163
+00:15:03,390 --> 00:15:08,880
+from the British Navy. This was mostly because further French and American diplomacy had brought both
+
+164
+00:15:08,880 --> 00:15:12,180
+the Spanish and Dutch into the anti British Alliance.
+
+165
+00:15:13,200 --> 00:15:19,080
+Neither was technically declaring for the Americans, but they both declared against the British which
+
+166
+00:15:19,080 --> 00:15:24,660
+for the moment was just as good. These new threat to the home waters turned the British Ministry cross
+
+167
+00:15:24,660 --> 00:15:28,260
+eyed and upside down, so they failed to send any ships to America.
+
+168
+00:15:28,500 --> 00:15:32,640
+They might even the balance of power at sea when this second French fleet took off.
+
+169
+00:15:33,510 --> 00:15:39,660
+This meant that as soon as the grace sailed into the Caribbean in April 1781, the French and by extension
+
+170
+00:15:39,660 --> 00:15:46,890
+their American allies, now enjoyed a serious advantage at sea advantage, it was about to prove decisive.
+
+171
+00:15:48,900 --> 00:15:55,020
+As the end game approaches, the next major piece entered its final position when Clinton sent yet another
+
+172
+00:15:55,020 --> 00:15:59,640
+army into Virginia in April 1781 to continue the devastating rains.
+
+173
+00:16:00,540 --> 00:16:06,330
+After swinging through Portsmouth to pick up Benedict Arnold this for soon number just over 3000 Baron
+
+174
+00:16:06,330 --> 00:16:11,490
+von stuben and the local Virginia militia tried to hold their ground, but they were forced back to Richmond,
+
+175
+00:16:11,970 --> 00:16:16,950
+the British pursued, but Lafayette and his Continentals linked up with von stuben, just in the nick
+
+176
+00:16:16,950 --> 00:16:22,800
+of time. The British let them have Richmond and went back to writing all the while being reinforced until
+
+177
+00:16:22,800 --> 00:16:28,920
+they numbered close to 6000. When the British General in charge suddenly dropped dead in May, Arnold
+
+178
+00:16:28,920 --> 00:16:34,140
+found himself the senior officer in charge position he held for just about a week, because that's when
+
+179
+00:16:34,140 --> 00:16:40,319
+Cornwallis and his 1000 plus exhausted men dragged themselves into Petersburg, a strategically important
+
+180
+00:16:40,319 --> 00:16:48,720
+city located on a tributary of the James River. In leaving the Carolinas, Cornwallis was pretty much
+
+181
+00:16:48,720 --> 00:16:55,640
+disobeying orders,but he didn't really care Clinton was being in communicative and indecisive and obviously
+
+182
+00:16:55,640 --> 00:16:59,090
+failed to recognise just how much the situation in the south had changed.
+
+183
+00:16:59,630 --> 00:17:04,040
+Not that Clinton sought to discipline Cornwallis because for the moment, the commander in chief was
+
+184
+00:17:04,040 --> 00:17:07,970
+occupied with amping his vacillation up to dizzying speeds.
+
+185
+00:17:08,660 --> 00:17:13,280
+He ordered Cornwallis to pick a spot on Chesapeake Bay and fortify it for use as a permanent base of
+
+186
+00:17:13,280 --> 00:17:16,880
+operations. Okay, good. Check, I was already going to do that.
+
+187
+00:17:17,540 --> 00:17:21,950
+Then Clinton ordered him to break off whatever forces he didn't need and send them back up to New York.
+
+188
+00:17:22,069. --> 00:17:27,589
+Kay, but I don't really want to do that. But then the orders changed, and Cornwallis was to send these
+
+189
+00:17:27,589 --> 00:17:33,710
+troops to Pennsylvania, which that doesn't seem like but then the orders changed again, and it was no
+
+190
+00:17:33,710 --> 00:17:39,620
+On second thought do send them to New York. Cornwallis appears to have endured this vacillation by never
+
+191
+00:17:39,620 --> 00:17:44,960
+actually sending the troops Clinton demanded. He did however, follow the order to build a fortified
+
+192
+00:17:44,960 --> 00:17:52,010
+base, not necessarily where he would have liked, told by Clinton to fortify either Williamsburg or Yorktown.
+
+193
+00:17:52,370 --> 00:17:55,460
+Cornwallis selected Yorktown as the lesser of two evils.
+
+194
+00:17:56,180 --> 00:17:59,390
+It was a decision he would regret for the rest of his life.
+
+195
+00:18:00,350 --> 00:18:05,840
+But for the time being, the British were still mostly ascended in Virginia and continued their devastating
+
+196
+00:18:05,840 --> 00:18:11,240
+raids, including the famous moment when Bannister Carlton nearly captured Thomas Jefferson, who was
+
+197
+00:18:11,240 --> 00:18:15,110
+now governor of Virginia, missing him by just 15 minutes.
+
+198
+00:18:17,780 --> 00:18:21,770
+So we all know that the coming Siege of Yorktown will end the war.
+
+199
+00:18:22,280 --> 00:18:27,620
+And as Cornwallis settled into Virginia, various American and French leaders started to recognise that
+
+200
+00:18:27,620 --> 00:18:30,620
+he was offering them just such a golden opportunity.
+
+201
+00:18:31,520 --> 00:18:37,700
+But it would appear that the one guy who was absolutely not recognising this opportunity was George
+
+202
+00:18:37,700 --> 00:18:43,880
+Washington. From the earliest days of the war, Washington had been convinced that in the end, it would
+
+203
+00:18:43,880 --> 00:18:49,700
+all come down to New York City was one of the reasons he had maintained such a steadfast vigil all these
+
+204
+00:18:49,700 --> 00:18:55,490
+years. Since 1776, that had been a major base of operations for the British.
+
+205
+00:18:55,790 --> 00:19:01,880
+And since Clinton took over the central base of the British Army, capturing New York City was obviously
+
+206
+00:19:01,880 --> 00:19:07,580
+the thing. So after the French fleet was freed from Newport, it seemed to Washington like he was finally
+
+207
+00:19:07,580 --> 00:19:13,520
+circling the drain on this obsession, then roshambo told him that their second French fleet was down
+
+208
+00:19:13,520 --> 00:19:19,100
+in the West Indies, was probably about to come north and help so it's all falling into place, right.
+
+209
+00:19:21,080 --> 00:19:26,570
+But roshambo did not really like the look of trying to take New York City, nor did some of Washington
+
+210
+00:19:26,570 --> 00:19:32,330
+subordinates but the general was utterly fixated on the idea and kept pressing roshambo to mass the
+
+211
+00:19:32,330 --> 00:19:39,830
+French fleet to New York as soon as possible. In fine French diplomatic fashion, roshambo sues Washington
+
+212
+00:19:39,830 --> 00:19:45,650
+with carefully worded assurances, all the while, relaying messages to his French admirals that Cornwallis
+
+213
+00:19:45,650 --> 00:19:48,710
+was a sitting duck in Virginia, that that would be the target.
+
+214
+00:19:48,710 --> 00:19:54,860
+He just had to talk Washington into it. There has been some historical debate about this over the years,
+
+215
+00:19:55,370 --> 00:20:00,260
+but Ron Chernow, his recent biography of Washington makes it pretty clear that Washington Didn't get
+
+216
+00:20:00,260 --> 00:20:05,240
+religion on Yorktown until the very last minute. And once he got it he got it.
+
+217
+00:20:05,720 --> 00:20:10,370
+Especially after he was told that Yorktown was where Cornwallis was entrenching because he himself had
+
+218
+00:20:10,370 --> 00:20:15,620
+once warned a subordinate American officer earlier in the war, not to dig in at Yorktown because it
+
+219
+00:20:15,620 --> 00:20:21,470
+would be too easy to capture. Washington's fixation with New York though did pave the way to victory
+
+220
+00:20:21,470 --> 00:20:28,310
+at Yorktown in one important way. It convinced Henry Clinton not to send more reinforcements to Cornwallis
+
+221
+00:20:28,310 --> 00:20:34,310
+because he was convinced Washington was about to hit him now was because Washington was convinced Washington
+
+222
+00:20:34,310 --> 00:20:41,960
+was about to hit him, if that makes sense. In the end, the decision to pivot to Virginia appears to
+
+223
+00:20:41,960 --> 00:20:48,889
+have been presented to Washington as a fait accompli in mid August roshambo told Washington that 1000
+
+224
+00:20:48,889 --> 00:20:53,780
+apologies, but it seems that Admiral de grace has made up his mind to make for Chesapeake Bay.
+
+225
+00:20:54,080 --> 00:20:59,450
+I know, I know. But what can you do? Do his very great credit though.
+
+226
+00:20:59,660 --> 00:21:05,810
+Washington swallowed this and turned it into one of his great triumphs, the lightning march to Yorktown.
+
+227
+00:21:07,100 --> 00:21:12,110
+Just a few days after receiving the news, he sent parties out to start making it look for all the world
+
+228
+00:21:12,110 --> 00:21:15,110
+like he was about to launch an amphibious attack on Staten Island.
+
+229
+00:21:15,740 --> 00:21:20,990
+Then Washington broke his men into three columns and marched them at staggered intervals into New Jersey.
+
+230
+00:21:21,620 --> 00:21:24,350
+All of this further convinced Clinton and attack was coming.
+
+231
+00:21:24,800 --> 00:21:29,300
+And he did not realise until way too late that Washington wasn't coming back.
+
+232
+00:21:30,020 --> 00:21:34,670
+The Americans linked up with the French in Princeton, and we're through Philadelphia before Clinton
+
+233
+00:21:34,670 --> 00:21:41,660
+understood what was really going on. Over the next three weeks, Washington and his army managed to cover
+
+234
+00:21:41,660 --> 00:21:46,639
+450 miles of not especially easy terrain in some pretty rotten heat.
+
+235
+00:21:47,000 --> 00:21:52,460
+It was one of those astonishing bits of logistical genius that Washington seemed to deliver effortlessly,
+
+236
+00:21:52,850 --> 00:21:58,160
+and it gave the Allied American and French forces the Head Start they needed to squeeze Cornwallis before
+
+237
+00:21:58,160 --> 00:22:02,420
+Clinton could respond. By the time they were making their final approach.
+
+238
+00:22:02,660 --> 00:22:07,460
+The French fleets had mast at the mouth of Chesapeake Bay and run off the outnumbered British fleet
+
+239
+00:22:07,460 --> 00:22:13,160
+who said oh wow, there's a lot of UC later. Washington road ahead to meet with the grace and plan the
+
+240
+00:22:13,160 --> 00:22:18,020
+operation. It was somewhat chagrin that Doug Ross was only promising to stay until November the first
+
+241
+00:22:18,590 --> 00:22:26,600
+that turned out to be more than enough time. While Washington was on the road, and general green down
+
+242
+00:22:26,600 --> 00:22:31,430
+in South Carolina finally came down from the hills he had been camped in for the summer and made a march
+
+243
+00:22:31,430 --> 00:22:38,930
+of his own towards Charleston. He was now leading 2200 men, an equal mix of Continentals, militia man
+
+244
+00:22:38,960 --> 00:22:42,170
+irregular forces, and just you know guys with muskets.
+
+245
+00:22:43,250 --> 00:22:48,200
+On September the eighth, they surprise the British Field Army camped at Utah springs about 30 miles
+
+246
+00:22:48,200 --> 00:22:52,610
+northwest of Charleston. The surprise British were quickly pushed back and confusion.
+
+247
+00:22:53,000 --> 00:22:58,190
+But instead of holding together and finishing the fight, the Americans like I say a pretty uneven mix
+
+248
+00:22:58,190 --> 00:23:01,580
+of characters decided to plunder the British camp instead.
+
+249
+00:23:02,330 --> 00:23:07,460
+This allowed the British to regroup and come charging back in to drive off the mob of looters.
+
+250
+00:23:08,600 --> 00:23:13,610
+But now that he knew Greene's army was in the area, there was nothing for Lord rudden to do, but pull
+
+251
+00:23:13,610 --> 00:23:16,400
+his forces back into Charleston and wait for further orders.
+
+252
+00:23:16,940 --> 00:23:21,680
+He would still be waiting for those orders when he got the letter that the war was over.
+
+253
+00:23:24,560 --> 00:23:30,890
+Backup in Virginia, the combined French and American armies now numbering about 16,000 made the final
+
+254
+00:23:30,890 --> 00:23:37,370
+advance on Yorktown on September the 28th. Cornwallis initially had both an outer and inner line of
+
+255
+00:23:37,370 --> 00:23:41,930
+defence, but he quickly abandoned the outer line and pulled all the troops he had now somewhere around
+
+256
+00:23:41,960 --> 00:23:49,010
+8000. Inside the city, Washington quite rightly deferred to his French allies who were well trained
+
+257
+00:23:49,010 --> 00:23:54,740
+in the art of siege craft. Digging began immediately for the steady advance of parallels.
+
+258
+00:23:55,310 --> 00:23:59,870
+Through the first week of October, the Americans and French dug towards the city than the artillery
+
+259
+00:23:59,870 --> 00:24:05,570
+got set up and the shelling began making life absolutely miserable for everyone inside Yorktown.
+
+260
+00:24:06,410 --> 00:24:10,280
+During these days, Cornwallis seemed curiously inactive.
+
+261
+00:24:10,880 --> 00:24:16,280
+He had set up shopping a grotto that served as a natural bunker and was simply in during the shelling.
+
+262
+00:24:17,060 --> 00:24:21,560
+What was going through his mind we'll never know. But he might have been expecting reinforcements from
+
+263
+00:24:21,560 --> 00:24:25,850
+Clinton to come bail him out. But those reinforcements would never come.
+
+264
+00:24:27,860 --> 00:24:32,510
+On October the 14th, the second parallel was completed and the Americans launched a nitrate on some
+
+265
+00:24:32,510 --> 00:24:36,770
+British positions. morale inside Yorktown was now gone.
+
+266
+00:24:37,820 --> 00:24:42,860
+Cornwallis had one available option now, and that was to ferry his men across the James River and maybe
+
+267
+00:24:42,860 --> 00:24:48,440
+make a run for it. But after he put the first 1000 men across a storm kicked up and put a stop to it.
+
+268
+00:24:49,250 --> 00:24:54,590
+Or Wallace now saw the writing on the wall. And the next day he sent an emissary over to Washington
+
+269
+00:24:54,590 --> 00:25:01,730
+to talk terms or law was asked to be allowed to surrender with full military honours, but Washington
+
+270
+00:25:01,730 --> 00:25:05,780
+replied that the British would receive the same honours the American troops that Charleston had been
+
+271
+00:25:05,780 --> 00:25:18,080
+allowed, which is to say no honours at all. At 11am on the morning of October 19 1781 8000, British marched
+
+272
+00:25:18,080 --> 00:25:21,020
+out of Yorktown through a double line of American and French troops.
+
+273
+00:25:21,889 --> 00:25:26,720
+As the British March, they tried to focus all their attention on the French line, and pretend like the
+
+274
+00:25:26,720 --> 00:25:31,670
+Americans weren't even there, until the Continental band started playing Yankee Doodle Dandy to get
+
+275
+00:25:31,670 --> 00:25:38,480
+their attention. Then, in another calculated snub, Cornwallis himself refused to come in person, sending
+
+276
+00:25:38,480 --> 00:25:44,780
+a subordinate along to surrender his sword, recognising a slap in the face when he saw it, Washington
+
+277
+00:25:44,780 --> 00:25:48,680
+refused to take the sword, and directed one of his own subordinates to go pick it up.
+
+278
+00:25:49,340 --> 00:25:54,740
+It was a bitter piece that was made that day, but it was a piece.
+
+279
+00:25:57,650 --> 00:26:01,730
+Now, of course, the victory Yorktown did not necessarily have to end the war.
+
+280
+00:26:02,330 --> 00:26:05,420
+Clinton was still up in New York, the Navy was still out there.
+
+281
+00:26:05,420 --> 00:26:09,320
+And it was technically possible that the British could just send over more troops and more ships.
+
+282
+00:26:09,800 --> 00:26:11,990
+That certainly what King George the Third wanted to do.
+
+283
+00:26:12,710 --> 00:26:16,820
+But the reaction of Lord North the news of the surrender pretty much summed it up.
+
+284
+00:26:17,450 --> 00:26:23,240
+Oh, God, he said, it's all over. It was hopeless to try to carry on and everyone knew it.
+
+285
+00:26:23,840 --> 00:26:28,040
+The time had come to concede the war, settled the thing and move on.
+
+286
+00:26:29,930 --> 00:26:33,500
+Next week, we will discuss what it would mean to settle the thing.
+
+287
+00:26:34,400 --> 00:26:39,650
+A formal peace treaty would have to be brokered between Britain and her now former colonies, the last
+
+288
+00:26:39,650 --> 00:26:44,370
+of the British troops would have to be removed.And then of course, the Americans would have to figure
+
+289
+00:26:44,370 --> 00:26:47,820
+out what to do their newfound independence.
