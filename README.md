@@ -6,12 +6,12 @@ Please support Mike Duncan to run the show! Goto https://www.revolutionspodcast.
 
 # Episode 2, American Revolutions
 
-- Audio - complete
+- Audio - complete ✅
 - Video - some episodes
 
 # Episode 3, French Revolution
 
-- Audio - some episodes
+- Audio - some episodes 
 - Video - some episodes
 
 # Episode 10, Russian Revolution
