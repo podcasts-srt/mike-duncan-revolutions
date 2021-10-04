@@ -1,0 +1,1075 @@
+1
+00:00:00,000 --> 00:00:06,150
+This week's episode is brought to you by audible. As you know, audible is the internet's leading provider
+
+2
+00:00:06,150 --> 00:00:10,140
+of audio entertainment with over 150,000 titles to choose from.
+
+3
+00:00:10,620 --> 00:00:17,340
+When you're done with this episode, go to audible podcast.com forward slash revolutions, that again,
+
+4
+00:00:17,700 --> 00:00:24,900
+audible podcast.com forward slash revolutions. By going to that address, you qualify for a free book
+
+5
+00:00:24,900 --> 00:00:30,300
+download when you sign up for a 30 day trial membership, there is no obligation to continue the service
+
+6
+00:00:30,540 --> 00:00:33,330
+and you can cancel anytime and keep the free book.
+
+7
+00:00:33,840 --> 00:00:38,370
+You can also keep going with one of the monthly subscription options and get great deals on all future
+
+8
+00:00:38,370 --> 00:00:45,030
+audio book purchases. This time I am going to go with a recommendation from listener Daniel, but also
+
+9
+00:00:45,030 --> 00:00:50,880
+from revolutions tour alumnus Pete who told me about it on our trip and that is the historical novel
+
+10
+00:00:50,940 --> 00:00:57,300
+a place of greater safety. I haven't read it myself yet, but it chronicles the intertwined Adventures
+
+11
+00:00:57,300 --> 00:01:03,780
+of Robespierre, Denton and demola through the height of the French Revolution, and apparently it's pretty
+
+12
+00:01:03,780 --> 00:01:10,500
+engrossing. So when you're done with this episode, go to audible podcast.com Ford slash revolutions
+
+13
+00:01:10,500 --> 00:01:27,620
+so that they know who sent you. Hello, and welcome to revolutions Episode 3.8.
+
+14
+00:01:28,160 --> 00:01:39,190
+Today of the tiles. Last week, we saw the Royal ministry and the Paris Parliament battle over the big
+
+15
+00:01:39,190 --> 00:01:43,120
+financial reform package that had been cooked up to save the kingdom's bacon.
+
+16
+00:01:43,900 --> 00:01:49,180
+After accepting a few of the initial offerings. The Parliament then rejected the main pieces of the
+
+17
+00:01:49,180 --> 00:01:55,660
+puzzle, leading to a series of showdowns between the summer of 1787 and the spring of 1788.
+
+18
+00:01:56,440 --> 00:02:01,840
+To many an outside observer, it looked like the parliamo was gaining the upper hand, they had forced
+
+19
+00:02:01,840 --> 00:02:05,350
+the king to withdraw the stamp tax and stop pursuing the land tax.
+
+20
+00:02:05,770 --> 00:02:07,990
+And we're riding high on a wave of public acclaim.
+
+21
+00:02:08,740 --> 00:02:12,370
+But the Kings ministers are not yet ready to just give up completely.
+
+22
+00:02:12,820 --> 00:02:18,220
+And this week, we will see them make one last push to assert the kings will in the face of Parliament,
+
+23
+00:02:18,250 --> 00:02:22,690
+obstructionism, their solution, destroy the parliament.
+
+24
+00:02:24,000 --> 00:02:29,550
+But before we get into that, I want to backtrack a little and briefly cover the reaction of the provincial
+
+25
+00:02:29,550 --> 00:02:35,490
+parliament to Brian's reforms. Because though Paris was the centre of the action, there was lots of
+
+26
+00:02:35,490 --> 00:02:41,310
+noise being made out on the periphery, that will have a huge impact on what will happen in today's episode.
+
+27
+00:02:42,030 --> 00:02:48,690
+So let's wind back the clock to June 1787, when Brienne first started bringing in the reforms to the
+
+28
+00:02:48,690 --> 00:02:55,470
+Paris parliament. Now, as you will maybe recall, Brienne started with what I called the easy stuff,
+
+29
+00:02:55,470 --> 00:03:01,740
+turning the korovai into a money tax that seemed fine lifting regulations on the green trade, which will
+
+30
+00:03:01,770 --> 00:03:07,320
+I can promise you be hated by the lower classes. But remember, we're still talking about the Uber elite
+
+31
+00:03:07,320 --> 00:03:11,970
+here. They saw a more rational and more profitable system and said, Yeah, let's do it.
+
+32
+00:03:12,930 --> 00:03:18,930
+Then finally, the magistrate accepted the creation of provincial assemblies to assess and collect taxes.
+
+33
+00:03:19,470 --> 00:03:24,270
+Now, this breeze through the Paris Parliament who had little to fear and much to gain from these new
+
+34
+00:03:24,270 --> 00:03:29,700
+assemblies, and most of the areas under the jurisdiction of the Paris parliament, tax collection was
+
+35
+00:03:29,700 --> 00:03:34,110
+all handled by the royally appointed intendant and the much despised tax farmers.
+
+36
+00:03:34,110 --> 00:03:40,770
+So injecting a new institution composed of the wealthiest taxpayers like you know, us, was a welcomed
+
+37
+00:03:40,770 --> 00:03:47,110
+devolution of power. But in the outer provinces, where the parliament has already enjoyed a great deal
+
+38
+00:03:47,110 --> 00:03:52,750
+of autonomy, these new assemblies did not look to the local magistrates, like more power was being given
+
+39
+00:03:52,750 --> 00:03:56,230
+to them, but rather that power was being taken away.
+
+40
+00:03:57,040 --> 00:04:02,800
+They were further incensed when they saw the specifics of the plan, specifically, that there were no
+
+41
+00:04:02,800 --> 00:04:08,860
+specifics. The edict they were presented with was vague about both the jurisdiction and the scope of
+
+42
+00:04:08,860 --> 00:04:16,500
+the new assemblies. Plus, the order came with a really suspicious kicker, because the assemblies needed
+
+43
+00:04:16,500 --> 00:04:22,050
+to get to work right away, and it would take too long to set up the whole tiered process of lesser taxpayers
+
+44
+00:04:22,050 --> 00:04:28,050
+electing greater taxpayers to go represent them. The first members of the assemblies would be wait for
+
+45
+00:04:28,050 --> 00:04:35,550
+it, appointed by the king. In this, the provincial Parliament smelled a big, fat hairy rat.
+
+46
+00:04:37,000 --> 00:04:41,380
+complaints about the provincial assemblies were drawn up by the several regional Parliament with varying
+
+47
+00:04:41,380 --> 00:04:46,450
+degrees of intensity, usually arguing that the ministry was doing an end run around the long established
+
+48
+00:04:46,450 --> 00:04:52,810
+political constitution of France. But more than that, they were also just kind of opposed to the whole
+
+49
+00:04:52,810 --> 00:04:58,990
+idea of tax reform in the first place. Up until now, we've been talking about the Royal ministry.
+
+50
+00:05:00,000 --> 00:05:02,550
+The assembly of notables and the Paris parliament.
+
+51
+00:05:03,000 --> 00:05:09,990
+And in each of those three places, we've seen men either resigned to or openly pushing for a new tax
+
+52
+00:05:09,990 --> 00:05:16,050
+system. So for the first time now we're actually hitting on some nobles who were flat out against giving
+
+53
+00:05:16,050 --> 00:05:21,630
+up their tax privileges. These provincial nobles were not the super nobles living in Versailles and
+
+54
+00:05:21,630 --> 00:05:27,030
+Paris, they actually relied on their land to make up the bulk of their often meagre income, rather than
+
+55
+00:05:27,030 --> 00:05:32,850
+enjoying rich diversified portfolios, to say nothing of the fact that if this kept up there would be
+
+56
+00:05:32,850 --> 00:05:38,580
+very little to mark them out as special, whose tax privileges were a social calling card that they were
+
+57
+00:05:38,580 --> 00:05:44,480
+not prepared to give up of the Parliament that resisted the creation of the provincial assemblies.
+
+58
+00:05:44,750 --> 00:05:50,270
+The one that needs to be highlighted right now is the Parliament of Porto, monta scuse old stomping
+
+59
+00:05:50,270 --> 00:05:56,510
+ground. They were the political and judicial hub of a fairly prosperous port city that had long enjoyed
+
+60
+00:05:56,510 --> 00:06:03,050
+a great deal of autonomy. In July 1787, they issued a remonstrance back to the king saying that they
+
+61
+00:06:03,050 --> 00:06:08,570
+refuse to register the edict establishing the new provincial assemblies, until the jurisdiction and
+
+62
+00:06:08,570 --> 00:06:13,159
+scope of those assemblies was clearly laid out, which for the moment really wasn't.
+
+63
+00:06:14,060 --> 00:06:19,460
+They were stiff enough in their resistance that when the Paris parliament was exiled in August 1787,
+
+64
+00:06:19,730 --> 00:06:26,060
+the Bordeaux parliament was given the boot to letras de cachet exiled them from the regional capital
+
+65
+00:06:26,090 --> 00:06:32,420
+for the small town of libran. But unlike their brother magistrates in Paris, the exile did not make
+
+66
+00:06:32,420 --> 00:06:35,659
+them amenable to a compromise. It only made them matter.
+
+67
+00:06:36,230 --> 00:06:41,210
+So when the Paris parliament was recalled in September, the Bordeaux Parliament stayed in exile.
+
+68
+00:06:41,840 --> 00:06:46,790
+They would not be allowed to return home until just before the main edicts were issued, which were designed
+
+69
+00:06:46,790 --> 00:06:54,330
+to make them irrelevant. Despite the resistance though, the provincial assemblies began to convene in
+
+70
+00:06:54,330 --> 00:06:59,820
+November 1787 justice The king was going off script in the middle of that royal session we talked about
+
+71
+00:06:59,820 --> 00:07:05,650
+last time. As I mentioned, this first batch of assemblies were indeed appointed by the Royal ministry.
+
+72
+00:07:05,710 --> 00:07:12,280
+So the entire apparatus was obviously suspect, but just how suspect came down to how strongly the members
+
+73
+00:07:12,310 --> 00:07:18,220
+actually favoured the king. Because not everyone in the assembly was a staunch royal ally, there just
+
+74
+00:07:18,280 --> 00:07:23,440
+weren't enough of those guys to go around. Some of the members were there to do the king's bidding for
+
+75
+00:07:23,440 --> 00:07:29,080
+sure. But others wound up full of guys like for example, the Marquis de Lafayette, who were eager to
+
+76
+00:07:29,080 --> 00:07:34,330
+steer the assemblies in the direction of independent mindedness, and most especially serving as yet
+
+77
+00:07:34,330 --> 00:07:37,840
+another stage to advocate for the calling of the estates general.
+
+78
+00:07:40,000 --> 00:07:45,130
+With Brienne, having dropped the land tax as a part of his compromise with the Paris parliament, the
+
+79
+00:07:45,130 --> 00:07:50,320
+one order of business the assemblies really had to haggle over was the extension and collection of the
+
+80
+00:07:50,320 --> 00:07:54,670
+VA tm, which was supposed to once again help bridge the rail deficit.
+
+81
+00:07:55,570 --> 00:07:58,480
+But where lacks collection had long been the order of the day.
+
+82
+00:07:58,750 --> 00:08:02,740
+The VA tm was now supposed to be pursued with an unprecedented vigour.
+
+83
+00:08:03,460 --> 00:08:10,810
+So over the winter of 1787 1788, the Royal ministry, the provincial parliament, the intendant, the provincial
+
+84
+00:08:10,810 --> 00:08:17,320
+assemblies, all waged a running battle with each other over who owed what and for how long? And of course,
+
+85
+00:08:17,320 --> 00:08:24,610
+the big question, who now outranked whom the parliament still wanted assurances that the taxes would
+
+86
+00:08:24,610 --> 00:08:28,240
+have to be duly registered before the assemblies could set to work collecting them.
+
+87
+00:08:28,600 --> 00:08:31,540
+The assemblies generally ignored this and just went to work.
+
+88
+00:08:31,900 --> 00:08:36,250
+But more than a few got to work simply so they can drag their feet and force the king to call the estates
+
+89
+00:08:36,250 --> 00:08:41,710
+general. Meanwhile, Brienne threatened to go back to arbitrarily assessing and collecting the VTM if
+
+90
+00:08:41,710 --> 00:08:46,450
+the assemblies didn't get in gear, and then another flood of angry remonstrance is from the parliament
+
+91
+00:08:46,450 --> 00:08:54,460
+would come pouring in the spring of 1788 approached, this mess needed to be simplified, so Brian's ministry
+
+92
+00:08:54,460 --> 00:09:00,010
+decided to cut at least one tangle out of a knot. by just taking the parliament out of the equation.
+
+93
+00:09:01,000 --> 00:09:07,750
+It was as audacious a move as Chancellor mapu had made back in the early 1770s, if not more audacious
+
+94
+00:09:08,380 --> 00:09:13,510
+for Brianna and his colleagues. The hope was that when they were done, the parliament, the self proclaimed
+
+95
+00:09:13,510 --> 00:09:18,280
+defenders of French liberty, would be turned into an insignificant Social Club.
+
+96
+00:09:20,000 --> 00:09:24,860
+The setup for this came at the end of last week's episode when rumours started flying around in April
+
+97
+00:09:24,860 --> 00:09:29,150
+1788 that the ministry was about to make a really serious move.
+
+98
+00:09:29,810 --> 00:09:34,610
+This resulted in even more heated rhetoric coming out of the Paris parliament, and then the rest of
+
+99
+00:09:34,610 --> 00:09:41,300
+the premier Neil and that other guy, then on May the eighth, the wild rumours were confirmed by a sweeping
+
+100
+00:09:41,300 --> 00:09:47,570
+series of decrees that basically gutted the power of the Parliament, known as the may eat acts.
+
+101
+00:09:47,900 --> 00:09:52,490
+These decrees set up a new plenary court that would be staffed by high ranking nobles.
+
+102
+00:09:53,000 --> 00:09:58,220
+This new plenary court would become the institution where all future taxes and legislation would be
+
+103
+00:09:58,220 --> 00:10:04,140
+registered and come to court of final appeal for almost all criminal and civil cases.
+
+104
+00:10:04,950 --> 00:10:11,280
+All that was left to the parliament were cases involving sums over 20,000 Libra, and a few other estate
+
+105
+00:10:11,280 --> 00:10:14,970
+and contract issues that affected only the richest men in the kingdom.
+
+106
+00:10:15,870 --> 00:10:21,810
+In one bold stroke, the ministry was trying to reduce the parliament to little more than an arbitration
+
+107
+00:10:21,810 --> 00:10:27,690
+Council for the super rich, all real power and authority would be transferred to the plenary court.
+
+108
+00:10:28,620 --> 00:10:33,630
+And as if this wasn't shocking enough, begin further plan to create lesser courts over the next few
+
+109
+00:10:33,630 --> 00:10:37,980
+years to replace the existing hodgepodge of weirdly overlapping jurisdictions.
+
+110
+00:10:38,760 --> 00:10:44,460
+If all went according to plan, France would shortly have an entirely new judicial system, and the parliament
+
+111
+00:10:44,670 --> 00:10:52,690
+would become relics of a bygone age. Now Brian was of course expecting some resistance, but it seems
+
+112
+00:10:52,690 --> 00:10:57,010
+pretty clear that he underestimated just how widespread that resistance would be.
+
+113
+00:10:57,400 --> 00:11:01,900
+The Kings principle minister was no doubt thinking about the parliament, as they truly were.
+
+114
+00:11:02,290 --> 00:11:06,640
+Little enclaves of aristocratic privilege, cared a little about the general welfare.
+
+115
+00:11:08,000 --> 00:11:12,170
+But by now the parliament had morphed into something far greater in the public imagination.
+
+116
+00:11:12,860 --> 00:11:17,960
+It would appear that all they're bloviating, about protecting the ancient liberties of France was actually
+
+117
+00:11:17,960 --> 00:11:23,210
+being taken seriously. The Parliament were for the moment, the one institution in the kingdom who could
+
+118
+00:11:23,210 --> 00:11:27,050
+resist the king's will, and then send him remonstrance is explaining why.
+
+119
+00:11:27,650 --> 00:11:32,480
+So when the king tried to abolish the parliament, well, as we'll see in a minute, everyone from the
+
+120
+00:11:32,480 --> 00:11:36,530
+highest noble to the lowliest fishmonger had something to say about it.
+
+121
+00:11:37,340 --> 00:11:42,560
+Although as we will also see, when the magistrates of the Parliament notice that the unwashed masses
+
+122
+00:11:42,560 --> 00:11:46,040
+were jumping into the fight, they will get really super uncomfortable.
+
+123
+00:11:46,250 --> 00:11:51,620
+Because when we said we were the defenders of liberty, we meant our liberty you dummies, not yours.
+
+124
+00:11:51,620 --> 00:11:53,720
+Oh crap, that one's got to break Let's run for it.
+
+125
+00:11:55,000 --> 00:12:01,690
+So what this led to in the summer of 1788, was a series of protests, demonstrations and riots that knock
+
+126
+00:12:01,690 --> 00:12:06,880
+the ministry back on its heels, and it all got started almost immediately after the main effects were
+
+127
+00:12:06,880 --> 00:12:12,700
+announced. First of all, the parliament were collectively put on vacation, whereupon almost the entire
+
+128
+00:12:12,700 --> 00:12:17,290
+legal profession went on strike and protest, the wheels of justice ground to a halt.
+
+129
+00:12:19,000 --> 00:12:23,800
+Unlike last time, when mobu was able to entice ambitious young attorneys into the new system, though
+
+130
+00:12:24,040 --> 00:12:30,310
+Brienne found almost no takers. The solidarity of the legal community was for the moment, unbreakable.
+
+131
+00:12:31,000 --> 00:12:36,160
+But though they had been ordered to disperse, not all the parliament were willing to just go away without
+
+132
+00:12:36,160 --> 00:12:40,300
+a fight. Some disperse quietly after a token remonstrance or two.
+
+133
+00:12:40,810 --> 00:12:45,790
+But once again, those on the periphery of the kingdom elected the path of stiff resistance.
+
+134
+00:12:46,420 --> 00:12:51,850
+When, for example, the local intendant came to prevent the Parliament of a friend from meeting, he was
+
+135
+00:12:51,850 --> 00:12:55,450
+met by an angry mob of such size and force that he was forced to flee.
+
+136
+00:12:55,780 --> 00:13:00,250
+And whenever authority the monarchy hadn't Brittany was basically lost for good two months.
+
+137
+00:13:01,120 --> 00:13:07,180
+But the most famous incident happened down in the city of Grenoble, the traditional capital of the province
+
+138
+00:13:07,180 --> 00:13:13,180
+of ruffini, down on the edge of the Alps. When the authorities there attempted to disperse the Grenoble,
+
+139
+00:13:13,180 --> 00:13:17,140
+a parliament. What they got was the day of the tiles.
+
+140
+00:13:20,000 --> 00:13:25,580
+The Grenoble, a parliament had outright called the main edicts illegal until Brienne ordered them exiled
+
+141
+00:13:25,580 --> 00:13:31,970
+from the city letras de cache were issued and due to be delivered June the seventh 1788.
+
+142
+00:13:32,690 --> 00:13:39,290
+Now the problem delivering the exile orders on June the seventh was it it was a Saturday, aka market
+
+143
+00:13:39,290 --> 00:13:46,070
+day. That meant that granola was full to the brim with people who were already a bit agitated over rising
+
+144
+00:13:46,070 --> 00:13:51,920
+bread prices and lack of work. the closure of the Parliament would mean that granola would take yet
+
+145
+00:13:51,920 --> 00:13:57,140
+another economic hit. So all morning speakers railed against the injustice of it all.
+
+146
+00:13:57,440 --> 00:14:02,690
+And around 10am everyone shut up their stalls to get down for a little direct action.
+
+147
+00:14:03,470 --> 00:14:08,330
+One group went to the Palais Royale to prevent the magistrates from leaving, a second group went to
+
+148
+00:14:08,330 --> 00:14:13,280
+the city gates to ensure the same and then a third group convened at the governor's house and basically
+
+149
+00:14:13,280 --> 00:14:19,830
+laid siege to it. The authorities had on hand two regiments of soldiers to try to quell the unrest,
+
+150
+00:14:19,830 --> 00:14:25,800
+but torn between the twin evils of attacking unarmed civilians and letting anarchy reign, they opted
+
+151
+00:14:25,800 --> 00:14:28,890
+for a halfway measure that just made everything worse.
+
+152
+00:14:29,490 --> 00:14:35,880
+Soldiers were dispatched in small groups to establish a presence, but told not to fire on the demonstrators.
+
+153
+00:14:36,630 --> 00:14:41,550
+The effect of this was to make it look like the protesters were about to be attacked, while leaving
+
+154
+00:14:41,550 --> 00:14:46,350
+the soldiers totally outnumbered and without any means of protecting themselves if the people started
+
+155
+00:14:46,350 --> 00:14:52,620
+to get out of hand. Now most of the troops managed to hang tough and not fire into the unruly crowds.
+
+156
+00:14:53,100 --> 00:15:00,600
+But one group near the Jesuit college building found itself pelted by debris from all sides then pelted
+
+157
+00:15:00,600 --> 00:15:06,900
+with roof piles from the building above. When they actually started getting hit, it was much too much
+
+158
+00:15:07,020 --> 00:15:13,580
+and they started firing into the crowd. This of course, only confirmed to everyone in the city that
+
+159
+00:15:13,580 --> 00:15:19,250
+they were indeed under attack. And they rang the toxin bells, which drew in even more men and women from
+
+160
+00:15:19,250 --> 00:15:23,780
+the countryside. The authorities then tried to cut a deal with the magistrates of the Parliament and
+
+161
+00:15:23,780 --> 00:15:26,360
+say, Look, we'll pull back if you just leave the city.
+
+162
+00:15:27,080 --> 00:15:30,020
+The magistrates of the Parliament said yeah, well that sounds awesome.
+
+163
+00:15:30,260 --> 00:15:32,840
+But unfortunately, we're not really in control anymore.
+
+164
+00:15:33,200 --> 00:15:38,780
+We're frankly as freaked out by all of this as you are, with the mob, as you can see, has unbridled
+
+165
+00:15:38,780 --> 00:15:44,520
+all the carriages and is now manning the gate. But after peaking with a good old fashioned ransacking
+
+166
+00:15:44,520 --> 00:15:50,940
+of officials house, the demonstrators slash rioters started to naturally disperse as the sunset, at
+
+167
+00:15:50,940 --> 00:15:56,130
+which point, almost all the magistrates of the Paris parliament, re bridle their carriages, and got the
+
+168
+00:15:56,130 --> 00:16:04,490
+heck out of town. The day of the tiles represents the first major incursion of the mob into our story,
+
+169
+00:16:04,880 --> 00:16:10,130
+and served as a rather Stark wake up call to the parliament that they were toying with Pandora's box
+
+170
+00:16:10,130 --> 00:16:16,760
+here. Remember, for the most part, what they wanted was to keep things the same, but they found themselves
+
+171
+00:16:16,760 --> 00:16:20,180
+now seized on as a vehicle for those who wanted change.
+
+172
+00:16:20,690 --> 00:16:25,250
+And now all of a sudden, these lower class yobbos, who had no business being anything but anonymous
+
+173
+00:16:25,250 --> 00:16:31,880
+plebs were violently getting in on the action. For the moment, these anonymous plebs were defending the
+
+174
+00:16:31,880 --> 00:16:38,630
+parliament as the people's champion. But how long could that possibly last? Spoiler alert, it will last
+
+175
+00:16:38,660 --> 00:16:46,020
+until about September. But though most of the magistrates of the Grenoble a parliament were disturbed
+
+176
+00:16:46,020 --> 00:16:51,990
+by the day of the titles, one guy saw at all as an opportunity to capitalise on the expose weakness
+
+177
+00:16:51,990 --> 00:16:56,940
+of the Royal authorities to demand more than just the continued existence of the Parliament.
+
+178
+00:16:57,840 --> 00:17:05,930
+That man was 30 year old john Joseph Mooney. Mooney was a wildly successful young judge ennobled at
+
+179
+00:17:05,930 --> 00:17:09,470
+the age of 25 after buying himself a place in the Grenoble parliament.
+
+180
+00:17:10,280 --> 00:17:15,920
+But despite his success, he was a forward thinker, and clearly wanted more than to just rise up the
+
+181
+00:17:15,920 --> 00:17:20,060
+old judicial hierarchy, both for his own sake and for the sake of France.
+
+182
+00:17:20,900 --> 00:17:26,900
+So he was the mastermind behind the movement to get the Dauphine a state to provincial recall a necessary
+
+183
+00:17:26,900 --> 00:17:33,200
+first step in what would hopefully become a wider movement to establish a sound constitutional monarchy
+
+184
+00:17:33,230 --> 00:17:39,620
+for France. Though he was out in front of events for the moment, munia would remain committed to the
+
+185
+00:17:39,620 --> 00:17:43,550
+dream of a constitutional monarchy even as events swept by him.
+
+186
+00:17:44,120 --> 00:17:50,240
+As we'll see, he'll enter the estates general as one of the most influential and genuinely recognisable
+
+187
+00:17:50,240 --> 00:17:55,820
+members, and then resigned from that body less than a year later, unable to reconcile himself to the
+
+188
+00:17:55,820 --> 00:18:02,480
+pace and direction of events, then branded as a reactionary, he will be forced to slip away to Switzerland
+
+189
+00:18:02,480 --> 00:18:08,450
+in 1790. The French Revolution moves fast, but that is all still in the future.
+
+190
+00:18:10,000 --> 00:18:13,690
+For now, Mooney was in his prime on June the 14th.
+
+191
+00:18:13,810 --> 00:18:19,000
+A week after the day of the tiles he organised a meeting of about 100 prominent men representing each
+
+192
+00:18:19,000 --> 00:18:25,570
+of the three states. At moonies urging, the group endorsed a call for the restoration both of the Parliament
+
+193
+00:18:25,810 --> 00:18:28,540
+and for the convening of Duffin as a state to provincial.
+
+194
+00:18:30,000 --> 00:18:35,910
+But by far the most critical aspect of this meeting, is that it gave the first formal expression to
+
+195
+00:18:35,910 --> 00:18:42,810
+an idea that would soon sweep the country that when the estates met, as they surely must, the number
+
+196
+00:18:42,810 --> 00:18:47,100
+of the third estates representatives should be double that of the other orders.
+
+197
+00:18:47,490 --> 00:18:55,290
+So the composition would wind up being 50% clergy and nobility and 50% third estate, and then critically,
+
+198
+00:18:55,560 --> 00:18:58,950
+that voting should be by head rather than by order.
+
+199
+00:19:00,000 --> 00:19:06,000
+This Maxim of double the third vote by head would become a major rallying cry in the lead up to the
+
+200
+00:19:06,000 --> 00:19:12,060
+estates general and when the issue still hadn't been resolved when these states finally meet in May 1789.
+
+201
+00:19:12,690 --> 00:19:19,700
+Well, you'll see what happens when we get there. While he waited for word from the Ministry about whether
+
+202
+00:19:19,700 --> 00:19:25,250
+the Dauphine estate would be allowed to meet munia simply plunged ahead as if they were going to say
+
+203
+00:19:25,250 --> 00:19:31,460
+yes, word went round Dauphine a for everyone to prepare for the calling of the estates provincial, and
+
+204
+00:19:31,460 --> 00:19:34,940
+to convene a preliminary assembly at a Chateau in Vizio.
+
+205
+00:19:35,870 --> 00:19:44,210
+meeting on July 21, this assembly was composed of 50 clergymen, 165 nobles, and 276 representatives
+
+206
+00:19:44,210 --> 00:19:51,200
+of the third estate. Monia got himself appointed secretary and then guided the debate into unprecedented
+
+207
+00:19:51,200 --> 00:19:58,310
+territory. Though he was not a great orator, his arguments carried enormous weight instead of making
+
+208
+00:19:58,310 --> 00:20:05,010
+the case for power Lamar and the estates on the basis of the old constitution, he went back even further
+
+209
+00:20:05,010 --> 00:20:10,920
+than that into the primordial ooze and started bringing up points about natural law, the rights of man
+
+210
+00:20:11,040 --> 00:20:16,530
+and the necessity of true liberty. These were concepts that had been floating around for years among
+
+211
+00:20:16,530 --> 00:20:21,570
+the philosophic, but they were now being mainline directly into the body politic.
+
+212
+00:20:22,000 --> 00:20:27,640
+Then they went further, and said that no convening of the states provincial or the estates general could
+
+213
+00:20:27,640 --> 00:20:33,460
+be considered legitimate if it was not convened on the basis of double the third and vote by head.
+
+214
+00:20:33,880 --> 00:20:37,990
+And anyone who oppose that idea was a traitor to France.
+
+215
+00:20:38,800 --> 00:20:44,500
+And now we're talking revolutionary language because man, once these guys grab hold of the notion that
+
+216
+00:20:44,500 --> 00:20:49,150
+political opponents are actually guilty of treason, boy, watch out.
+
+217
+00:20:51,000 --> 00:20:55,770
+Meanwhile, back up in Paris, King Louie was of course vacillating like crazy.
+
+218
+00:20:56,340 --> 00:21:01,530
+He had come down hard with the rest of deployment Neil and the main effects, but the size and scope
+
+219
+00:21:01,530 --> 00:21:07,740
+of the pushback shocked him. For a minute he tried to keep up the tough guy act, group of Breton nobles
+
+220
+00:21:07,740 --> 00:21:10,920
+were thrown in jail for meeting under vaguely suspicious circumstances.
+
+221
+00:21:11,250 --> 00:21:15,870
+And then the delegation on the way from Ren to ask for their own estates provincial, was arrested.
+
+222
+00:21:16,800 --> 00:21:21,120
+But a week later, he backed down and suddenly agreed to let the Breton estates meet.
+
+223
+00:21:21,810 --> 00:21:27,390
+Then on August the second, he more or less accepted the legitimacy of all Munoz activities by allowing
+
+224
+00:21:27,390 --> 00:21:34,990
+the Duffin estates to meet as well. Now, if you will recall from way back when the big problem with
+
+225
+00:21:34,990 --> 00:21:38,320
+King Charles The first was that he wouldn't listen to anyone.
+
+226
+00:21:38,620 --> 00:21:43,720
+He was so insanely inflexible that he basically forced Cromwell to cut off his head.
+
+227
+00:21:44,500 --> 00:21:51,580
+In this respect, Louie was the opposite. He was so flexible that he just couldn't stick with any one
+
+228
+00:21:51,580 --> 00:21:58,240
+policy. He was one of those guys who will just go with whatever the last person who talked said this
+
+229
+00:21:58,240 --> 00:22:03,490
+was starting to become a problem from a monarchy, and Marie Antoinette and the Kings brothers started
+
+230
+00:22:03,490 --> 00:22:07,600
+talking amongst themselves about how they were worried Louis might not be up for this.
+
+231
+00:22:08,140 --> 00:22:13,870
+The Queen then started taking a more forward role in policy to protect the interests of the royal family.
+
+232
+00:22:14,620 --> 00:22:20,590
+But unfortunately, all of this royalist entrenchment did was create an even more extreme position for
+
+233
+00:22:20,590 --> 00:22:24,760
+Louie to jump back and forth from when the state's general finally met.
+
+234
+00:22:27,000 --> 00:22:32,130
+The bottom finally fell out of the alcyone regime on August the eighth 1788.
+
+235
+00:22:32,700 --> 00:22:38,700
+That was when Brienne was informed that there was only 400,000 lever left in the Royal Treasury, barely
+
+236
+00:22:38,700 --> 00:22:43,020
+enough to keep the lights on for a single day, and no one would lend them any more money.
+
+237
+00:22:43,950 --> 00:22:50,070
+The ministry was forced to admit defeat, scrapping the plan to replace the parliament with the plenary
+
+238
+00:22:50,070 --> 00:22:55,200
+court, Brianna announced that the meeting of the estates general would no longer be at some vague point
+
+239
+00:22:55,200 --> 00:23:02,340
+in the future. He announced that on May the first 1789, the estates general would convene at Versailles
+
+240
+00:23:02,490 --> 00:23:10,890
+for the first time in 175 years. This announcement was met by wild euphoria throughout the kingdom,
+
+241
+00:23:10,890 --> 00:23:15,900
+as everyone had come to believe that basically all their hearts desired would be granted by this now
+
+242
+00:23:15,900 --> 00:23:22,200
+almost mythical assembly. In a move that looks shrewd to Brienne, at the time, wound up really sowing
+
+243
+00:23:22,200 --> 00:23:28,110
+the seeds of true revolution. The King then invited public debate on the form the estate should take.
+
+244
+00:23:29,010 --> 00:23:34,110
+This was supposed to drive a wedge between the nobility, who would insist on going by the old three
+
+245
+00:23:34,110 --> 00:23:40,500
+equal estate vote by order, and the commoners who were already on record opposing anything but doubling
+
+246
+00:23:40,500 --> 00:23:48,410
+the third and voting by head. Now it did indeed drive a wedge between them, but the resulting rupture
+
+247
+00:23:48,410 --> 00:23:51,350
+did not lead to the king regaining his political footing.
+
+248
+00:23:51,920 --> 00:23:56,930
+It opened up instead an unbridgeable chasm that would eventually cost the king his head.
+
+249
+00:23:59,000 --> 00:24:04,760
+But though the call to convene the estates general was for sure necessary to satisfy the Kings creditors.
+
+250
+00:24:05,330 --> 00:24:10,970
+It was not sufficient. The regime needed loans to get them through until May 1789.
+
+251
+00:24:11,510 --> 00:24:16,670
+But as had happened with cat loan, Brienne was now personally becoming a sticking point.
+
+252
+00:24:17,420 --> 00:24:23,390
+On August the 16th, with credit exhaustion, were getting cut off repayment of loans and started issuing
+
+253
+00:24:23,390 --> 00:24:29,450
+pieces of paper for the amounts to plus 5% interest, collectible at some point in the future.
+
+254
+00:24:30,290 --> 00:24:33,770
+This was not a satisfactory response, and Brienne knew it.
+
+255
+00:24:34,280 --> 00:24:40,940
+But there was little he could do, beaten, tired, and now well aware that the regimes bankers were opposed
+
+256
+00:24:40,940 --> 00:24:44,510
+to him personally. He resigned on August the 25th.
+
+257
+00:24:45,380 --> 00:24:52,250
+He had spent 16 months trying to get somewhere anywhere, and instead God Himself nowhere and the kingdom
+
+258
+00:24:52,460 --> 00:25:01,290
+officially on the road to revolution. With Brienne out of the picture, there was only One man the bankers
+
+259
+00:25:01,290 --> 00:25:04,950
+would accept if the monarchy expected to see even a single lever.
+
+260
+00:25:05,640 --> 00:25:08,760
+That was of course the Swiss Wonderboy. Jacques Macare.
+
+261
+00:25:09,480 --> 00:25:15,450
+As much as the King hated it. He was forced to choose between the care and the care because there was
+
+262
+00:25:15,450 --> 00:25:21,120
+no other choice. The news that the now hated Brienne was gone and the people's banker netcare was being
+
+263
+00:25:21,120 --> 00:25:25,590
+recalled. Set off yet another wave of jubilant celebration across the kingdom.
+
+264
+00:25:26,040 --> 00:25:30,690
+This is all going fantastically, don't you think? And now we get to have a great debate over how our
+
+265
+00:25:30,690 --> 00:25:34,440
+estate should be composed. I mean, this really is the dawning of a new era.
+
+266
+00:25:35,000 --> 00:25:41,480
+And next week, we will dive into the dawning of that new era, with freedom of the press all but declared
+
+267
+00:25:41,630 --> 00:25:48,350
+France would be flooded with newspapers and pamphlets and diatribes all trying to influence public opinion
+
+268
+00:25:48,500 --> 00:25:56,810
+and sway the future of France. It was exhilarating, intoxicating, and ultimately would prove totally
+
+269
+00:25:57,110 --> 00:25:58,160
+uncontrollable.
